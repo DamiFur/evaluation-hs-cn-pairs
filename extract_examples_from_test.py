@@ -138,7 +138,7 @@ for file in glob('test_set/*.conll'):
                 prompt = get_prompt(" ".join(tweet))
                 answer = generate_answers(prompt)
                 decoded_answer = tokenizer.batch_decode(answer[0], skip_special_tokens=True)[0]
-                if model_name != "tiiuae/falcon-7b-instruct":
+                if not does_not_have_chat_interface:
                     decoded_answer = decoded_answer.split("[/INST]")[-1]
                 write_to_file(f"data/{args.model_name.split('/')[-1]}", " ".join(tweet), decoded_answer, file, 0)
                 

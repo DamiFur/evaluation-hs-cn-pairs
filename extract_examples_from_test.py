@@ -11,7 +11,7 @@ import os
 parser = argparse.ArgumentParser(description="Train models for identifying argumentative components inside the ASFOCONG dataset")
 
 parser.add_argument("--human", type=bool, default=False)
-parser.add_argument("--model_name", type=str, choices=["google/flan-t5-base", "mistralai/Mixtral-8x7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.1", "tiiuae/falcon-7b-instruct"])
+parser.add_argument("--model_name", type=str, choices=["google/flan-t5-base", "mistralai/Mixtral-8x7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.2", "tiiuae/falcon-7b-instruct"])
 parser.add_argument("--collective", type=bool, default=False)
 parser.add_argument("--justification", type=bool, default=False)
 args = parser.parse_args()

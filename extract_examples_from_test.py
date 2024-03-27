@@ -2,7 +2,7 @@ from glob import glob
 
 import argparse
 from transformers import StoppingCriteria, StoppingCriteriaList
-from transformers import AutoModelForCausalLM
+from transformers import AutoModelForCausalLM, AutoModelForSeq2SeqLM
 from transformers import AutoTokenizer, QuantoConfig
 import torch
 import argparse
@@ -31,6 +31,8 @@ class StoppingCriteriaSub(StoppingCriteria):
 if not args.human:
     model_name = args.model_name
     quantization_config = QuantoConfig(weights="int4")
+    if model_name.contains("flan-t5"):
+        model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 

@@ -18,7 +18,7 @@ args = parser.parse_args()
 class StoppingCriteriaSub(StoppingCriteria):
     def __init__(self, stops = [], encounters=1):
         super().__init__()
-        self.stops = [stop.to("cuda") for stop in stops]
+        self.stops = stops
 
     def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor):
         last_token = input_ids[0][-1]
@@ -75,9 +75,9 @@ def generate_answers(prompt, num_samples=10):
   # define some source text and tokenize it
   source_text = prompt
   if model_name == "tiiuae/falcon-7b-instruct":
-    source_ids = tokenizer(source_text, return_tensors="pt").input_ids.to("cuda")
+    source_ids = tokenizer(source_text, return_tensors="pt").input_ids
   else:
-      source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt").to("cuda")
+      source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt")
 
   gen_outputs = []
   for _ in range(num_samples):

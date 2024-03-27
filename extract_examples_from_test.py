@@ -31,7 +31,7 @@ class StoppingCriteriaSub(StoppingCriteria):
 if not args.human:
     model_name = args.model_name
     quantization_config = QuantoConfig(weights="int4")
-    if model_name.contains("flan-t5"):
+    if "flan-t5" in model_name:
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
     model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
     tokenizer = AutoTokenizer.from_pretrained(model_name)

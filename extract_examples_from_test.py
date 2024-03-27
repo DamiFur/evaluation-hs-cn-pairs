@@ -88,7 +88,7 @@ def generate_answers(prompt, num_samples=1):
   for _ in range(num_samples):
     # generate the output using beam search
     gen_output = model.generate(
-        inputs=source_ids,
+        **source_ids,
         # temperature=temperature,
         do_sample=True,
         max_new_tokens=40,

@@ -6,6 +6,7 @@ from transformers import AutoModelForCausalLM
 from transformers import AutoTokenizer, QuantoConfig
 import torch
 import argparse
+import os
 
 parser = argparse.ArgumentParser(description="Train models for identifying argumentative components inside the ASFOCONG dataset")
 
@@ -100,6 +101,14 @@ def generate_answers(prompt, num_samples=1):
 
   return gen_outputs
 
+def write_to_file(base_dir, hs, cn, file, idx):
+    with open("{}/{}_{}.json".format(base_dir, file.split('/')[-1].split('.')[0], idx), 'w') as w:
+        w.write("{\"data\": {\"text\": \"Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n" + hs.replace('\"', '\\\"') + "\n\nSe responde lo siguiente:\n\n" + cn.replace('\"', '\\\"') + "\"}}")
+
+
+if not os.path.isdir(f"data/{args.model_name.split('/')[-1]}"):
+    os.mkdir(f"data/{args.model_name.split('/')[-1]}")
+
 for file in glob('test_set/*.conll'):
     with open(file, 'r') as f:
         lines = f.readlines()
@@ -119,13 +128,16 @@ for file in glob('test_set/*.conll'):
                 with open(file.replace("conll", "cn")) as cns:
                     cns = cns.readlines()
                 for idx, cn in enumerate(cns):
-                    with open("data/human_annotated/{}_{}.json".format(file.split('/')[-1].split('.')[0], idx), 'w') as f:
-                        f.write("{\"data\": {\"text\": \"Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n" + " ".join(tweet).replace('\"', '\\\"') + "\n\nSe responde lo siguiente:\n\n" + cn.replace('\"', '\\\"') + "\"}}")
+                    write_to_file("data/human_annotated", " ".join(tweet), cn, file, idx)
             else:
                 if args.model_name == "":
                     raise ValueError("Model name must be provided")
                 prompt = get_prompt(" ".join(tweet))
                 answer = generate_answers(prompt)
-                print(tokenizer.batch_decode(answer[0], skip_special_tokens=True))
+                decoded_answer = tokenizer.batch_decode(answer[0], skip_special_tokens=True)[0]
+                if model_name != "tiiuae/falcon-7b-instruct":
+                    decoded_answer = decoded_answer.split("[/INST]")[-1]
+                write_to_file(f"data/{args.model_name.split('/')[-1]}", " ".join(tweet), decoded_answer, file, 0)
+                
                     
 

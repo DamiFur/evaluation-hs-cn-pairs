@@ -18,7 +18,7 @@ args = parser.parse_args()
 class StoppingCriteriaSub(StoppingCriteria):
     def __init__(self, stops = [], encounters=1):
         super().__init__()
-        self.stops = stops
+        self.stops = [stop.to("cuda") for stop in stops]
 
     def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor):
         last_token = input_ids[0][-1]
@@ -30,6 +30,7 @@ class StoppingCriteriaSub(StoppingCriteria):
 if not args.human:
     model_name = args.model_name
     model = AutoModelForCausalLM.from_pretrained(model_name)
+    model.to("cuda")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     if model_name == "tiiuae/falcon-7b-instruct":
@@ -75,9 +76,9 @@ def generate_answers(prompt, num_samples=10):
   # define some source text and tokenize it
   source_text = prompt
   if model_name == "tiiuae/falcon-7b-instruct":
-    source_ids = tokenizer(source_text, return_tensors="pt").input_ids
+    source_ids = tokenizer(source_text, return_tensors="pt").input_ids.to("cuda")
   else:
-      source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt")
+      source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt").to("cuda")
 
   gen_outputs = []
   for _ in range(num_samples):
@@ -110,7 +111,6 @@ for file in glob('test_set/*.conll'):
                 noarg = True
                 break
             tweet.append(line_split[0])
-        print(file)
         if noarg:
             continue
         else:

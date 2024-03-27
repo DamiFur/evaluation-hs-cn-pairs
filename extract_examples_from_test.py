@@ -96,9 +96,9 @@ def generate_answers(prompt, num_samples=1):
         no_repeat_ngram_size=2,
         num_return_sequences=1, # only show top beams
         # early_stopping=True,
-        stopping_criteria=stopping_criteria,
-        eos_token_id=tokenizer.eos_token_id,
-        pad_token_id=tokenizer.eos_token_id,
+        # stopping_criteria=stopping_criteria,
+        # eos_token_id=tokenizer.eos_token_id,
+        # pad_token_id=tokenizer.eos_token_id,
     )
     print("-----------------")
     print(gen_output)

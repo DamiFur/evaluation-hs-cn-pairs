@@ -33,7 +33,8 @@ if not args.human:
     quantization_config = QuantoConfig(weights="int4")
     if "flan-t5" in model_name:
         model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
+    else:
+        model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     if model_name == "tiiuae/falcon-7b-instruct":

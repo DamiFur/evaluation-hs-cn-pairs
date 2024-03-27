@@ -43,9 +43,8 @@ if not args.human:
         stop_words = [".", "]", "']", "']\n", "\n", "]\n", "\n\n", "']\n\n", "</s>"]
     stop_words_ids = [tokenizer(stop_word, return_tensors='pt', add_special_tokens=False)['input_ids'].squeeze() for stop_word in stop_words]
     stopping_criteria = StoppingCriteriaList([StoppingCriteriaSub(stops=stop_words_ids)])
-
+does_not_have_chat_interface = model_name == "tiiuae/falcon-7b-instruct" or model_name == "google/flan-t5-base"
 def get_prompt(hs, collective="", property="", justification="", conclusion=""):
-    does_not_have_chat_interface = model_name == "tiiuae/falcon-7b-instruct" or model_name == "google/flan-t5-base"
     if justification != "":
         if does_not_have_chat_interface:
             return f"Genera una respuesta contraria al racismo y la xenofobia de de odio:\n'¿esto podría explicar el brutismo caribeño y el subsahariano? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings' | Justificación del argumento: extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings  | Conclusión: ¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación?' -> Respuesta: 'Es difícil que algo tenga relación con algún estudio de internet completamente descontextualizado...'\n 'llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde' | Justificación del argumento: 'llegan 900 venezolanos por día al perú' y 'qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema' | Conclusión: 'cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ?' y 'solo reaccionarán cuando esto se desborde'  -> Respuesta: 'Estás siendo paranoico. No se va a desbordar, y es por eso que no hace falta ponerle coto y fin'\n '{args.hs}' | Justificación del argumento: '{args.justification}' | Conclusión: '{args.conclusion}'  -> Respuesta: "
@@ -80,7 +79,7 @@ def get_prompt(hs, collective="", property="", justification="", conclusion=""):
 def generate_answers(prompt, num_samples=1):
   # define some source text and tokenize it
   source_text = prompt
-  if model_name == "tiiuae/falcon-7b-instruct":
+  if does_not_have_chat_interface:
     source_ids = tokenizer(source_text, return_tensors="pt").input_ids.to("cuda")
   else:
       source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt").to("cuda")

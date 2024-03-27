@@ -29,9 +29,8 @@ class StoppingCriteriaSub(StoppingCriteria):
 
 if not args.human:
     model_name = args.model_name
-    quantization_config = QuantoConfig(weights="int8")
+    quantization_config = QuantoConfig(weights="int4")
     model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
-    model.to("cuda")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     if model_name == "tiiuae/falcon-7b-instruct":

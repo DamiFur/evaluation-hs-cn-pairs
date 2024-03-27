@@ -80,7 +80,7 @@ def generate_answers(prompt, num_samples=1):
   # define some source text and tokenize it
   source_text = prompt
   if does_not_have_chat_interface:
-    source_ids = tokenizer(source_text, return_tensors="pt").input_ids.to("cuda")
+    source_ids = tokenizer(source_text, return_tensors="pt")
   else:
       source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt").to("cuda")
 

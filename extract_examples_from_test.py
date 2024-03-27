@@ -73,7 +73,7 @@ def get_prompt(hs, collective="", property="", justification="", conclusion=""):
             {"role": "user", "content": f"{hs}"}
         ]
 
-def generate_answers(prompt, num_samples=10):
+def generate_answers(prompt, num_samples=1):
   # define some source text and tokenize it
   source_text = prompt
   if model_name == "tiiuae/falcon-7b-instruct":
@@ -89,7 +89,7 @@ def generate_answers(prompt, num_samples=10):
         # temperature=temperature,
         do_sample=True,
         max_new_tokens=40,
-        num_beams=4,
+        num_beams=2,
         no_repeat_ngram_size=2,
         num_return_sequences=1, # only show top beams
         # early_stopping=True,

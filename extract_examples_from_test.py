@@ -100,6 +100,8 @@ def generate_answers(prompt, num_samples=1):
         eos_token_id=tokenizer.eos_token_id,
         pad_token_id=tokenizer.eos_token_id,
     )
+    print("-----------------")
+    print(gen_output)
     gen_outputs.append(gen_output)
 
   return gen_outputs

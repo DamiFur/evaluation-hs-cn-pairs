@@ -11,7 +11,7 @@ import os
 parser = argparse.ArgumentParser(description="Train models for identifying argumentative components inside the ASFOCONG dataset")
 
 parser.add_argument("--human", type=bool, default=False)
-parser.add_argument("--model_name", type=str, choices=["google/flan-t5-base", "mistralai/Mixtral-8x7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.2", "tiiuae/falcon-7b-instruct"])
+parser.add_argument("--model_name", type=str, choices=["google/flan-t5-base", "google/flan-t5-xl", "google/flan-t5-large", "mistralai/Mixtral-8x7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.1", "mistralai/Mistral-7B-Instruct-v0.2", "tiiuae/falcon-7b-instruct"])
 parser.add_argument("--collective", type=bool, default=False)
 parser.add_argument("--justification", type=bool, default=False)
 args = parser.parse_args()
@@ -43,7 +43,7 @@ if not args.human:
         stop_words = [".", "]", "']", "']\n", "\n", "]\n", "\n\n", "']\n\n", "</s>"]
     stop_words_ids = [tokenizer(stop_word, return_tensors='pt', add_special_tokens=False)['input_ids'].squeeze() for stop_word in stop_words]
     stopping_criteria = StoppingCriteriaList([StoppingCriteriaSub(stops=stop_words_ids)])
-does_not_have_chat_interface = model_name == "tiiuae/falcon-7b-instruct" or model_name == "google/flan-t5-base"
+does_not_have_chat_interface = model_name == "tiiuae/falcon-7b-instruct" or "flan-t5" in model_name
 def get_prompt(hs, collective="", property="", justification="", conclusion=""):
     if justification != "":
         if does_not_have_chat_interface:
@@ -87,21 +87,30 @@ def generate_answers(prompt, num_samples=1):
   gen_outputs = []
   for _ in range(num_samples):
     # generate the output using beam search
-    gen_output = model.generate(
-        inputs=source_ids,
-        # temperature=temperature,
-        do_sample=True,
-        max_new_tokens=40,
-        num_beams=4,
-        no_repeat_ngram_size=2,
-        num_return_sequences=1, # only show top beams
-        # early_stopping=True,
-        # stopping_criteria=stopping_criteria,
-        # eos_token_id=tokenizer.eos_token_id,
-        # pad_token_id=tokenizer.eos_token_id,
-    )
-    print("-----------------")
-    print(gen_output)
+    if does_not_have_chat_interface:
+        gen_output = model.generate(
+            inputs=source_ids,
+            # temperature=temperature,
+            do_sample=True,
+            max_new_tokens=40,
+            num_beams=4,
+            no_repeat_ngram_size=2,
+            num_return_sequences=1, # only show top beams
+        )
+    else:
+        gen_output = model.generate(
+            inputs=source_ids,
+            # temperature=temperature,
+            do_sample=True,
+            max_new_tokens=40,
+            num_beams=4,
+            no_repeat_ngram_size=2,
+            num_return_sequences=1, # only show top beams
+            # early_stopping=True,
+            stopping_criteria=stopping_criteria,
+            eos_token_id=tokenizer.eos_token_id,
+            pad_token_id=tokenizer.eos_token_id,
+        )
     gen_outputs.append(gen_output)
 
   return gen_outputs

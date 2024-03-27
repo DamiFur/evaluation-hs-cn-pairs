@@ -80,7 +80,7 @@ def generate_answers(prompt, num_samples=1):
   # define some source text and tokenize it
   source_text = prompt
   if does_not_have_chat_interface:
-    source_ids = tokenizer(source_text, return_tensors="pt").to("cuda")
+    source_ids = tokenizer(source_text, return_tensors="pt").input_ids.to("cuda")
   else:
       source_ids = tokenizer.apply_chat_template(prompt, return_tensors="pt").to("cuda")
 
@@ -88,11 +88,11 @@ def generate_answers(prompt, num_samples=1):
   for _ in range(num_samples):
     # generate the output using beam search
     gen_output = model.generate(
-        **source_ids,
+        inputs=source_ids,
         # temperature=temperature,
         do_sample=True,
         max_new_tokens=40,
-        num_beams=2,
+        num_beams=4,
         no_repeat_ngram_size=2,
         num_return_sequences=1, # only show top beams
         # early_stopping=True,
@@ -100,7 +100,6 @@ def generate_answers(prompt, num_samples=1):
         eos_token_id=tokenizer.eos_token_id,
         pad_token_id=tokenizer.eos_token_id,
     )
-    print(source_text)
     print("-----------------")
     print(gen_output)
     gen_outputs.append(gen_output)

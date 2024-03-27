@@ -3,7 +3,7 @@ from glob import glob
 import argparse
 from transformers import StoppingCriteria, StoppingCriteriaList
 from transformers import AutoModelForCausalLM
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, QuantoConfig
 import torch
 import argparse
 
@@ -29,7 +29,8 @@ class StoppingCriteriaSub(StoppingCriteria):
 
 if not args.human:
     model_name = args.model_name
-    model = AutoModelForCausalLM.from_pretrained(model_name)
+    quantization_config = QuantoConfig(weights="int8")
+    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda:0", quantization_config=quantization_config)
     model.to("cuda")
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 

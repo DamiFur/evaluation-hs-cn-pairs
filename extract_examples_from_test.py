@@ -119,9 +119,16 @@ def write_to_file(base_dir, hs, cn, file, idx):
     with open("{}/{}_{}.json".format(base_dir, file.split('/')[-1].split('.')[0], idx), 'w') as w:
         w.write("{\"data\": {\"text\": \"Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n" + hs.replace('\"', '\\\"') + "\n\nSe responde lo siguiente:\n\n" + cn.replace('\"', '\\\"') + "\"}}")
 
-
-if not os.path.isdir(f"data/{args.model_name.split('/')[-1]}"):
-    os.mkdir(f"data/{args.model_name.split('/')[-1]}")
+suffix = ""
+if args.collective and args.justification:
+    suffix = "_all"
+elif args.collective:
+    suffix = "_collective"
+elif args.justification:
+    suffix = "_justification"
+output_folder = f"data/{args.model_name.split('/')[-1]}{suffix}"
+if not os.path.isdir(output_folder):
+    os.mkdir(output_folder)
 
 for file in glob('test_set/*.conll'):
     with open(file, 'r') as f:
@@ -165,14 +172,7 @@ for file in glob('test_set/*.conll'):
                 decoded_answer = tokenizer.batch_decode(answer[0], skip_special_tokens=True)[0]
                 if not does_not_have_chat_interface:
                     decoded_answer = decoded_answer.split("[/INST]")[-1]
-                suffix = ""
-                if args.collective and args.justification:
-                    suffix = "_all"
-                elif args.collective:
-                    suffix = "_collective"
-                elif args.justification:
-                    suffix = "_justification"
-                write_to_file(f"data/{args.model_name.split('/')[-1]}{suffix}", " ".join(tweet), decoded_answer, file, 0)
+                write_to_file(output_folder, " ".join(tweet), decoded_answer, file, 0)
                 
                     
 

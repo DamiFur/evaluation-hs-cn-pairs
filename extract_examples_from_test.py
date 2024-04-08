@@ -165,7 +165,14 @@ for file in glob('test_set/*.conll'):
                 decoded_answer = tokenizer.batch_decode(answer[0], skip_special_tokens=True)[0]
                 if not does_not_have_chat_interface:
                     decoded_answer = decoded_answer.split("[/INST]")[-1]
-                write_to_file(f"data/{args.model_name.split('/')[-1]}", " ".join(tweet), decoded_answer, file, 0)
+                suffix = ""
+                if args.collective and args.justification:
+                    suffix = "_all"
+                elif args.collective:
+                    suffix = "_collective"
+                elif args.justification:
+                    suffix = "_justification"
+                write_to_file(f"data/{args.model_name.split('/')[-1]}{suffix}", " ".join(tweet), decoded_answer, file, 0)
                 
                     
 

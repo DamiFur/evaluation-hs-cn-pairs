@@ -128,12 +128,26 @@ for file in glob('test_set/*.conll'):
         lines = f.readlines()
         noarg = False
         tweet = []
+        collective = []
+        property = []
+        justification = []
+        conclusion = []
         for line in lines:
             line_split = line.split('\t')
             if len(line_split) < 2 or line_split[1] == 'NoArgumentative':
                 noarg = True
                 break
             tweet.append(line_split[0])
+            if args.collective:
+                if line_split[4] == 'Collective':
+                    collective.append(line_split[0])
+                if line_split[5] == 'Property':
+                    property.append(line_split[0])
+            if args.justification:
+                if line_split[2] == 'Premise2Justification':
+                    justification.append(line_split[0])
+                if line_split[3] == 'Premise1Conclusion':
+                    conclusion.append(line_split[0])
         if noarg:
             continue
         else:
@@ -146,7 +160,7 @@ for file in glob('test_set/*.conll'):
             else:
                 if args.model_name == "":
                     raise ValueError("Model name must be provided")
-                prompt = get_prompt(" ".join(tweet))
+                prompt = get_prompt(" ".join(tweet), collective=" ".join(collective), property=" ".join(property), justification=" ".join(justification), conclusion=" ".join(conclusion))
                 answer = generate_answers(prompt)
                 decoded_answer = tokenizer.batch_decode(answer[0], skip_special_tokens=True)[0]
                 if not does_not_have_chat_interface:

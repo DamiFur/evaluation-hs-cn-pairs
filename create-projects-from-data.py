@@ -48,7 +48,7 @@ TEMPLATE = """<View>
     <Header value="La respuesta generada ¿elabora contenido *nuevo y específico* respecto al mensaje de odio?"/>
     <Choices name="specificity" toName="text"
              choice="single" showInLine="true">
-      <Choice value="No elabora argumentos o información nueva y es genérica"/>
+      <Choice value="No elabora argumentos o información nueva, es una respuesta genérica"/>
       <Choice value="No elabora argumentos o información nueva pero es específica porque repite parte del mensaje tomando posición"/>
       <Choice value="Es una respuesta específica que elabora contenido nuevo a partir del contenido del mensaje de odio que responde"/>
     </Choices>
@@ -64,16 +64,27 @@ TEMPLATE = """<View>
       <Choice value="Aporta datos puntuales creibles que uno podría constatar con mayor o menor esfuerzo utilizando información pública"/>
     </Choices>
   </View>
-    <View style="box-shadow: 2px 2px 5px #999;
-               padding: 20px; margin-top: 2em;
-               border-radius: 5px;">
-    <Header value="La respuesta ¿se entiende fácil?"/>
-    <Choices name="inteligibility" toName="text"
-             choice="single" showInLine="true">
-      <Choice value="No se entiende lo que quiere decir"/>
-      <Choice value="Se entiende el sentido pero parece poco natural o poco humano"/>
-      <Choice value="Se entiende el sentido, es fácil de entender y fluye bien"/>
-    </Choices>
+  <View style="box-shadow: 2px 2px 5px #999;
+             padding: 20px; margin-top: 2em;
+             border-radius: 5px;">
+  <Header value="La respuesta ¿se entiende fácilmente?"/>
+  <Choices name="inteligibility" toName="text"
+           choice="single" showInLine="true">
+    <Choice value="No se entiende lo que quiere decir"/>
+    <Choice value="Se entiende el sentido pero parece poco natural o poco humano"/>
+    <Choice value="Se entiende el sentido, es fácil de entender y fluye bien"/>
+  </Choices>
+  </View>
+  <View style="box-shadow: 2px 2px 5px #999;
+             padding: 20px; margin-top: 2em;
+             border-radius: 5px;">
+  <Header value="Esta respuesta, ¿te parece que recurre a la emoción para tratar de convencer?"/>
+  <Choices name="inteligibility" toName="text"
+           choice="single" showInLine="true">
+    <Choice value="Recurre a una o más emociones para tratar de convencer y las menciona explicitamente"/>
+    <Choice value="Evoca a emociones implicitamente sin mencionarlas"/>
+    <Choice value="No evoca a ninguna emoción"/>
+  </Choices>
   </View>
 </View>
 

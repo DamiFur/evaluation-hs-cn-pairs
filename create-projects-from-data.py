@@ -79,7 +79,7 @@ TEMPLATE = """<View>
              padding: 20px; margin-top: 2em;
              border-radius: 5px;">
   <Header value="Esta respuesta, ¿te parece que recurre a la emoción para tratar de convencer?"/>
-  <Choices name="inteligibility" toName="text"
+  <Choices name="emotion" toName="text"
            choice="single" showInLine="true">
     <Choice value="Recurre a una o más emociones para tratar de convencer y las menciona explicitamente"/>
     <Choice value="Evoca a emociones implicitamente sin mencionarlas"/>

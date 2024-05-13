@@ -86,6 +86,18 @@ TEMPLATE = """<View>
     <Choice value="No evoca a ninguna emoción"/>
   </Choices>
   </View>
+  <Text name="comparison_text_complete" value="$comparison_text_complete"/>
+  <View style="box-shadow: 2px 2px 5px #999;
+             padding: 20px; margin-top: 2em;
+             border-radius: 5px;">
+  <Header value="Esta nueva respuesta, ¿te parece mejor o peor que la anterior?"/>
+  <Choices name="comparison" toName="text"
+           choice="single" showInLine="true">
+    <Choice value="Mejor"/>
+    <Choice value="Está al mismo nivel"/>
+    <Choice value="Peor"/>
+  </Choices>
+  </View>
 </View>
 
 <!-- {
@@ -94,7 +106,7 @@ TEMPLATE = """<View>
 """
 
 filenames= []
-for folders in glob('data/*'):
+for folders in glob('data/data_json_with_comparison/*'):
     for filename in glob(folders + '/*.json'):
         filenames.append(filename)
 

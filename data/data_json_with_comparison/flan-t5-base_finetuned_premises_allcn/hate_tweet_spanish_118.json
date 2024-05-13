@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\nNo es cierto que los inmigrantes o los envecos han entrado solos desde marruecos. Por qué? ",
         "number": "118",
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "No es cierto que los inmigrantes o los envecos han entrado solos desde marruecos. Por qué? ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "Es injusto asignarle la intención de \\\"invasión\\\" a todos los migrantes, especialmente niños, que buscan refugio en España.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_text": "No es cierto que los inmigrantes son enviados para invadir españa. ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
     }
 }

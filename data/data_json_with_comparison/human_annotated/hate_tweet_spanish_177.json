@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nPues no, no es porque sean \\\\\"sudacas\\\\\", sino porque sus circunstancias materiales son diferentes.",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Pues no, no es porque sean \\\"sudacas\\\", sino porque sus circunstancias materiales son diferentes.",
         "model": "human_annotated",
-        "comparison_text": "Este tweet no proporciona suficientes datos para llegar a una conclusión válida.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "Este comentario es discriminatorio y se basa en estereotipos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

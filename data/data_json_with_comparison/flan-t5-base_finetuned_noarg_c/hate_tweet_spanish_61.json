@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\natención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn\n\nSe responde lo siguiente:\n\nPor qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. ",
         "number": "61",
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "Por qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Dudo que las elecciones puedan cambiar algo. Esas políticas están reguladas por leyes, no por el capricho del gobierno de turno, y esta bien que así sea. ",
-        "comparison_model": "human_annotated"
+        "comparison_text": "Este tweet no tiene sentido y contiene información falsa.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

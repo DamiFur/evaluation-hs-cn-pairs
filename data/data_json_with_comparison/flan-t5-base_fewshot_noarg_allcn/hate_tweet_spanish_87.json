@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\\\"\\\\\"lindos negritos visitantes\\\\\"\\\\\" estén estreñidos https://t co/mpuxy1wxnm\\\\\"\n\nSe responde lo siguiente:\n\n\\\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\\\"\\\\\"lindos negros visitantes\\\\\"\\\\\" estén estreñidos",
         "number": "87",
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_text": "Es vergonzoso y despreciable promover ideas de odio y discriminación hacia las personas de otras nacionalidades o razas. Debemos promover la igualdad y el respeto hacia todos, sin importar su origen. No hay lugar para la discriminación en nuestra sociedad.",
+        "comparison_model": "gpt3.5_collective"
     }
 }

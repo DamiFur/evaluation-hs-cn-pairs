@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nsbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel a su país",
         "number": "101",
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "sbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel a su país",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país. No hay que deportar a nadie.",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_text": "Eres incorrecto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1"
     }
 }

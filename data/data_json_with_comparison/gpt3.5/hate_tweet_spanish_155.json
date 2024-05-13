@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\nNo hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
         "number": "155",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "No hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
         "model": "gpt3.5",
-        "comparison_text": "No hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los nios han abusado en el lugar de la nacionalidad. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

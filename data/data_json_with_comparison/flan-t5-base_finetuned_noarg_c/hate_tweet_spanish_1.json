@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\na ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu\n\nSe responde lo siguiente:\n\nPor qué eso es cierto? ",
         "number": "1",
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Por qué eso es cierto? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Pues sería una lastima que el resultado de las elecciones cambie tanto por aceptar a algunos inmigrantes. Hablaría muy mal de la sociedad.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "It's important to note that the link provided doesn't seem to be working properly.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\nPor qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. ",
         "number": "94",
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Por qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Se puede regular la actividad de los manteros sin tener que deportar a nadie. No hay que ser tan drásticos. No es necesario.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "No estoy de acuerdo con el uso injustificado de la palabra \\\"manterismo\\\" y su aplicación en este contexto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

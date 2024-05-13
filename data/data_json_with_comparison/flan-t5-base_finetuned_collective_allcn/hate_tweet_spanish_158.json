@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nNo es cierto que la cultura árabe es una cultura machista. Y qué? ",
         "number": "158",
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "No es cierto que la cultura árabe es una cultura machista. Y qué? ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "'Saben que estás paranoico. No te lo digo, y por eso no hace falta ponerle coto",
-        "comparison_model": "flan-t5-base"
+        "comparison_text": "| Justification: te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
     }
 }

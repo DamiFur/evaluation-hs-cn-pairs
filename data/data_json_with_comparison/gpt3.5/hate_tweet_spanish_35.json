@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nNo se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir.",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "No se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir.",
         "model": "gpt3.5",
-        "comparison_text": "No se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los manteros atacan a turistas y hay reyertas en el raval adolescente. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

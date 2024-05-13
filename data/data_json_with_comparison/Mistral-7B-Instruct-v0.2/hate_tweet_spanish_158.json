@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nLo siento, pero no puedo confirmar esa afirmación específica sobre una hashrag o una persona en particular.",
         "number": "158",
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "Lo siento, pero no puedo confirmar esa afirmación específica sobre una hashrag o una persona en particular.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No se puede generalizar ni estereotipar a toda una cultura por las acciones de algunas personas. Cada individuo es único y merece ser juzgado por sus actos individuales, no por su origen cultural. La cultura árabe es diversa y rica en tradiciones, y no se puede reducir a ser etiquetada como \\\"cultura machista\\\" sin considerar el contexto y la pluralidad de experiencias dentro de esa cultura.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "No es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

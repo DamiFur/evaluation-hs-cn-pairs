@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nNo es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. ",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "No es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "<extra_id_69> Y eso no es cierto que los hombres atacan a los turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues es indefinido.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "El hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

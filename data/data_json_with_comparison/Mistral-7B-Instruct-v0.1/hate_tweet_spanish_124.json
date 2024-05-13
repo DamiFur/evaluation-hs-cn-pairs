@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nTu comentario es discriminatorio y deberías sentir lo mal que te hace.",
         "number": "124",
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "Tu comentario es discriminatorio y deberías sentir lo mal que te hace.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "Este comentario es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Es una lástima que existan personas con mentalidad tan cerrada y llena de prejuicios. La diversidad cultural y el respeto hacia todas las personas, sin importar su género, raza o condición social, es lo que enriquece a la humanidad. Debemos rechazar cualquier forma de discriminación y trabajar juntos para construir un mundo más inclusivo y tolerante.",
+        "comparison_model": "gpt3.5_all"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nEn todos lados hay gente que rechaza lo nuevo, pero la tendencia general es hacia el progreso, y no en su contra.",
         "number": "124_2",
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "En todos lados hay gente que rechaza lo nuevo, pero la tendencia general es hacia el progreso, y no en su contra.",
         "model": "human_annotated",
-        "comparison_text": "No entiendo por qué estás mezclando temas tan diferentes y asociándolos con la raza o la cultura.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "La India de Gandhi es un país con una rica cultura y diversidad de pueblos y religiones.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

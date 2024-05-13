@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nTe estoy preguntando, ¿qué significa \\\\\"para tanto\\\\\"? ¿Qué quieres decir?",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Te estoy preguntando, ¿qué significa \\\"para tanto\\\"? ¿Qué quieres decir?",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "No es correcto afirmar que todos los que te intentan hacer uso de un turban de origen árabe son negros, pero no lo suficiente.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_text": "No debes preocuparte de lo que quieran hacer tus detractores.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
     }
 }

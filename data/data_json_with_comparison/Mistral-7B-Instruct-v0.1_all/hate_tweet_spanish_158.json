@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nNo es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas",
         "number": "158",
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "No es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "| Justification: te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_text": "user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe | Justification: te lo digo xq me ha pasado lo mismo @user",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

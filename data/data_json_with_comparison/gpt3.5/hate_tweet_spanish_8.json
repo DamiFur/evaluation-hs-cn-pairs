@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk\n\nSe responde lo siguiente:\n\nEs lamentable que aún haya personas que justifiquen la violencia de género con excusas racistas. Nadie merece ser maltratado, independientemente de su origen étnico.",
         "number": "8",
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "Es lamentable que aún haya personas que justifiquen la violencia de género con excusas racistas. Nadie merece ser maltratado, independientemente de su origen étnico.",
         "model": "gpt3.5",
-        "comparison_text": "Es lamentable que aún haya personas que justifiquen la violencia de género con excusas racistas. Nadie merece ser maltratado, independientemente de su origen étnico.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los árabes tienen ninguna razón. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

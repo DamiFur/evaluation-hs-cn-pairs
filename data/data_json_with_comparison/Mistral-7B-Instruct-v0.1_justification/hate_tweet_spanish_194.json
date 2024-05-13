@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\\\"\\\\\"no tienen dinero\\\\\"\\\\\" \\\\\"\\\\\"porque van en busca de una vida mejor\\\\\"\\\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\\\"\n\nSe responde lo siguiente:\n\nLa violencia no tiene nada que ver con el país de origen de las personas involucradas.",
         "number": "194",
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "La violencia no tiene nada que ver con el país de origen de las personas involucradas.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que los sudacas y centroamirdicanos son violentos. No tienen dinero, no tienen nada. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_text": "<extra_id_61> No es cierto que los sudacos y centroamirdicanos son ilegales, y eso no es lo que es que los violentos pasan por mi país, porque no tienen dinero, porque van en busca de una vida mejor.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nNo es cierto que los asiaticos devastados por la guerra tienen estructura que chilito cosas sudacas. ",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "No es cierto que los asiaticos devastados por la guerra tienen estructura que chilito cosas sudacas. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "'Estás paranoico. No se va a desbordar, y por eso no hace falta ponerle coto o fin'",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "Este tweet no está relacionado con tu pregunta.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

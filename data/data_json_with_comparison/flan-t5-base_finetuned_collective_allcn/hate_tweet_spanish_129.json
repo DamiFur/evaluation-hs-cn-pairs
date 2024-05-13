@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nNo es cierto que algo se puede en el país es caos organizado surrealista. ",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "No es cierto que algo se puede en el país es caos organizado surrealista. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "'Is difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
-        "comparison_model": "flan-t5-base"
+        "comparison_text": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando apostura antiinmigración no significa que acoperlos sera un error, ni que los demás países estén de acuerdo con ello.",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
     }
 }

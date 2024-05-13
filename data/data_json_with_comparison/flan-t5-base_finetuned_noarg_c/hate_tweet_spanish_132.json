@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nPor qué estás invado por los subsaharianos? ",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Por qué estás invado por los subsaharianos? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "Este tweet contiene una mezcla de temas irracionales y ofensivos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

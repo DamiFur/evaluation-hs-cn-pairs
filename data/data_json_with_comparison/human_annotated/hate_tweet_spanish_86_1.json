@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\nLo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?",
         "number": "86_1",
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "Lo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?",
         "model": "human_annotated",
-        "comparison_text": "Mis palabras anteriores fueron equivocadas debido a mi falible comprensión del contexto.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

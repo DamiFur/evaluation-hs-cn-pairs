@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\nNo es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. ",
         "number": "146",
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "No es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "<extra_id_48> El sistema alimentario tiene especulación de precios impuestos por los chinos turcos, esos chinos son chinos del mundo. No es cierto que el chinos turko, el colombiano y los turcos tienen ningn problema. <extra_id_69>",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

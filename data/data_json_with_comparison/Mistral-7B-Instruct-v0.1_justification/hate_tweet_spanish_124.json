@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nEste comentario es altamente ofensivo y discriminatorio.",
         "number": "124",
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "Este comentario es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que los animales y las mujeres son razas dominadas por un libro. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_text": "<extra_id_48> La gente es el nio, y eso es una raza dominada, esa es la raza en que los árabes son razas dominadas, y la gente sean racionalmente dominadas como los animales, las mujeres, el pobre. No es necesario que las agricultores y los pobres sean dominados, pero no es decir, que ese país tiene ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
     }
 }

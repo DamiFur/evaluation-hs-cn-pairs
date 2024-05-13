@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo es necesario.",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es necesario.",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Conclusión: soy negro pero tampoco para tanto",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_text": "Soy un modelo de lenguaje y no puedo crear sentimientos o motivaciones.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1"
     }
 }

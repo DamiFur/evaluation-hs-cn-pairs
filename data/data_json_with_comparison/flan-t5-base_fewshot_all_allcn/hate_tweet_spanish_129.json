@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nen el perú es el caos organizado surrealista subsahariano nuestra realidad",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "en el perú es el caos organizado surrealista subsahariano nuestra realidad",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "No es cierto que algo se puede en el país es caos organizado surrealista. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_text": "Nuestra realidad es diversa y enriquecedora, no se trata de caos organizado subsahariano. El Perú es un país con una cultura rica y variada, no hay nada que se esté pudriendo.",
+        "comparison_model": "gpt3.5_justification"
     }
 }

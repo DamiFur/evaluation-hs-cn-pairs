@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\nPor qué eso es cierto que el nmero de nios han encontrado en españa solo desde marruecos? ",
         "number": "118",
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "Por qué eso es cierto que el nmero de nios han encontrado en españa solo desde marruecos? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "¿Quién puede tener un proyecto a tan largo plazo para invadir España, como para enviar menores de edad? No tiene sentido.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "No hay suficientes datos o contexto en el enlace proporcionado para determinar con certeza las intenciones o motivos detrás de la migr",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

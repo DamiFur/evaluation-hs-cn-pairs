@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\n<extra_id_48> El imperio romano es el imperio europeo, y eso no es una razón para destruir la imperio romana, y no tiene nada en el mundo. No hay nada de inmigrantes, ni nada de nios. No tiene que encontrar esas razones. No puede destruicar la imperio Romano, no puede. <extra_id_69>",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "<extra_id_48> El imperio romano es el imperio europeo, y eso no es una razón para destruir la imperio romana, y no tiene nada en el mundo. No hay nada de inmigrantes, ni nada de nios. No tiene que encontrar esas razones. No puede destruicar la imperio Romano, no puede. <extra_id_69>",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "Esa mentalidad xenófoba y conspirativa solo perpetúa el odio y la división. La inmigración no es una estrategia para atacar a Europa, sino una búsqueda de mejores oportunidades y una vida digna. Hay que combatir el racismo y la xenofobia en lugar de alimentarlo.",
+        "comparison_model": "gpt3.5"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nEste punto de vista es racista y discriminatorio.",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Este punto de vista es racista y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "the inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

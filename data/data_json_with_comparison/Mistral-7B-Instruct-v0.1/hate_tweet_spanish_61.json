@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\natención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn\n\nSe responde lo siguiente:\n\nEsta información es falsa y se basa en una fuente no confiable.",
         "number": "61",
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "Esta información es falsa y se basa en una fuente no confiable.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "Este mensaje parece estar promoviendo un punto de vista extremo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Todos merecen ser acogidos y respetados, la xenofobia y el miedo solo generan división y desconfianza. Hay que rechazar cualquier tipo de discurso que promueva el odio. Hashtag AcogidaSolidaria.",
+        "comparison_model": "gpt3.5_all"
     }
 }

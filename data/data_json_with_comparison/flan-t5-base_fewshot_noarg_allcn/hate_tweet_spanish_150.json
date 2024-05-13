@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nThe subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable.",
         "number": "150",
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "The subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "No es correcto afirmar que todos los personas de subsáharin son los que se asocian con la inseguridad del sistema pensionado y que su único objetivo",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_text": "No podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
+        "comparison_model": "gpt3.5_collective"
     }
 }

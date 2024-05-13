@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nNo es cierto que son españoles nada sin fueran refugiados gloria. ",
         "number": "101",
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "No es cierto que son españoles nada sin fueran refugiados gloria. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "No es cierto. Se puede atender a unos sin descuidar a otros.",
-        "comparison_model": "human_annotated"
+        "comparison_text": " La etnia española no depende de si alguna persona o grupo de personas han buscadorefugio en el pasado.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

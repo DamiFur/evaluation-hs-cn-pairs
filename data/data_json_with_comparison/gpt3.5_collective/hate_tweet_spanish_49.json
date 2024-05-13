@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg\n\nSe responde lo siguiente:\n\nEs completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad.",
         "number": "49",
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "Es completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad.",
         "model": "gpt3.5_collective",
-        "comparison_text": " Es importante recordar que generalizaciones sobre etnias o nacionalidades son incorrectas y ofensivas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "La adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

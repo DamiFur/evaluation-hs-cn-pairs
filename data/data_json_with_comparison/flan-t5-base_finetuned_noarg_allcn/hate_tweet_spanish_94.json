@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\nNo es cierto que los turistas y polticos obligan a obligar a la gente sin papeles. ",
         "number": "94",
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "No es cierto que los turistas y polticos obligan a obligar a la gente sin papeles. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "Mis palabras: No apoyo la violencia contra inocentes personas, incluidos viajeros y policías.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

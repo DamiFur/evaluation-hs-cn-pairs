@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nEl hecho de que un lugar proporcione albergue a personas que han huido de sus países de origen no justifica la violencia o el ataque a ellos.",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "El hecho de que un lugar proporcione albergue a personas que han huido de sus países de origen no justifica la violencia o el ataque a ellos.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "La situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_text": "Los manTERos no son una entidad homogénea, no todos actúan de la misma forma.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
     }
 }

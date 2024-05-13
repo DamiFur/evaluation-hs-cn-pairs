@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\nNo es cierto que los inmigrantes o los enviados a invadir españa. ",
         "number": "118",
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "No es cierto que los inmigrantes o los enviados a invadir españa. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "<extra_id_75> Por qué es cierto que los inmigrantes en el mundo tienen que encontrar esos nios? No, no hay inmigrantes, ni ni siquiera tienen nada?",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "No es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

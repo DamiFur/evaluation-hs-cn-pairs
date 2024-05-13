@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\nPor qué eso no es cierto? No es un problema. ",
         "number": "130",
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "Por qué eso no es cierto? No es un problema. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Es dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "No estoy aquí para justificar o negar crímenes cometidos en Europa o en ningún otro lugar.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

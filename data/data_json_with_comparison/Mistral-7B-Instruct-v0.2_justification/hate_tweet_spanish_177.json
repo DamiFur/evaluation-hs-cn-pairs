@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nEste tweet no proporciona suficiente contexto ni información relevante para hacer una afirmación contra la racismo o xenoﬁoba.",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Este tweet no proporciona suficiente contexto ni información relevante para hacer una afirmación contra la racismo o xenoﬁoba.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_text": "No es cierto que los asiaticos devastados por la guerra tienen mejor estructura que chilito. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
     }
 }

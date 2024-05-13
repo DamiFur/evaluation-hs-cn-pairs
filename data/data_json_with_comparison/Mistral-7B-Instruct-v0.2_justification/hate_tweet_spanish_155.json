@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\nEste comentario es ofensivo y carece de contexto.",
         "number": "155",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "Este comentario es ofensivo y carece de contexto.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No está bien etiquetar a un colectivo entero por las acciones de unos pocos individuos. No todos los moros son abusadores, así como no todos los españoles lo son. La generalización solo promueve la xenofobia y el odio.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_text": "No es cierto que los nios han abusado en el trabajo. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
     }
 }

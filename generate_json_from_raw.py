@@ -6,7 +6,8 @@ import json
 models_list = os.listdir("data/data_raw")
 
 comparisson_reference = models_list.copy()
-
+def text_template(hs, cn):
+    return "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n" + hs.replace('\"', '\\\"') + "\n\nSe responde lo siguiente:\n\n" + cn.replace('\"', '\\\"')
 random.Random(41).shuffle(models_list)
 random.Random(42).shuffle(comparisson_reference)
 
@@ -38,7 +39,7 @@ for idx, folder in enumerate(models_list):
             data = [line for line in data if line != ""]
             json_data = {}
             hs_num = file.split("/")[-1].replace("hate_tweet_spanish_", "").replace(".txt", "")
-            json_data["data"] = {"number": hs_num,"hs": data[0], "cn": data[1], "model": folder, "comparison_text": comparison_data[1], "comparison_model": comparison_folder}
+            json_data["data"] = {"text": text_template(data[0], data[1]), "number": hs_num,"hs": data[0], "cn": data[1], "model": folder, "comparison_text": comparison_data[1], "comparison_model": comparison_folder}
             if not os.path.exists(f"data/data_json_with_comparison/{folder}"):
                 os.makedirs(f"data/data_json_with_comparison/{folder}")
             with open(f"data/data_json_with_comparison/{folder}/hate_tweet_spanish_{hs_num}.json", "w") as w:

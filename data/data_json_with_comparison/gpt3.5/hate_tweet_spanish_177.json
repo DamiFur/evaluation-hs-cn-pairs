@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nEs lamentable que uses la guerra como referencia para comparar países y culturas. Todos merecen respeto y solidaridad, sin importar su historia.",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Es lamentable que uses la guerra como referencia para comparar países y culturas. Todos merecen respeto y solidaridad, sin importar su historia.",
         "model": "gpt3.5",
-        "comparison_text": "Es lamentable que uses la guerra como referencia para comparar países y culturas. Todos merecen respeto y solidaridad, sin importar su historia.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los asiaticos devastados por la guerra tienen mejores estructura que chilito. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

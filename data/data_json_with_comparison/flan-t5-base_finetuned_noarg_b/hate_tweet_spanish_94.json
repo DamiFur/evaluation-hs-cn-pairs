@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\n<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos.",
         "number": "94",
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos.",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que los turistas y polticos obligan a ayudar a las personas sin papeles. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "Es importante recordar que la violencia nunca es la solución. Debemos abordar la situación de los migrantes sin papeles de manera empática y solidaria, buscando soluciones que respeten la dignidad y los derechos humanos de todas las personas. La xenofobia y el odio solo generan más división y sufrimiento. #NoAlRacismo #MigraciónConDignidad",
+        "comparison_model": "gpt3.5"
     }
 }

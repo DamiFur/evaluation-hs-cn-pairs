@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nPor qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? ",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "Por qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Lo dices solo porque te caen mal los inmigrantes, y eso. Realmente no es que este mal lo que hizo.",
-        "comparison_model": "human_annotated"
+        "comparison_text": "El hecho de que el alcalde de Riace haya abierto las puestas para inmobiliarios para construir viviendas permanentes para los migrantes no signific",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

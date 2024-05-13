@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nLa diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia.",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "La diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia.",
         "model": "gpt3.5",
-        "comparison_text": "La diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que algo se pudiera en el perú. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

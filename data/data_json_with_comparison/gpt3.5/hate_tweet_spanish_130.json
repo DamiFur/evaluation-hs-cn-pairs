@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\nNo hay excusa para el odio y la violencia. Los problemas sociales en Europa no se pueden atribuir a una raza o grupo étnico en particular. Es importante abogar por la convivencia pacífica y el respeto mutuo entre todas las personas, independientemente de su origen.",
         "number": "130",
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "No hay excusa para el odio y la violencia. Los problemas sociales en Europa no se pueden atribuir a una raza o grupo étnico en particular. Es importante abogar por la convivencia pacífica y el respeto mutuo entre todas las personas, independientemente de su origen.",
         "model": "gpt3.5",
-        "comparison_text": "No hay excusa para el odio y la violencia. Los problemas sociales en Europa no se pueden atribuir a una raza o grupo étnico en particular. Es importante abogar por la convivencia pacífica y el respeto mutuo entre todas las personas, independientemente de su origen.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los negros y los arabes causan problemas. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

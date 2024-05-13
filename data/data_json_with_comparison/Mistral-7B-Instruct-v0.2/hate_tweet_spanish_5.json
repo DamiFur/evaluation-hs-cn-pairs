@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq\n\nSe responde lo siguiente:\n\nEl artículo no menciona ninguna correlacion entre el \\\\\"brutismo\\\\\" de las regiones caribea y subsahariana, así que es improbable que",
         "number": "5",
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "El artículo no menciona ninguna correlacion entre el \\\"brutismo\\\" de las regiones caribea y subsahariana, así que es improbable que",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No hay correlación entre el calor extremo y el nivel de inteligencia o desempeño cognitivo de personas de ciertas regiones geográficas. Estereotipar a personas del Caribe o África Subsahariana como \\\"brutalistas\\\" basado en su origen geográfico es injusto y discriminatorio. Es importante reconocer la diversidad de habilidades y capacidades individuales sin generalizar ni caer en prejuicios raciales.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "Esta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

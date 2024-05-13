@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\nSí, es importante que se defienda el sistema de alimentación y se impida la speculación de precio de los productos impuestos por ciertos grupos.",
         "number": "146",
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "Sí, es importante que se defienda el sistema de alimentación y se impida la speculación de precio de los productos impuestos por ciertos grupos.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "El sistema de distribución de productos agrícolas es complejo y no se puede atribuir a un solo grupo de personas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "La diversidad cultural enriquece a nuestro país, no importa de dónde provengan las personas involucradas en el sistema alimentario. Debemos combatir juntos la especulación de precios sin caer en la discriminación ni el odio hacia ningún grupo étnico. Hagamos patria cuidando y respetando a todos.",
+        "comparison_model": "gpt3.5_all"
     }
 }

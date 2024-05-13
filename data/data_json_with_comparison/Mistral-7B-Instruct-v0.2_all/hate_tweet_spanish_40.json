@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa\n\nSe responde lo siguiente:\n\nEste mensaje refleja un punto de vista discriminatorio y erróneo.",
         "number": "40",
         "hs": "@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa",
         "cn": "Este mensaje refleja un punto de vista discriminatorio y erróneo.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Es importante recordar que la diversidad enriquece a una sociedad y que generalizar a todas las personas de una determinada nacionalidad o etnia es injusto y fomenta el odio y la discriminación. Es necesario abordar los problemas sociales de manera integral y respetuosa, sin caer en prejuicios ni estereotipos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "Lo siento, pero no puedo validar la veracidad de tus afirmaciones.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

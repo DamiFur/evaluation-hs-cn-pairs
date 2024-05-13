@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nAsiáticos devastados por la guerra hoy tienen mejores estructura que chilito sudacas",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Asiáticos devastados por la guerra hoy tienen mejores estructura que chilito sudacas",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Este comentario es discriminatorio y se basa en estereotipos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_text": "Pues no, no es porque sean \\\"sudacas\\\", sino porque sus circunstancias materiales son diferentes.",
+        "comparison_model": "human_annotated"
     }
 }

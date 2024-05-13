@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\nisrael and in all of Europe are killing and destroying millions and millions of whites but this is not mentioned nor is it mentioned that these blacks and arabs cause problems",
         "number": "130",
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "israel and in all of Europe are killing and destroying millions and millions of whites but this is not mentioned nor is it mentioned that these blacks and arabs cause problems",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Tienes una visión muy limitada y prejudicada.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_text": "No se puede generalizar y culpar a todos los negros y árabes de los problemas en Europa. La violencia y el crimen no están limitados a una sola raza o etnia. Es importante no caer en la xenofobia y el racismo.",
+        "comparison_model": "gpt3.5_collective"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\nMis palabras fueron tomadas fuera de contexto y malinterpretadas.",
         "number": "155",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "Mis palabras fueron tomadas fuera de contexto y malinterpretadas.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Es inaceptable utilizar lenguaje racista y xenófobo para referirse a cualquier grupo de personas. La nacionalidad no determina la conducta de un individuo y estigmatizar a toda una comunidad por las acciones de unos pocos es injusto y discriminatorio. La dignidad y el respeto deben estar por encima de cualquier prejuicio.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

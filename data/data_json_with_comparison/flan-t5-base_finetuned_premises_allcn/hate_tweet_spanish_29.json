@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo es cierto que eso no tiene ningn efecto en todos los países. ",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es cierto que eso no tiene ningn efecto en todos los países. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No debes preocuparte de lo que quieran hacer tus detractores.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_text": "No es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
     }
 }

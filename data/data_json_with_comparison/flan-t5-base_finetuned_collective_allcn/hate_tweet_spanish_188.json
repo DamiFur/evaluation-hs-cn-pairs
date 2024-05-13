@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nNo es cierto que el inmigrante con papeles fue muerto por otros inmigrantes, y eso no tiene nada que decir. ",
         "number": "188",
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "No es cierto que el inmigrante con papeles fue muerto por otros inmigrantes, y eso no tiene nada que decir. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "'Is difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
-        "comparison_model": "flan-t5-base"
+        "comparison_text": "@user https://t co/l4",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
     }
 }

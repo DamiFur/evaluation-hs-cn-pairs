@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nNo es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. ",
         "number": "150",
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "No es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "'Is difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
-        "comparison_model": "flan-t5-base"
+        "comparison_text": "Conozco a los subsaharianos conocidos de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacer cargo de nuestras jubilaciones no sólo vienen con el ánimo de hacer viables nuestros servicios sociales.",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
     }
 }

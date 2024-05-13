@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\nEl pueblo a veces se equivoca, y se las agarra con quienes no tienen la culpa de nada.",
         "number": "146_2",
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "El pueblo a veces se equivoca, y se las agarra con quienes no tienen la culpa de nada.",
         "model": "human_annotated",
-        "comparison_text": " Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "El sistema de alimentos es importante para todos los ciudadanos y se debe garantizar que todos tengan acceso a comida segura y sana.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

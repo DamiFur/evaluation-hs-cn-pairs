@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nGenera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidarity lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manteo a su país. No hay que ser tan drásticos. Non es necesario.  te s agregar el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => y que en un país estén tomando a una postura antiinmigranción no significa que acogarlos sera un error, ni que los demás países estén de acuerdo con ello.",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Genera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidarity lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manteo a su país. No hay que ser tan drásticos. Non es necesario.  te s agregar el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => y que en un país estén tomando a una postura antiinmigranción no significa que acogarlos sera un error, ni que los demás países estén de acuerdo con ello.",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "¿Qué significa \\\"tonto\\\" y \\\"corro\\\"? ¿Y qué tiene que ver con la raza? No es correcto generalizar a todo el mundo de una misma r",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_text": "No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.",
+        "comparison_model": "human_annotated"
     }
 }

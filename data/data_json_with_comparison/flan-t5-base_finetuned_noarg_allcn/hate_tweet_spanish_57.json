@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nen suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs\n\nSe responde lo siguiente:\n\nNo es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. ",
         "number": "57",
         "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
         "cn": "No es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "<extra_id_61> El partido antiinmigrante ganara las elecciones generales del próximo mes de septiembre, cada vez es más de los países que tienen el error de acoger a miles de indocumentados sin que aporten nada.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_text": "Muchas personas comparten la preocupación sobre el aumento del flujo migratorio ilegal y su impacto en el sistema social y económico de Suecia",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
     }
 }

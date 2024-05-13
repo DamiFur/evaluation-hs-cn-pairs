@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. ",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "'Is difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
-        "comparison_model": "flan-t5-base"
+        "comparison_text": "The following messages of odio: agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidarity lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando a postura antiinmigración no significa que acogierlos sera un error, ni que los demás países estén de acuerdo con ello. i que les pasa a todos que me quieren hacer usar turbante de arabes soy negro pero tampoco para tanto | Justification: soy nigra pero negrin pero a tampaco para tanta | Conclusion: que les pase a todas que me quiere hacer usar turbantes de arabe (value)",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nLos subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia.",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Los subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia.",
         "model": "gpt3.5_collective",
-        "comparison_text": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "Este comentario parece estar basado en una opinión personal y no en hechos verificables.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

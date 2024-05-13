@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\nEste punto de vista es discriminatorio y debe ser rechazado.",
         "number": "86",
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "Este punto de vista es discriminatorio y debe ser rechazado.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que los venezolanos sean inmigrantes, y eso no significa que los inmigrantes no les da ni todos. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_text": "<extra_id_57> Sólo es una inmigración a las autoridades peruanas? No es cierto que el inmigrante tiene que reaccionarse a la invasión? No, no es inmigrarse en esos casos. No hay inmigrantes en EE.UU., no hay inmigradores en otros países, y no hay ninguna inmigranción a través de esas invasiones.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq\n\nSe responde lo siguiente:\n\nLa capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio.",
         "number": "5",
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "La capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio.",
         "model": "gpt3.5_collective",
-        "comparison_text": " Absolutamente no.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "No es posible decir que un artículo sobre el efecto de la calor en el rendimiento cognitivo de jóvenes adultos en edificios sin aire a",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

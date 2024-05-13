@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\n<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>",
         "number": "155",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que los nios han abusado en el trabajo. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "No hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
+        "comparison_model": "gpt3.5"
     }
 }

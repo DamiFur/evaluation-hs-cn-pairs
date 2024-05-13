@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\\\"\\\\\"no tienen dinero\\\\\"\\\\\" \\\\\"\\\\\"porque van en busca de una vida mejor\\\\\"\\\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\\\"\n\nSe responde lo siguiente:\n\nIt's important to remember that generalizations and stereotypes are harmful and inaccurate.",
         "number": "194",
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "It's important to remember that generalizations and stereotypes are harmful and inaccurate.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No podemos permitirnos caer en la generalización y el odio hacia un grupo de personas por su origen o situación migratoria. Todos merecen respeto y comprensión, sin importar de dónde vengan. La violencia no es la respuesta para abordar estas situaciones. Es necesario buscar soluciones humanitarias y justas para abordar la migración de manera adecuada.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "No es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

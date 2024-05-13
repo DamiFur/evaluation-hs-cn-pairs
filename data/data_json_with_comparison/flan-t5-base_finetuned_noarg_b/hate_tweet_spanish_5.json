@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq\n\nSe responde lo siguiente:\n\n<extra_id_48> El brutismo caribeo y el subsahariano puede explicar esas sociedades, pero eso no es cierto que las gente tiene el hecho de que las personas tienen el mismo trabajo. No puede obtener una evidencia de que la gente no tiene que escribir ese tipo de brutalismo, sino el sufrimiento de que los nio",
         "number": "5",
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "<extra_id_48> El brutismo caribeo y el subsahariano puede explicar esas sociedades, pero eso no es cierto que las gente tiene el hecho de que las personas tienen el mismo trabajo. No puede obtener una evidencia de que la gente no tiene que escribir ese tipo de brutalismo, sino el sufrimiento de que los nio",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que eso puede explicar el brutismo caribeo y el subsahariano. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "No, definitivamente no. El rendimiento cognitivo de las personas no tiene relación con su origen étnico, y asociar el \\\"brutismo\\\" con la procedencia de alguien es una forma de racismo injustificada. Debemos rechazar cualquier intento de generar prejuicios basados en la nacionalidad o la raza. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
+        "comparison_model": "gpt3.5"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg\n\nSe responde lo siguiente:\n\nLa adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse",
         "number": "49",
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "La adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "nationality or etnia believes that it is best to adapt to western European life (have rights and liberties women lgtb convi pf best chinos because I think we are already very acostumbrados and idk worse arabes yo https://t co/ycmdcfwxcg | Justifica",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_text": "nationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

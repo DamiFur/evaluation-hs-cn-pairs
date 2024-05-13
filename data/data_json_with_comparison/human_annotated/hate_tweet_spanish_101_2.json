@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nSi con \\\\\"gloria\\\\\" te refieres a \\\\\"atención basica\\\\\" pues, sí. No seas tan dramático.",
         "number": "101_2",
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Si con \\\"gloria\\\" te refieres a \\\"atención basica\\\" pues, sí. No seas tan dramático.",
         "model": "human_annotated",
-        "comparison_text": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "Tu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

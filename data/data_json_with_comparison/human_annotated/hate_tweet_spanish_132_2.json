@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nNo es cierto que España esté siendo invadida por nadie.",
         "number": "132_2",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "No es cierto que España esté siendo invadida por nadie.",
         "model": "human_annotated",
-        "comparison_text": "Lo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "¿Qué significa \\\"tonto\\\" y \\\"corro\\\"? ¿Y qué tiene que ver con la raza? No es correcto generalizar a todo el mundo de una misma r",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

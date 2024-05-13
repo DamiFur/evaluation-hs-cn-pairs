@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\nSon menores! no pueden tener ninguna intención de invadir, seguro ni siquiera entienden lo que eso significa.",
         "number": "118_1",
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "Son menores! no pueden tener ninguna intención de invadir, seguro ni siquiera entienden lo que eso significa.",
         "model": "human_annotated",
-        "comparison_text": "No es justo asociar la llegada masiva de menors a España desde MarrUEcos con una intención maliciosa o invasiva.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "La reunión familiar es un derecho de todos los seres humanos, no importa dónde vengan.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

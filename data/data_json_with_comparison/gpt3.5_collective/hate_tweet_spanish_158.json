@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nNo se puede generalizar y etiquetar a toda una cultura como machista. Eso solo perpetua estereotipos injustos y perjudiciales. Es importante educarnos y aprender a respetar la diversidad cultural.",
         "number": "158",
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "No se puede generalizar y etiquetar a toda una cultura como machista. Eso solo perpetua estereotipos injustos y perjudiciales. Es importante educarnos y aprender a respetar la diversidad cultural.",
         "model": "gpt3.5_collective",
-        "comparison_text": "No es justo generalizar que toda una culture o descendentes son machistas basado en experiencias personales.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "No es correcto afirmar que toda la población de ascendencia musulmana sigue perpetuando la misma ideología. Es importante evitar generalizaciones y apreci",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

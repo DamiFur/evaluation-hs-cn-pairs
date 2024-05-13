@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nTu mensaje no tiene sentido. ¿Qué quieres decir con \\\\\"migrates\\\\\" y \\\\\"español primero\\\\\"? ¿Tienes alguna intención",
         "number": "101",
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Tu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Gloria, como española, tienes derecho a expresar tu opinión libremente.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_text": "La herencia étnica no justifica generalizaciones negativas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\nNo podemos permitirnos pensar en estos niños como invasores. Todos merecen protección y cuidado, independientemente de sus circunstancias o nacionalidad. La reunificación familiar es un derecho humano fundamental y debemos garantizar que se les brinde atención y apoyo adecuados. En lugar de buscar culpables, debemos trabajar juntos para abordar las causas subyacentes de la migración y encontrar soluciones humanitarias y respetuosas.",
         "number": "118",
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "No podemos permitirnos pensar en estos niños como invasores. Todos merecen protección y cuidado, independientemente de sus circunstancias o nacionalidad. La reunificación familiar es un derecho humano fundamental y debemos garantizar que se les brinde atención y apoyo adecuados. En lugar de buscar culpables, debemos trabajar juntos para abordar las causas subyacentes de la migración y encontrar soluciones humanitarias y respetuosas.",
         "model": "gpt3.5",
-        "comparison_text": "No podemos permitirnos pensar en estos niños como invasores. Todos merecen protección y cuidado, independientemente de sus circunstancias o nacionalidad. La reunificación familiar es un derecho humano fundamental y debemos garantizar que se les brinde atención y apoyo adecuados. En lugar de buscar culpables, debemos trabajar juntos para abordar las causas subyacentes de la migración y encontrar soluciones humanitarias y respetuosas.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los inmigrantes sean envadas para invadir españa. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

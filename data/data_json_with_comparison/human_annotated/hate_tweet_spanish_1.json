@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\na ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu\n\nSe responde lo siguiente:\n\nPues sería una lastima que el resultado de las elecciones cambie tanto por aceptar a algunos inmigrantes. Hablaría muy mal de la sociedad.",
         "number": "1",
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Pues sería una lastima que el resultado de las elecciones cambie tanto por aceptar a algunos inmigrantes. Hablaría muy mal de la sociedad.",
         "model": "human_annotated",
-        "comparison_text": "El artículo no proporciona suficientes detalles para llegar a conclusiones definitivas sobre quiéntes pagan las facturas o cóMO se distrib",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "El artículo menciona que el gobierno peruano es el responsable de pagar las facturas, pero no proporciona detalles sobre el reparto del mar",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nNo se puede juzgar a un país entero por estereotipos y prejuicios sin fundamento. La diversidad es lo que enriquece a la humanidad, y debemos aprender a respetar y valorar las diferencias culturales en lugar de despreciarlas. Rechazar el racismo y la xenofobia es fundamental para construir un mundo más inclusivo y justo.",
         "number": "124",
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "No se puede juzgar a un país entero por estereotipos y prejuicios sin fundamento. La diversidad es lo que enriquece a la humanidad, y debemos aprender a respetar y valorar las diferencias culturales en lugar de despreciarlas. Rechazar el racismo y la xenofobia es fundamental para construir un mundo más inclusivo y justo.",
         "model": "gpt3.5",
-        "comparison_text": "No se puede juzgar a un país entero por estereotipos y prejuicios sin fundamento. La diversidad es lo que enriquece a la humanidad, y debemos aprender a respetar y valorar las diferencias culturales en lugar de despreciarlas. Rechazar el racismo y la xenofobia es fundamental para construir un mundo más inclusivo y justo.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los animales y las mujeres son razas dominadas por un libro. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

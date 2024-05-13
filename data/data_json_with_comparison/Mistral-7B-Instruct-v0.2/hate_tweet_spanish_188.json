@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nLa situación que presentas es compleja y no puede ser resumida solo en términos negativos.",
         "number": "188",
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "La situación que presentas es compleja y no puede ser resumida solo en términos negativos.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "Es importante no generalizar ni culpar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, independientemente de quién sea el perpetrador. La violencia y el hostigamiento no tienen justificación, sin importar la nacionalidad de quien los cometa.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "No, la situación es grave y requiere una acción urgente.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

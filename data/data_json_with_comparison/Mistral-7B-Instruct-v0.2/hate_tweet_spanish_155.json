@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\nLo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
         "number": "155",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No importa la nacionalidad de los perpetradores, lo importante es condenar el acto abusivo y garantizar que se haga justicia. Discriminar por nacionalidad no ayuda a resolver el problema.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "No sabes lo que estás hablando, pero es importante recordar que la raza no tiene nada que ver con el comportamiento malvado de alguien.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

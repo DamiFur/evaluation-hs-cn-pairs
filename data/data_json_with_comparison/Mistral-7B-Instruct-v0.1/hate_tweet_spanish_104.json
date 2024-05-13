@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nEsta es un punto de vista extremo y discriminatorio.",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Esta es un punto de vista extremo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "Este punto de vista es racista y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Es importante recordar que la inmigración es un tema complejo y multifacético que no se puede reducir a simples comparaciones históricas. La diversidad cultural enriquece a las sociedades y no es correcto demonizar a todo un grupo de personas basándose en estereotipos injustos. Hay que tratar a cada individuo como tal y no generalizar. Promovamos la inclusión y el respeto mutuo en lugar de la división y el odio.",
+        "comparison_model": "gpt3.5_all"
     }
 }

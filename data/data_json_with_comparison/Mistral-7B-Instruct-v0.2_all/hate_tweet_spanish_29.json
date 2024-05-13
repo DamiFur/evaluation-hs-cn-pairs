@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNinguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No tiene sentido que te quieran hacer usar un turbante árabe solo por ser negro. Cada persona es única y nadie debería ser presionado para adoptar vestimentas o tradiciones que no le corresponden. Es importante respetar la diversidad y la individualidad de cada individuo. ¡Tú eres quien decide cómo quieres verte y qué usar!",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

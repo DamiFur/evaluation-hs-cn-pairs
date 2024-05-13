@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nEste tweet contiene una mezcla de temas irracionales y ofensivos.",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Este tweet contiene una mezcla de temas irracionales y ofensivos.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "Los subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_text": "No es cierto que españa está siendo invadido por los subsaharianos. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nEl hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "El hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Sería una falta de humanidad y solidaridad negar la oportunidad de integración y acogida a personas que buscan una vida mejor. El ejemplo de Riace demuestra que la convivencia y el apoyo mutuo son posibles, y es algo que deberíamos replicar en lugar de rechazar.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

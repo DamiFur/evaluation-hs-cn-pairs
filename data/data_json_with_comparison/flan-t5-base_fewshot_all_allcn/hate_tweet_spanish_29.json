@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nConclusión: soy negro pero tampoco para tanto",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Conclusión: soy negro pero tampoco para tanto",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "No es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_text": "No tienen derecho a obligarte a usar algo que no deseas, tu identidad y cultura merecen respeto. No te dejes influenciar por comentarios racistas y xenofóbicos. ¡Tú eres libre de expresarte como desees!",
+        "comparison_model": "gpt3.5_justification"
     }
 }

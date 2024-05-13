@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh\n\nSe responde lo siguiente:\n\nNo es cierto que los negratas noos van a robar toda la pasta iaqui. ",
         "number": "70",
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "No es cierto que los negratas noos van a robar toda la pasta iaqui. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "Es inapropiado y ofensivo llamar a alguien \\\"negra\\\" o utilizar palabras racistas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_text": "No es cierto que los negratas roben todos los países. Por qué? ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
     }
 }

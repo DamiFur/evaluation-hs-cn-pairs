@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nobviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña\n\nSe responde lo siguiente:\n\nEs muy triste que ocurra eso, pero si te enfocas solo en su nacionalidad, estas dejando ver que es lo unico que te importa.",
         "number": "155_2",
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "Es muy triste que ocurra eso, pero si te enfocas solo en su nacionalidad, estas dejando ver que es lo unico que te importa.",
         "model": "human_annotated",
-        "comparison_text": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "El uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

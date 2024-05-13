@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nNo puedo decir si es verdad o falso, pero es importante recordar que la migración es un fenómeno complejo y no se puede reducir a un solo",
         "number": "150",
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "No puedo decir si es verdad o falso, pero es importante recordar que la migración es un fenómeno complejo y no se puede reducir a un solo",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "Conozco a los subsaharianos conocidos de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacer cargo de nuestras jubilaciones no sólo vienen con el ánimo de hacer viables nuestros servicios sociales.",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_text": "Colectivo: subsaharianos |",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

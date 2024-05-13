@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\natención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn\n\nSe responde lo siguiente:\n\n<extra_id_48> La invasión inmediata de los subsaharianos es inminente, es cierto, y eso es una elección generalesya, y no tiene nada que enfrentarse en el mundo. No es necesario que esas elecciones sean invasios, y que no tienen nada que invasirse.",
         "number": "61",
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "<extra_id_48> La invasión inmediata de los subsaharianos es inminente, es cierto, y eso es una elección generalesya, y no tiene nada que enfrentarse en el mundo. No es necesario que esas elecciones sean invasios, y que no tienen nada que invasirse.",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que la invasión inminente de los subsaharianos sean invasivos. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "No podemos caer en la desinformación y el miedo sin fundamento. Hay que recordar que todas las personas merecen respeto y no se puede considerar a nadie como una invasión. Es importante ser críticos con las fuentes de información y no difundir mensajes llenos de odio y xenofobia.",
+        "comparison_model": "gpt3.5"
     }
 }

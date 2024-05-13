@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nLos inmigrantes no son barbaros, ni intentan invadir nada. Vienen por su cuenta a intentar ganarse la vida.",
         "number": "104_1",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Los inmigrantes no son barbaros, ni intentan invadir nada. Vienen por su cuenta a intentar ganarse la vida.",
         "model": "human_annotated",
-        "comparison_text": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "Es importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

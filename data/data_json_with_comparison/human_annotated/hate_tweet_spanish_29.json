@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nTranquilo, nadie te va a obligar a nada.",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Tranquilo, nadie te va a obligar a nada.",
         "model": "human_annotated",
-        "comparison_text": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "Te estoy preguntando, ¿qué significa \\\"para tanto\\\"? ¿Qué quieres decir?",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

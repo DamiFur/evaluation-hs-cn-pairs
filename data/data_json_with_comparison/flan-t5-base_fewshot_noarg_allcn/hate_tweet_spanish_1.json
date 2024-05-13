@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\na ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu\n\nSe responde lo siguiente:\n\nAhora, el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez que más países se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada",
         "number": "1",
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Ahora, el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez que más países se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "La responsabilidad de pagar los impuestos y garantizar el bienestar de los ciudadanos no se deja a cargo de una sola persona o entidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_text": "Los inmigrantes ilegales también son seres humanos que merecen respeto y dignidad. No se trata de un problema de \\\"marrón\\\" que repartir, sino de encontrar soluciones justas y humanitarias para garantizar su bienestar y su integración en la sociedad. La xenofobia y la discriminación no son la respuesta.",
+        "comparison_model": "gpt3.5_collective"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nMarina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence.",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Marina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "El problema no es la inmigración en sí, sino la desinformación y los prejuicios que promueven el odio y la xenofobia. Históricamente, la diversidad cultural ha enriquecido a las sociedades, no las ha destruido.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\n El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\\\"invasión\\\\\" que necesite un \\\\\"coto\\\\\" o \\\\\"fin\\\\\".",
         "number": "86",
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": " El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que necesite un \\\"coto\\\" o \\\"fin\\\".",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Todos tenemos derecho a buscar una vida mejor, independientemente de nuestra nacionalidad. En vez de preocuparnos por cuántas personas llegan, deberíamos buscar maneras de integrar y apoyar a quienes vienen en busca de oportunidades. En vez de hablar de invasiones, deberíamos hablar de colaboración y solidaridad entre todos los seres humanos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "Mis palabras anteriores fueron equivocadas debido a mi falible comprensión del contexto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

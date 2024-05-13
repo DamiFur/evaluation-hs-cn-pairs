@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nTu comentario es completamente infundado y fomenta el miedo sin razón. La diversidad cultural enriquece a nuestra sociedad y no hay ninguna evidencia que respalde tu afirmación de que los subsaharianos están planeando asaltar nuestras fronteras. Todos merecen ser tratados con respeto y tener la oportunidad de contribuir positivamente a nuestra comunidad.",
         "number": "150",
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "Tu comentario es completamente infundado y fomenta el miedo sin razón. La diversidad cultural enriquece a nuestra sociedad y no hay ninguna evidencia que respalde tu afirmación de que los subsaharianos están planeando asaltar nuestras fronteras. Todos merecen ser tratados con respeto y tener la oportunidad de contribuir positivamente a nuestra comunidad.",
         "model": "gpt3.5",
-        "comparison_text": "Tu comentario es completamente infundado y fomenta el miedo sin razón. La diversidad cultural enriquece a nuestra sociedad y no hay ninguna evidencia que respalde tu afirmación de que los subsaharianos están planeando asaltar nuestras fronteras. Todos merecen ser tratados con respeto y tener la oportunidad de contribuir positivamente a nuestra comunidad.",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nen suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs\n\nSe responde lo siguiente:\n\nNo es verdad que el Partido Anti-Inmigrante de Suecia se esté ganando en las últimas encuestas.",
         "number": "57",
         "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
         "cn": "No es verdad que el Partido Anti-Inmigrante de Suecia se esté ganando en las últimas encuestas.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "La situación en Suecia es compleja y no puede ser reducida a un solo punto de vista.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "La diversidad y la inclusión son valores fundamentales para construir sociedades prósperas y justas. La migración aporta riqueza cultural, talento y contribuciones económicas a los países receptores. No debemos caer en la generalización ni en el discurso del odio hacia los inmigrantes. Es importante promover el respeto mutuo y la cooperación para crear un mundo mejor para todos.",
+        "comparison_model": "gpt3.5_all"
     }
 }

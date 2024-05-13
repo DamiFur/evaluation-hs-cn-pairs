@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nTodos merecen ser tratados con dignidad y respeto, independientemente de su nacionalidad. Difundir odio y discriminación no nos lleva a ningún lado. ¡Respeto y solidaridad siempre! #NoAlRacismo #NoALaXenofobia",
         "number": "101",
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Todos merecen ser tratados con dignidad y respeto, independientemente de su nacionalidad. Difundir odio y discriminación no nos lleva a ningún lado. ¡Respeto y solidaridad siempre! #NoAlRacismo #NoALaXenofobia",
         "model": "gpt3.5",
-        "comparison_text": "Todos merecen ser tratados con dignidad y respeto, independientemente de su nacionalidad. Difundir odio y discriminación no nos lleva a ningún lado. ¡Respeto y solidaridad siempre! #NoAlRacismo #NoALaXenofobia",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los españoles son nada. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

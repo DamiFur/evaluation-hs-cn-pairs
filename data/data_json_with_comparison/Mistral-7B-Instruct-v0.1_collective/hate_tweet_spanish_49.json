@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg\n\nSe responde lo siguiente:\n\nLa adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,",
         "number": "49",
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "La adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "La adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_text": "No es posible hacer juicios generales sobre una base de datos tan pequeña y sesgada.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
     }
 }

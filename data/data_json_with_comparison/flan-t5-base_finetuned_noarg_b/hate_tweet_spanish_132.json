@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\n<extra_id_48> Eso no es cierto que los subsaharianos invadien el patata, eso es lo que tiene que hacer. No hay nada que esa es una pelcula. No tiene nada que hacerlo. <extra_id_69>",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "<extra_id_48> Eso no es cierto que los subsaharianos invadien el patata, eso es lo que tiene que hacer. No hay nada que esa es una pelcula. No tiene nada que hacerlo. <extra_id_69>",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No es cierto que españa está siendo invadido por los subsaharianos. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_text": "No hay ninguna invasión ni necesidad de recurrir a la xenofobia. Todos merecen respeto y oportunidades, incluidos los migrantes. La diversidad enriquece a las sociedades. No caigas en discursos de odio.",
+        "comparison_model": "gpt3.5"
     }
 }

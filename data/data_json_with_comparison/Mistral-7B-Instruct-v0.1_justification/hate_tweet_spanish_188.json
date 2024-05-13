@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nLa situación es compleja y requiere una solución multifaceted.",
         "number": "188",
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "La situación es compleja y requiere una solución multifaceted.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que los manteros hosten a seoras y peguen a turistas. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_text": "<extra_id_69> Y eso no es cierto que los inmigrantes sin papeles han sido muertos por una mujer hostida por éstos. No hay nada que decir que los turistas tienen que defenderse a las mujeres. Eso es lo que tiene que decir.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
     }
 }

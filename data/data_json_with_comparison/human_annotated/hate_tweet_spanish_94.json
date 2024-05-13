@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\nSe puede regular la actividad de los manteros sin tener que deportar a nadie. No hay que ser tan drásticos. No es necesario.",
         "number": "94",
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Se puede regular la actividad de los manteros sin tener que deportar a nadie. No hay que ser tan drásticos. No es necesario.",
         "model": "human_annotated",
-        "comparison_text": "Mis palabras: No apoyo la violencia o el abuso de la hospitalidad extendida.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "¿Cómo puedes decir que estas personas no tienen documentos de identidad y que lo único que necesitan es que se mantegan en Perú? Eso",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

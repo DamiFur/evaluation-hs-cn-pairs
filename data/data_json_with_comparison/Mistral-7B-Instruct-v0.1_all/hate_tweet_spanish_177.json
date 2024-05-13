@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nEste comentario es ofensivo y discriminatorio.",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Este comentario es ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "Asiáticos devastados por la guerra hoy tienen mejores estructura que chilito sudacas",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_text": "Genera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país => y que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello.  hombres de guerra hoy tienen mejores estructura que chilito cosas sudacas?",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

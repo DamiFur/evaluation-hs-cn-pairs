@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\\\"\\\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\\\"\\\\\" pues que se quede allí indefinidamente \\\\\"\n\nSe responde lo siguiente:\n\nMis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
         "number": "35",
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "La solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "Esta afirmación es incorrecta.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

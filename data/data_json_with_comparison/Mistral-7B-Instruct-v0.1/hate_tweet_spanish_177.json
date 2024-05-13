@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nLa comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar.",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "La comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "Este comentario es ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Es incorrecto generalizar y menospreciar a toda una región solo por el caso particular de un país. Cada país tiene su historia y circunstancias únicas, y es inaceptable usar términos despectivos como \\\"sudacas\\\". Es importante reconocer el progreso que han logrado muchos países latinoamericanos, incluido Chile, y no menospreciar su potencial por prejuicios o estereotipos.",
+        "comparison_model": "gpt3.5_all"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nNo es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "El temor a la inmigración como estrategia de ataque o destrucción es infundado. La diversidad cultural en Europa enriquece su sociedad y economía, y no es motivo para restringir la entrada de personas de diferentes regiones del mundo. Marina Le Pen y quienes piensan como ella están promoviendo una visión xenófoba y discriminatoria que va en contra de los valores de igualdad y solidaridad.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "Este punto de vista es racista y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

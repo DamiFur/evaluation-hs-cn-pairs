@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nthe inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante",
         "number": "104",
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "the inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Esta es un punto de vista extremo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_text": "El problema no es la inmigración en sí, sino la desinformación y los prejuicios que promueven el odio y la xenofobia. Históricamente, la diversidad cultural ha enriquecido a las sociedades, no las ha destruido.",
+        "comparison_model": "gpt3.5_collective"
     }
 }

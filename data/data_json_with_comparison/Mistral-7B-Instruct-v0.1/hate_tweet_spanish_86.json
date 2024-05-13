@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\nEl número de personas que vienen a Perú cada día es un problema, pero no se debe ver como una \\\\\"invasión\\\\\". Es una cuestión de refugiados",
         "number": "86",
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "El número de personas que vienen a Perú cada día es un problema, pero no se debe ver como una \\\"invasión\\\". Es una cuestión de refugiados",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "Este tipo de pensamiento es discriminatorio y no tiene base en la realidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Todos tenemos derecho a buscar una vida mejor, independientemente de nuestra nacionalidad. En vez de preocuparnos por cuántas personas llegan, deberíamos buscar maneras de integrar y apoyar a quienes vienen en busca de oportunidades. En vez de hablar de invasiones, deberíamos hablar de colaboración y solidaridad entre todos los seres humanos.",
+        "comparison_model": "gpt3.5_all"
     }
 }

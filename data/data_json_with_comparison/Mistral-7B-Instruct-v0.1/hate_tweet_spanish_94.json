@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\n No es correcto afirmar que todos los sin-papeles son agregados. Hay muchas personas que ingresan a un país sin ser agressivos y solo buscan",
         "number": "94",
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": " No es correcto afirmar que todos los sin-papeles son agregados. Hay muchas personas que ingresan a un país sin ser agressivos y solo buscan",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "No es correcto afirmar que los refugiados son solo quienes se abusan de la solidad del pueblo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "Es importante recordar que la violencia no es la respuesta y que generalizar a toda una comunidad por las acciones de unos pocos no es justo. Todas las personas merecen respeto y dignidad, independientemente de su estatus migratorio. Ayudar a quienes lo necesitan es un acto de humanidad, y debemos encontrar formas de convivencia pacífica y solidaria en lugar de recurrir a la violencia y la discriminación. #SolidaridadSinFronteras.",
+        "comparison_model": "gpt3.5_all"
     }
 }

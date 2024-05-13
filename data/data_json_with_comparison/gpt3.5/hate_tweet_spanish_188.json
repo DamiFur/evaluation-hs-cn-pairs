@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nNo podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!",
         "number": "188",
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "No podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!",
         "model": "gpt3.5",
-        "comparison_text": "No podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!",
-        "comparison_model": "gpt3.5"
+        "comparison_text": "No es cierto que los manteros hosten a seoras y peguen a turistas. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\nDices que los árabes y negros causan problemas, pero no es cierto. Como en todos lados, algunos quizá delinquen, muchos otros trabajan y aportan.",
         "number": "130_1",
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "Dices que los árabes y negros causan problemas, pero no es cierto. Como en todos lados, algunos quizá delinquen, muchos otros trabajan y aportan.",
         "model": "human_annotated",
-        "comparison_text": "No estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "La violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

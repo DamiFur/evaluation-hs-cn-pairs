@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nGenera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país => y que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello.  hombres de guerra hoy tienen mejores estructura que chilito cosas sudacas?",
         "number": "177",
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Genera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país => y que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello.  hombres de guerra hoy tienen mejores estructura que chilito cosas sudacas?",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "No es cierto que los asiaticos devastados por el guerra tienen mejor estructura que chilito cosas sudacas. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_text": "Es lamentable que se utilicen términos despectivos y discriminatorios para referirse a países y culturas latinoamericanas. En lugar de comparar de manera negativa, deberíamos enfocarnos en construir puentes de entendimiento y respeto entre todas las naciones. La diversidad cultural es un valor que enriquece a la humanidad.",
+        "comparison_model": "gpt3.5_justification"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nEste tweet contiene una mezcla de temas incoherentes y racistas.",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Este tweet contiene una mezcla de temas incoherentes y racistas.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No caigamos en la división y la xenofobia. Es importante abordar la situación de manera humanitaria y buscar soluciones que beneficien a todos. Los migrantes subsaharianos merecen respeto y apoyo en su camino hacia una vida mejor. Hastags como #caminodevenezuela y #señorllevamépronto no ayudan a resolver el problema de forma constructiva.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_text": "Lo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
     }
 }

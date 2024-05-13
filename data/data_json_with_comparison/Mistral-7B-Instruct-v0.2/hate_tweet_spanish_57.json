@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nen suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs\n\nSe responde lo siguiente:\n\nMuchas personas tienen puntos de vista diferentes acerca de la migración.",
         "number": "57",
         "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
         "cn": "Muchas personas tienen puntos de vista diferentes acerca de la migración.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "La diversidad es una fortaleza, y la integración de todas las culturas enriquece a una sociedad. El rechazo a los inmigrantes no tiene justificación y solo promueve la intolerancia y la discriminación. Es importante recordar que todos merecen respeto y oportunidades para crecer y contribuir al mundo en el que vivimos.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_text": "La situación en Suecia es compleja y no puede ser reducida a un solo punto de vista.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
     }
 }

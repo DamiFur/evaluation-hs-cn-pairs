@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nEste comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista.",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Este comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista.",
         "model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text": "No puedo decir si es verdad o falso lo que dijiste, pero es importante mantener una perspectiva objetiva y no generalizar sobre una situación compleja",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_text": "No hay nada que pudrir en el Perú. La diversidad cultural enriquece nuestra sociedad, y no debemos caer en estereotipos racistas y xenófobos. La convivencia armónica y el respeto mutuo son fundamentales para construir una sociedad inclusiva y justa.",
+        "comparison_model": "gpt3.5_all"
     }
 }

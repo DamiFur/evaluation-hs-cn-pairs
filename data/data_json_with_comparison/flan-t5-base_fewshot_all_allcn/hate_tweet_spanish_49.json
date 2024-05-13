@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg\n\nSe responde lo siguiente:\n\nnationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo",
         "number": "49",
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "nationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Por qué crees que se adapta mejor a la vida occidental europea? ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_text": "No se puede generalizar sobre la adaptación de nacionalidades o etnias a la vida occidental europea basándose en prejuicios y estereotipos. Cada persona, independientemente de su origen, merece respeto y tiene el derecho a vivir en libertad y con igualdad de derechos. La diversidad enriquece a la sociedad y es importante combatir cualquier forma de discriminación.",
+        "comparison_model": "gpt3.5_justification"
     }
 }

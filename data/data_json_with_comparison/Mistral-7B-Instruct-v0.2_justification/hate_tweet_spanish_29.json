@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\n Es injusto y absurdo que alguien quieran que usted use un turban solo por su raza.",
         "number": "29",
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": " Es injusto y absurdo que alguien quieran que usted use un turban solo por su raza.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es necesario asumir una identidad cultural que no te pertenece. Cada persona tiene derecho a expresar su identidad como prefiera, sin importar su color de piel. No hay necesidad de etiquetar a las personas por su apariencia física.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_text": "No es cierto que eso no tiene ningn efecto en todos los países. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
     }
 }

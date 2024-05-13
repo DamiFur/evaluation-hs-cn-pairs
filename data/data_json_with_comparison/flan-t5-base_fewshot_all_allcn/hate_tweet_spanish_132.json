@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\nAqu don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Property: españa está siendo invadida por | Justification: esp",
         "number": "132",
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Aqu don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Property: españa está siendo invadida por | Justification: esp",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "No es cierto que el espacio está siendo invadido por los subsaharianos. Por qué? ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_text": "Estás propagando mensajes de odio y discriminación. La diversidad enriquece a España y la xenofobia no tiene cabida en nuestra sociedad.",
+        "comparison_model": "gpt3.5_justification"
     }
 }

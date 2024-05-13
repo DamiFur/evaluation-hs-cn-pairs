@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nNo podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
         "number": "150",
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "No podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
         "model": "gpt3.5_collective",
-        "comparison_text": " Es importante recordar que ninguna prueba o evidencia concreta ha sido presentada en el enlace proporcionado para respaldar esa afirmación",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "Esta afirmación es incorrecta. Los migrantes no son responsables de la situación económica de un país y no se deben considerar una amenaza.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

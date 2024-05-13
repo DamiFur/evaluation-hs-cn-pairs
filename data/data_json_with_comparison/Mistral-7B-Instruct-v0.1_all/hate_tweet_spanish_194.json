@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\\\"\\\\\"no tienen dinero\\\\\"\\\\\" \\\\\"\\\\\"porque van en busca de una vida mejor\\\\\"\\\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\\\"\n\nSe responde lo siguiente:\n\nEste comentario es discriminatorio y se basa en estereotipos.",
         "number": "194",
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "Este comentario es discriminatorio y se basa en estereotipos.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
     }
 }

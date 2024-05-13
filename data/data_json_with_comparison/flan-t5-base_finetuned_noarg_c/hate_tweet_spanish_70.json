@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh\n\nSe responde lo siguiente:\n\nPor qué eso no es cierto? No es lo que tiene en panama. ",
         "number": "70",
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "Por qué eso no es cierto? No es lo que tiene en panama. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Hasta donde yo se, tener todo el dinero en Panama tampoco es legal...",
-        "comparison_model": "human_annotated"
+        "comparison_text": " Es inapropiado y ofensivo utilizar términos racistas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

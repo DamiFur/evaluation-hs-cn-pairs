@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nNo todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga.",
         "number": "188",
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "No todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga.",
         "model": "gpt3.5_collective",
-        "comparison_text": "La situación mencionada es grave y debe ser abordada inmediatamente.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_text": "La situación es compleja y requiere una solución multifaceted.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
     }
 }

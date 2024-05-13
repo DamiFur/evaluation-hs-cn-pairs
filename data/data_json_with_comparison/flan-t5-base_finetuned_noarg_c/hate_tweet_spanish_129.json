@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nPor qué es el caos organizado surrealista subsahariano? ",
         "number": "129",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Por qué es el caos organizado surrealista subsahariano? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\".",
-        "comparison_model": "human_annotated"
+        "comparison_text": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a una conclusiónde que \\\"algo se ha put",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
     }
 }

@@ -1,10 +1,11 @@
 {
     "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nNi están organizados, si con el caos. Solo son inmigrantes.",
         "number": "129_1",
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Ni están organizados, si con el caos. Solo son inmigrantes.",
         "model": "human_annotated",
-        "comparison_text": "Lo siento, pero no estoy en capacidad de comprender el significado de tu comentario.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_text": "¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
     }
 }

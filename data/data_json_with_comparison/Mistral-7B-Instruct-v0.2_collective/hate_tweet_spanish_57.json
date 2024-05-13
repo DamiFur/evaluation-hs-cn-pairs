@@ -6,6 +6,7 @@
         "cn": "Es incorrecto asignarles la etiqueta de \\\"sin aporte\\\" a todos los indocumentados.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "Y el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. ",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. "
     }
 }

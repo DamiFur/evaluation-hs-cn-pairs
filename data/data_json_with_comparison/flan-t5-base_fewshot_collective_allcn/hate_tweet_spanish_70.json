@@ -6,6 +6,7 @@
         "cn": "Noos estos putos negratas noos van a robar toda la pasta iaqui menos mal que yo tiene en Panama",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Este comentario es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es altamente ofensivo y discriminatorio."
     }
 }

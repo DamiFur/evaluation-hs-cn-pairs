@@ -6,6 +6,7 @@
         "cn": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Este punto de vista es racista y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste punto de vista es racista y discriminatorio."
     }
 }

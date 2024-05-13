@@ -6,6 +6,7 @@
         "cn": "No es cierto que la información norteamericana advierte en una invasión inminente. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "Invasión =>",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nInvasión =>"
     }
 }

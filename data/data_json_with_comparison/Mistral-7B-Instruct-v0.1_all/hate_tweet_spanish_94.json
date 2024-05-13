@@ -6,6 +6,7 @@
         "cn": "No es correcto afirmar que los refugiados son solo quienes se abusan de la solidad del pueblo.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "La violencia y la agresión hacia cualquier persona, ya sean turistas o policías, no está justificada. Pero no debemos generalizar y culpar a todos los manteros por los actos de unos pocos. Es importante abordar estos problemas de manera justa y equitativa, sin caer en la discriminación.",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa violencia y la agresión hacia cualquier persona, ya sean turistas o policías, no está justificada. Pero no debemos generalizar y culpar a todos los manteros por los actos de unos pocos. Es importante abordar estos problemas de manera justa y equitativa, sin caer en la discriminación."
     }
 }

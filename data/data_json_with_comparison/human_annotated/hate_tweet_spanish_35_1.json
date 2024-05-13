@@ -6,6 +6,7 @@
         "cn": "Estas suponiendo que solo los manteros agreden personas, y eso es prejuicioso. Ademas, no es cierto",
         "model": "human_annotated",
         "comparison_text": "El hecho de que un lugar proporcione albergue a personas que han huido de sus países de origen no justifica la violencia o el ataque a ellos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl hecho de que un lugar proporcione albergue a personas que han huido de sus países de origen no justifica la violencia o el ataque a ellos."
     }
 }

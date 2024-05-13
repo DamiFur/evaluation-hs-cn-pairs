@@ -6,6 +6,7 @@
         "cn": "They are immigrants or enviados to invade españa",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Los migrantes que entran en España desde Marrakech no son una amenaza para España.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos migrantes que entran en España desde Marrakech no son una amenaza para España."
     }
 }

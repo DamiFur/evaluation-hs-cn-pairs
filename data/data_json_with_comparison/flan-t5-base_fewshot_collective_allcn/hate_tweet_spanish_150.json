@@ -6,6 +6,7 @@
         "cn": "Colectivo: subsaharianos |",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "No es correcto afirmar que todos los personas de subsáharin son los que se asocian con la inseguridad del sistema pensionado y que su único objetivo",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que todos los personas de subsáharin son los que se asocian con la inseguridad del sistema pensionado y que su único objetivo"
     }
 }

@@ -6,6 +6,7 @@
         "cn": "¿Quién puede tener un proyecto a tan largo plazo para invadir España, como para enviar menores de edad? No tiene sentido.",
         "model": "human_annotated",
         "comparison_text": "La reunión familiar es un derecho de todos los seres humanos, no importa dónde vengan.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa reunión familiar es un derecho de todos los seres humanos, no importa dónde vengan."
     }
 }

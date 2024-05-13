@@ -6,6 +6,7 @@
         "cn": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Esta afirmación es incorrecta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta afirmación es incorrecta."
     }
 }

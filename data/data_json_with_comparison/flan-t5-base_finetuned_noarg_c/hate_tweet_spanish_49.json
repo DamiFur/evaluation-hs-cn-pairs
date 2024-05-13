@@ -6,6 +6,7 @@
         "cn": "No creo que estamos muy acostumbrados y idk peor a los árabes xenophobes... ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": " Es importante recordar que generalizaciones negativas basadas en el origen nacional o étnico no tienen base científica ni validez.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante recordar que generalizaciones negativas basadas en el origen nacional o étnico no tienen base científica ni validez."
     }
 }

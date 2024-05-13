@@ -6,6 +6,7 @@
         "cn": "Es importante no generalizar ni culpar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, independientemente de quién sea el perpetrador. La violencia y el hostigamiento no tienen justificación, sin importar la nacionalidad de quien los cometa.",
         "model": "gpt3.5_justification",
         "comparison_text": "Por qué no tiene nada que decir? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué no tiene nada que decir? "
     }
 }

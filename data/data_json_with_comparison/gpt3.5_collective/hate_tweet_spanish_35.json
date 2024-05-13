@@ -6,6 +6,7 @@
         "cn": "No es justo generalizar a todos los manteros por el comportamiento de unos cuantos. Hay que abordar el problema de forma más integral y respetuosa.",
         "model": "gpt3.5_collective",
         "comparison_text": "La situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom"
     }
 }

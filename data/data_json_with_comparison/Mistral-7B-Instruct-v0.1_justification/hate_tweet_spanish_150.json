@@ -6,6 +6,7 @@
         "cn": "Esta afirmación es incorrecta. Los migrantes no son responsables de la situación económica de un país y no se deben considerar una amenaza.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos."
     }
 }

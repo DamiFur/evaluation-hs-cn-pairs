@@ -6,6 +6,7 @@
         "cn": "Nuestra realidad es diversa y enriquecedora, no se trata de caos organizado subsahariano. El Perú es un país con una cultura rica y variada, no hay nada que se esté pudriendo.",
         "model": "gpt3.5_justification",
         "comparison_text": "Por qué es el caos organizado surrealista subsahariano? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué es el caos organizado surrealista subsahariano? "
     }
 }

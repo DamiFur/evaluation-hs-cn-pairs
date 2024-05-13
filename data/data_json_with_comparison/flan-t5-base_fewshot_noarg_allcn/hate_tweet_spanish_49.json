@@ -6,6 +6,7 @@
         "cn": "ike that nationality or ethnicity believes that it adapts better to western European life (have rights and liberties women lgtb convi pf better chinos because I believe that we are already very acostumbrados and idk worse for the arabes y myself http://t co/ycmdcfwxcg",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Es completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad."
     }
 }

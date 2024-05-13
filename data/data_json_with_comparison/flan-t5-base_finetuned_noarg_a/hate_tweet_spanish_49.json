@@ -6,6 +6,7 @@
         "cn": "No creo que estamos muy acostumbrados y idk peor a los árabes. ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No creo que estamos muy acostumbrados y idk peor a los árabes. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que estamos muy acostumbrados y idk peor a los árabes. "
     }
 }

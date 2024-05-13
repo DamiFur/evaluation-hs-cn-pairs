@@ -6,6 +6,7 @@
         "cn": "No es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "Los indocumentados aportan mucho a la sociedad, su trabajo y esfuerzo contribuyen al desarrollo y bienestar de todos. La xenofobia y el odio no tienen cabida en un mundo diverso y multicultural como el nuestro.",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos indocumentados aportan mucho a la sociedad, su trabajo y esfuerzo contribuyen al desarrollo y bienestar de todos. La xenofobia y el odio no tienen cabida en un mundo diverso y multicultural como el nuestro."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Este mensaje contiene una mezcla de conceptos irracionales y ofensivos.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que los animales y las niñas son razas dominadas por un libro. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los animales y las niñas son razas dominadas por un libro. "
     }
 }

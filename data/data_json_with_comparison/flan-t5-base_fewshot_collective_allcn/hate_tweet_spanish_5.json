@@ -6,6 +6,7 @@
         "cn": "eso podra explicar el brutismo caribeo y el subsahariano",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "El estudio mencionado no tiene nada que ver con el brutalismo de las personas del Caribe o el Subsahara.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl estudio mencionado no tiene nada que ver con el brutalismo de las personas del Caribe o el Subsahara."
     }
 }

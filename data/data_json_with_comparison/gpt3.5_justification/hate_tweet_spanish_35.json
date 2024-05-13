@@ -6,6 +6,7 @@
         "cn": "La solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y eso es una ejemplo de integración y lucha contra el xenofobia, y es como el pueblo es indefinido. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso es una ejemplo de integración y lucha contra el xenofobia, y es como el pueblo es indefinido. "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Esa es la manera en que se debe hacer, no se puede permitir que alguien sea asesinado o golpeado por motivos de raza o nacionalidad.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es importante no generalizar ni caer en el discurso del odio. Los actos individuales no representan a todos los inmigrantes ni a una comunidad en su totalidad. Todos los seres humanos merecen respeto y trato digno, independientemente de su origen o estatus migratorio. La alcaldesa seguramente tomará medidas para abordar la situación de manera justa y equitativa.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante no generalizar ni caer en el discurso del odio. Los actos individuales no representan a todos los inmigrantes ni a una comunidad en su totalidad. Todos los seres humanos merecen respeto y trato digno, independientemente de su origen o estatus migratorio. La alcaldesa seguramente tomará medidas para abordar la situación de manera justa y equitativa."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Por qué eso no es cierto en el país? ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es cierto que los inmigrantes o los enviados a invadir españa. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes o los enviados a invadir españa. "
     }
 }

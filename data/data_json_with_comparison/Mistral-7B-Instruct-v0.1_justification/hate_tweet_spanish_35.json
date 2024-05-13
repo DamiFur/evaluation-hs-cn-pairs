@@ -6,6 +6,7 @@
         "cn": "La situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_69> Y eso no es cierto que los hombres atacan a los turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues es indefinido.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_69> Y eso no es cierto que los hombres atacan a los turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues es indefinido."
     }
 }

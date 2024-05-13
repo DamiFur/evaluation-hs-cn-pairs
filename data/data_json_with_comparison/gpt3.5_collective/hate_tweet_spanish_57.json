@@ -6,6 +6,7 @@
         "cn": "Los indocumentados aportan mucho a la sociedad, su trabajo y esfuerzo contribuyen al desarrollo y bienestar de todos. La xenofobia y el odio no tienen cabida en un mundo diverso y multicultural como el nuestro.",
         "model": "gpt3.5_collective",
         "comparison_text": "El hecho de que un partido antinigración sea capaz de ganar en Suecia no significa que su posición sea correcta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl hecho de que un partido antinigración sea capaz de ganar en Suecia no significa que su posición sea correcta."
     }
 }

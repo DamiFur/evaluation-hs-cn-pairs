@@ -6,6 +6,7 @@
         "cn": "@user https://t co/l4",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga."
     }
 }

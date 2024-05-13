@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero no puedo validar la veracidad de tus afirmaciones.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Este mensaje parece ser una expresión de miedo y preocupación por el aumento de la población de personas de origen africano en el Perú",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece ser una expresión de miedo y preocupación por el aumento de la población de personas de origen africano en el Perú"
     }
 }

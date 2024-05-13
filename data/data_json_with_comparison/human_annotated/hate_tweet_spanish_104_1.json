@@ -6,6 +6,7 @@
         "cn": "Los inmigrantes no son barbaros, ni intentan invadir nada. Vienen por su cuenta a intentar ganarse la vida.",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida"
     }
 }

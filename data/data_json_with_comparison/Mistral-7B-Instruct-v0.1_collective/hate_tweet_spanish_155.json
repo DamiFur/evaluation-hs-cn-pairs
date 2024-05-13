@@ -6,6 +6,7 @@
         "cn": "El uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "Es injusto y ofensivo etiquetar a alguien por su raza o religión sin ninguna prueba.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto y ofensivo etiquetar a alguien por su raza o religión sin ninguna prueba."
     }
 }

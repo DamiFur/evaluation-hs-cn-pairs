@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que la diversidad enriquece a una sociedad y que generalizar a todas las personas de una determinada nacionalidad o etnia es injusto y fomenta el odio y la discriminación. Es necesario abordar los problemas sociales de manera integral y respetuosa, sin caer en prejuicios ni estereotipos.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué eso es cierto que trabaja en el lugar en que esas niñas tienen ninguna edad? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto que trabaja en el lugar en que esas niñas tienen ninguna edad? "
     }
 }

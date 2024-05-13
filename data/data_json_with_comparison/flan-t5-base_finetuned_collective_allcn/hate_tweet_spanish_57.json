@@ -6,6 +6,7 @@
         "cn": "No es cierto que el partido antiinmigración ganara las elecciones generales en el próximo mes de septiembre. Y qué? ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "Y el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. ",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. "
     }
 }

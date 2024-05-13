@@ -6,6 +6,7 @@
         "cn": "No es cierto que el nio tiene ningn razón, y eso no es lo que es realmente. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "No es cierto que los árabes son violadores de género, y eso no tiene ninguna razón. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los árabes son violadores de género, y eso no tiene ninguna razón. "
     }
 }

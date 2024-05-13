@@ -6,6 +6,7 @@
         "cn": "Y eso es una ejemplo de integración y lucha contra el xenofobia, y es como el pueblo es indefinido. ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. "
     }
 }

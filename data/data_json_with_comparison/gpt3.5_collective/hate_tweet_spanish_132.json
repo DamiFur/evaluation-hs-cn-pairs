@@ -6,6 +6,7 @@
         "cn": "Los subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía.",
         "model": "gpt3.5_collective",
         "comparison_text": "Esta afirmación es falsa y ofrece una justificación basada en la discriminación racial.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta afirmación es falsa y ofrece una justificación basada en la discriminación racial."
     }
 }

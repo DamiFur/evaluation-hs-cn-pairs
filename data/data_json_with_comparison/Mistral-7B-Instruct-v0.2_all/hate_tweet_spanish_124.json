@@ -6,6 +6,7 @@
         "cn": "Este mensaje contiene una mezcla de ideas erróneas y ofensivas.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "No entiendo por qué estás mezclando temas tan diferentes y asociándolos con la raza o la cultura.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo por qué estás mezclando temas tan diferentes y asociándolos con la raza o la cultura."
     }
 }

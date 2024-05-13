@@ -6,6 +6,7 @@
         "cn": "Es peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este mensaje parece estar relacionado con un evento específico que se ha producido en España, pero no se puede confirmar sin más detalles.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece estar relacionado con un evento específico que se ha producido en España, pero no se puede confirmar sin más detalles."
     }
 }

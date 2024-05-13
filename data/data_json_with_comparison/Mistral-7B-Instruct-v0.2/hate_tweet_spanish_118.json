@@ -6,6 +6,7 @@
         "cn": "No es justo asociar la llegada masiva de menors a España desde MarrUEcos con una intención maliciosa o invasiva.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Esta información es incorrecta y se basa en una fuente no confiable. El número de personas que han llegado a España desde Marrakech en los últimos años es much",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es incorrecta y se basa en una fuente no confiable. El número de personas que han llegado a España desde Marrakech en los últimos años es much"
     }
 }

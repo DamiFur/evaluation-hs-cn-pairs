@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No se debería tomar esas palabras de boca de alguien como si fueran verdaderas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se debería tomar esas palabras de boca de alguien como si fueran verdaderas."
     }
 }

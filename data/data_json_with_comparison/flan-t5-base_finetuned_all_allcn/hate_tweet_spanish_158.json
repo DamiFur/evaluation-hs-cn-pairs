@@ -6,6 +6,7 @@
         "cn": "No es cierto que la cultura árabe es una cultura machista. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "Arabic culture = machista te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nArabic culture = machista te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe"
     }
 }

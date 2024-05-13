@@ -6,6 +6,7 @@
         "cn": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ilegal ademas",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Es injusto generalizar y etiquetar a todos los sudamericanos de esa manera. La migración es un fenómeno complejo y cada persona tiene sus propias razones para buscar una vida mejor. Hay que tratar a todos con respeto y empatía.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto generalizar y etiquetar a todos los sudamericanos de esa manera. La migración es un fenómeno complejo y cada persona tiene sus propias razones para buscar una vida mejor. Hay que tratar a todos con respeto y empatía."
     }
 }

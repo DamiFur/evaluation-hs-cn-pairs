@@ -6,6 +6,7 @@
         "cn": "Y qué es una inmigración a las autoridades perúodosas? ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es una inmigración a las autoridades peruanas, sino una invasión en el país. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es una inmigración a las autoridades peruanas, sino una invasión en el país. "
     }
 }

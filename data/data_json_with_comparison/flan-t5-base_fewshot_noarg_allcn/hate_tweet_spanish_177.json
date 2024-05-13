@@ -6,6 +6,7 @@
         "cn": "Asiaticos devastados por la guerra hoy tienen mejor estructura que chilito sudacos",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos."
     }
 }

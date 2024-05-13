@@ -6,6 +6,7 @@
         "cn": "No deberíamos utilizar lenguaje racista ni expresiones que promuevan la discriminación. Todas las personas merecen respeto independientemente de su color de piel. Además, evadir impuestos es ilegal y no es ético trasladar el dinero a otros países para evitar responsabilidades fiscales. Es importante cumplir con las leyes y contribuir al desarrollo de la sociedad en la que vivimos.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y eso no es cierto. Gracias gracias a la gente. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no es cierto. Gracias gracias a la gente. "
     }
 }

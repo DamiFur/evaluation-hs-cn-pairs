@@ -6,6 +6,7 @@
         "cn": "No es verdad que el Partido Anti-Inmigrante de Suecia se esté ganando en las últimas encuestas.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "La diversidad y la inclusión son valores fundamentales para construir sociedades prósperas y justas. La migración aporta riqueza cultural, talento y contribuciones económicas a los países receptores. No debemos caer en la generalización ni en el discurso del odio hacia los inmigrantes. Es importante promover el respeto mutuo y la cooperación para crear un mundo mejor para todos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa diversidad y la inclusión son valores fundamentales para construir sociedades prósperas y justas. La migración aporta riqueza cultural, talento y contribuciones económicas a los países receptores. No debemos caer en la generalización ni en el discurso del odio hacia los inmigrantes. Es importante promover el respeto mutuo y la cooperación para crear un mundo mejor para todos."
     }
 }

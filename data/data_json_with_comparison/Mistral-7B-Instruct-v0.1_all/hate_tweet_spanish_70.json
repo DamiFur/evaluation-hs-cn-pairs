@@ -6,6 +6,7 @@
         "cn": "Este comentario es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "Genera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país => y Se puede regular la actividad de los manteros sin tener que deportar a nadie https://t co/lehbkpesjsan => ng Que en un país esté tomando una postura antiinmigración no significa que acogerlos es un error, ni que los demás países estén de acuerdo con ello.   estos putos negratas noos van a robar toda la pasta iaqui menos mal que yo la tengo en panama?",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nGenera una respuesta sin odio a los siguientes mensajes:  agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país => y Se puede regular la actividad de los manteros sin tener que deportar a nadie https://t co/lehbkpesjsan => ng Que en un país esté tomando una postura antiinmigración no significa que acogerlos es un error, ni que los demás países estén de acuerdo con ello.   estos putos negratas noos van a robar toda la pasta iaqui menos mal que yo la tengo en panama?"
     }
 }

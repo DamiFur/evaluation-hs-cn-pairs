@@ -6,6 +6,7 @@
         "cn": "No se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir.",
         "model": "gpt3.5",
         "comparison_text": "No es cierto que los manteros atacan a turistas y hay reyertas en el raval adolescente. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los manteros atacan a turistas y hay reyertas en el raval adolescente. "
     }
 }

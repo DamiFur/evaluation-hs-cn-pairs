@@ -6,6 +6,7 @@
         "cn": "el pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos, defendamos lo nuestro hagamos patria @user@user @user @user &lt;b&gt;",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Sí, es importante que se defienda el sistema de alimentación y se impida la speculación de precio de los productos impuestos por ciertos grupos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nSí, es importante que se defienda el sistema de alimentación y se impida la speculación de precio de los productos impuestos por ciertos grupos."
     }
 }

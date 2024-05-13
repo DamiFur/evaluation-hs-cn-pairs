@@ -6,6 +6,7 @@
         "cn": "No es cierto que los negratas no robarán todos los países. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "Este comentario es racista y ofensivo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es racista y ofensivo."
     }
 }

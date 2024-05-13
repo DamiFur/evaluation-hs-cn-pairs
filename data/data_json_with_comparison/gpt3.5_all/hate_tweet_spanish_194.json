@@ -6,6 +6,7 @@
         "cn": "No podemos permitirnos caer en la generalización y el odio hacia un grupo de personas por su origen o situación migratoria. Todos merecen respeto y comprensión, sin importar de dónde vengan. La violencia no es la respuesta para abordar estas situaciones. Es necesario buscar soluciones humanitarias y justas para abordar la migración de manera adecuada.",
         "model": "gpt3.5_all",
         "comparison_text": "No es cierto que los sudacas y centroamirdicanos pasan por mi país violentando gente porque \\\"no tienen dinero\\\"... ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los sudacas y centroamirdicanos pasan por mi país violentando gente porque \\\"no tienen dinero\\\"... "
     }
 }

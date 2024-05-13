@@ -6,6 +6,7 @@
         "cn": "La especulación de precios es un problema real, pero culpar a ciertas nacionalidades no es la solución. Todos debemos trabajar juntos para encontrar una solución justa y equitativa.",
         "model": "gpt3.5_collective",
         "comparison_text": " Es importante defender nuestros intereses económicos, pero es importante hacerlo de manera ética y legal.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante defender nuestros intereses económicos, pero es importante hacerlo de manera ética y legal."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe."
     }
 }

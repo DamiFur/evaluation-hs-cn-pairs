@@ -6,6 +6,7 @@
         "cn": "Y eso no es razas espiritual. Gracias a la raza en ese país. ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es cierto que los árabes son razas dominadas como el libro, y eso es una raza tan espiritual. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los árabes son razas dominadas como el libro, y eso es una raza tan espiritual. "
     }
 }

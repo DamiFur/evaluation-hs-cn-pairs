@@ -6,6 +6,7 @@
         "cn": "Este mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_61> No es cierto que los nios y los abuelos tienen nada que eso es lo que tiene. No hay nada que que tienen. No tienen que que el hombre tiene nada. <extra_id_32>",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_61> No es cierto que los nios y los abuelos tienen nada que eso es lo que tiene. No hay nada que que tienen. No tienen que que el hombre tiene nada. <extra_id_32>"
     }
 }

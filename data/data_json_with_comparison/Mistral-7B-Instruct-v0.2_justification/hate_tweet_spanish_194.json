@@ -6,6 +6,7 @@
         "cn": "El hecho de que alguien pasa por tu país buscando mejores oportunidades no justifica que cometan actos violentos. Todas las personas, independient",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que los sudacas y centroamirdicanos no son mas violentos. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los sudacas y centroamirdicanos no son mas violentos. "
     }
 }

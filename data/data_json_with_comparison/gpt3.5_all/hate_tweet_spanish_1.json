@@ -6,6 +6,7 @@
         "cn": "No se trata de culpar a los inmigrantes ilegales, sino de encontrar soluciones justas y humanitarias para abordar la situación. Los votantes tienen el poder de elegir líderes que adopten políticas compasivas y efectivas en materia migratoria.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué eso es cierto? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "<extra_id_48> El imperio romano es el imperio europeo, y eso no es una razón para destruir la imperio romana, y no tiene nada en el mundo. No hay nada de inmigrantes, ni nada de nios. No tiene que encontrar esas razones. No puede destruicar la imperio Romano, no puede. <extra_id_69>",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "Esa mentalidad xenófoba y conspirativa solo perpetúa el odio y la división. La inmigración no es una estrategia para atacar a Europa, sino una búsqueda de mejores oportunidades y una vida digna. Hay que combatir el racismo y la xenofobia en lugar de alimentarlo.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsa mentalidad xenófoba y conspirativa solo perpetúa el odio y la división. La inmigración no es una estrategia para atacar a Europa, sino una búsqueda de mejores oportunidades y una vida digna. Hay que combatir el racismo y la xenofobia en lugar de alimentarlo."
     }
 }

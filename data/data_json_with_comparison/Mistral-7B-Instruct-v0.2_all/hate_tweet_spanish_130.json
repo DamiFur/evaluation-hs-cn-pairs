@@ -6,6 +6,7 @@
         "cn": " Es importante recordar que el uso de generalizaciones basadas en el origen étnico o racial es erróneo y ofensivo.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "No estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real"
     }
 }

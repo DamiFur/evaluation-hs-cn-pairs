@@ -6,6 +6,7 @@
         "cn": "Ese rechazo a los árabes, dejame decirte, es solo un prejuicio.",
         "model": "human_annotated",
         "comparison_text": "La adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,"
     }
 }

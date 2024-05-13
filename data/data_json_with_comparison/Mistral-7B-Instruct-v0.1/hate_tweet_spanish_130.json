@@ -6,6 +6,7 @@
         "cn": "Tienes una visión muy limitada y prejudicada.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es importante recordar que todas las personas, independientemente de su origen étnico, merecen ser tratadas con respeto y dignidad. Culpar a toda una raza o grupo étnico por los actos de unos pocos individuos es injusto y perpetúa estereotipos negativos. Debemos buscar la armonía y la convivencia pacífica entre todas las culturas y etnias.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que todas las personas, independientemente de su origen étnico, merecen ser tratadas con respeto y dignidad. Culpar a toda una raza o grupo étnico por los actos de unos pocos individuos es injusto y perpetúa estereotipos negativos. Debemos buscar la armonía y la convivencia pacífica entre todas las culturas y etnias."
     }
 }

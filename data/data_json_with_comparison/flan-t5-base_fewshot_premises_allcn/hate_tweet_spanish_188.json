@@ -6,6 +6,7 @@
         "cn": "@user https://t co/l4",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Ni todos los manteros son ilegales, ni todos los ilegales violentos. Dejemos de estigmatizar, que terminaremos culpando a los inocentes y defendiendo culpables.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNi todos los manteros son ilegales, ni todos los ilegales violentos. Dejemos de estigmatizar, que terminaremos culpando a los inocentes y defendiendo culpables."
     }
 }

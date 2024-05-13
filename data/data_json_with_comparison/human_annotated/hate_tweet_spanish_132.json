@@ -6,6 +6,7 @@
         "cn": "No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.",
         "model": "human_annotated",
         "comparison_text": "¿Qué significa \\\"tonto\\\" y \\\"corro\\\"? ¿Y qué tiene que ver con la raza? No es correcto generalizar a todo el mundo de una misma r",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué significa \\\"tonto\\\" y \\\"corro\\\"? ¿Y qué tiene que ver con la raza? No es correcto generalizar a todo el mundo de una misma r"
     }
 }

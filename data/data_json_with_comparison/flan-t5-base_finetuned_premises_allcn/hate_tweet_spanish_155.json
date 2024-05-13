@@ -6,6 +6,7 @@
         "cn": "No es cierto que los nios han abusado en el trabajo. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "No es cierto que la nacionalidad de los 3 abusos de niña tiene nada que descubrir. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la nacionalidad de los 3 abusos de niña tiene nada que descubrir. "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "@user no iba a desechar la nacionalidad de los 3 moro errados que han abusado en ciencia de una niña",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "No importa la nacionalidad de los perpetradores, lo importante es condenar el acto abusivo y garantizar que se haga justicia. Discriminar por nacionalidad no ayuda a resolver el problema.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo importa la nacionalidad de los perpetradores, lo importante es condenar el acto abusivo y garantizar que se haga justicia. Discriminar por nacionalidad no ayuda a resolver el problema."
     }
 }

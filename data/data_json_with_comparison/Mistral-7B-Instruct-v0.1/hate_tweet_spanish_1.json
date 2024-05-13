@@ -6,6 +6,7 @@
         "cn": "La responsabilidad de pagar los impuestos y garantizar el bienestar de los ciudadanos no se deja a cargo de una sola persona o entidad.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "No se trata de culpar a los inmigrantes ilegales, sino de encontrar soluciones justas y humanitarias para abordar la situación. Los votantes tienen el poder de elegir líderes que adopten políticas compasivas y efectivas en materia migratoria.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se trata de culpar a los inmigrantes ilegales, sino de encontrar soluciones justas y humanitarias para abordar la situación. Los votantes tienen el poder de elegir líderes que adopten políticas compasivas y efectivas en materia migratoria."
     }
 }

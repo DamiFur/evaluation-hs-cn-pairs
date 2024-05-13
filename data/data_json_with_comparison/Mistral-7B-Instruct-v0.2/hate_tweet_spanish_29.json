@@ -6,6 +6,7 @@
         "cn": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No hay razón para creer que alguien quiera hacerlo por su raza.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay razón para creer que alguien quiera hacerlo por su raza."
     }
 }

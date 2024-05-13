@@ -6,6 +6,7 @@
         "cn": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No es correcto afirmar que todos los migrantes son refuerzos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que todos los migrantes son refuerzos."
     }
 }

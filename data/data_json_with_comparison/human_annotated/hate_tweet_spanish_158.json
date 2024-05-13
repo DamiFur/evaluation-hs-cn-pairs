@@ -6,6 +6,7 @@
         "cn": "Que haya algunos árabes machistas no implica que su cultura lo sea.  Aquí hay machistas también, y no dices que nuestra cultura sea machista.",
         "model": "human_annotated",
         "comparison_text": "El machisme no solo es un problema en la culturas Árabes, sino también en muchas otras partes del mundo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl machisme no solo es un problema en la culturas Árabes, sino también en muchas otras partes del mundo."
     }
 }

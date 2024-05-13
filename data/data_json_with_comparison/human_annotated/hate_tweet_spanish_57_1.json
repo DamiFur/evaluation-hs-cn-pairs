@@ -6,6 +6,7 @@
         "cn": "Los indocumentados suelen aceptar los trabajos que nadie quiere hacer. No es cierto que no aporten nada.",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que todos los seres humanos tienen derechos y deben ser tratados con respeto y dignidad, sin importar su lugar de origen o su estatus",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que todos los seres humanos tienen derechos y deben ser tratados con respeto y dignidad, sin importar su lugar de origen o su estatus"
     }
 }

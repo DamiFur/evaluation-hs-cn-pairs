@@ -6,6 +6,7 @@
         "cn": "nationality or etnia believes that it is best to adapt to western European life (have rights and liberties women lgtb convi pf best chinos because I think we are already very acostumbrados and idk worse arabes yo https://t co/ycmdcfwxcg | Justifica",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "No creo que haya diferencia alguna, realmente...",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que haya diferencia alguna, realmente..."
     }
 }

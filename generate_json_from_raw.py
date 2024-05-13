@@ -39,7 +39,7 @@ for idx, folder in enumerate(models_list):
             data = [line for line in data if line != ""]
             json_data = {}
             hs_num = file.split("/")[-1].replace("hate_tweet_spanish_", "").replace(".txt", "")
-            json_data["data"] = {"text": text_template(data[0], data[1]), "number": hs_num,"hs": data[0], "cn": data[1], "model": folder, "comparison_text": comparison_data[1], "comparison_model": comparison_folder}
+            json_data["data"] = {"text": text_template(data[0], data[1]), "number": hs_num,"hs": data[0], "cn": data[1], "model": folder, "comparison_text": comparison_data[1], "comparison_model": comparison_folder, "comparison_text_complete": f"Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n{comparison_data[1]}"}
             if not os.path.exists(f"data/data_json_with_comparison/{folder}"):
                 os.makedirs(f"data/data_json_with_comparison/{folder}")
             with open(f"data/data_json_with_comparison/{folder}/hate_tweet_spanish_{hs_num}.json", "w") as w:

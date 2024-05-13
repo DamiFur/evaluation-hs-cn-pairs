@@ -6,6 +6,7 @@
         "cn": "Genera una respuesta sin odio a los siguientes mensajes: agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando apostura antiinmigración no significa que acoperlos sera un error, ni que los demás países estén de acuerdo con ello. hege y en toda Europa se están matando y violando a millones y millones de blancos pero eso no mencionas tampoco mencionados que esas negros y arabes causan problemas",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "Es importante recordar que la violencia y el crimen no tienen relación directa con la raza o la etnia de las personas. Culpar a grupos étnicos específicos por los problemas en Europa es una generalización injusta y discriminatoria. Debemos enfocarnos en la importancia de la igualdad, la diversidad y la convivencia pacífica entre todos los ciudadanos, independientemente de su origen.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la violencia y el crimen no tienen relación directa con la raza o la etnia de las personas. Culpar a grupos étnicos específicos por los problemas en Europa es una generalización injusta y discriminatoria. Debemos enfocarnos en la importancia de la igualdad, la diversidad y la convivencia pacífica entre todos los ciudadanos, independientemente de su origen."
     }
 }

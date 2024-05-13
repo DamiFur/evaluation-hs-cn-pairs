@@ -6,6 +6,7 @@
         "cn": "No es cierto que algo se puede en el país es un caos organizado surrealista. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región"
     }
 }

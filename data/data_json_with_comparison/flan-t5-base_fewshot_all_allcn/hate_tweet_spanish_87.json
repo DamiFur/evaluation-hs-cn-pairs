@@ -6,6 +6,7 @@
         "cn": "\\\"lindos negritos visitantes\\\"\\\" are safe",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "No hay lugar para comentarios racistas y despectivos. Todos los seres humanos merecen ser tratados con respeto y dignidad, independientemente de su origen o color de piel. Es necesario promover la empatía y la solidaridad en lugar del odio y la discriminación. Apoyemos la diversidad y la inclusión en lugar de fomentar la xenofobia.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay lugar para comentarios racistas y despectivos. Todos los seres humanos merecen ser tratados con respeto y dignidad, independientemente de su origen o color de piel. Es necesario promover la empatía y la solidaridad en lugar del odio y la discriminación. Apoyemos la diversidad y la inclusión en lugar de fomentar la xenofobia."
     }
 }

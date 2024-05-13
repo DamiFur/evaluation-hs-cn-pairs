@@ -6,6 +6,7 @@
         "cn": "Por qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "El hecho de que el alcalde de Riace haya abierto las puestas para inmobiliarios para construir viviendas permanentes para los migrantes no signific",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl hecho de que el alcalde de Riace haya abierto las puestas para inmobiliarios para construir viviendas permanentes para los migrantes no signific"
     }
 }

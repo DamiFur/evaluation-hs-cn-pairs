@@ -6,6 +6,7 @@
         "cn": "No puedo decir si es verdad o falso, pero es importante recordar que la migración es un fenómeno complejo y no se puede reducir a un solo",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "Colectivo: subsaharianos |",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nColectivo: subsaharianos |"
     }
 }

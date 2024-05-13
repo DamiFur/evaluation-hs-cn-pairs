@@ -6,6 +6,7 @@
         "cn": "No tiene ninguna estructura que eso tiene. No tienen nada. ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "Este tweet no proporciona suficiente contexto ni información relevante para hacer una afirmación contra la racismo o xenoﬁoba.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no proporciona suficiente contexto ni información relevante para hacer una afirmación contra la racismo o xenoﬁoba."
     }
 }

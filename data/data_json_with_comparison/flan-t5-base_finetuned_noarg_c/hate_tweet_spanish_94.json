@@ -6,6 +6,7 @@
         "cn": "Por qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "No estoy de acuerdo con el uso injustificado de la palabra \\\"manterismo\\\" y su aplicación en este contexto.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo estoy de acuerdo con el uso injustificado de la palabra \\\"manterismo\\\" y su aplicación en este contexto."
     }
 }

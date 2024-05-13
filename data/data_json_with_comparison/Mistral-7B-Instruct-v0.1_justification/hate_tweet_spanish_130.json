@@ -6,6 +6,7 @@
         "cn": "Este comentario es altamente racista y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_48> Y esos negros y esas niñas causan problemas, pero no es cierto que los negros son violadores. No es necesario que los israelinos y los arabes tienen problemas.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_48> Y esos negros y esas niñas causan problemas, pero no es cierto que los negros son violadores. No es necesario que los israelinos y los arabes tienen problemas."
     }
 }

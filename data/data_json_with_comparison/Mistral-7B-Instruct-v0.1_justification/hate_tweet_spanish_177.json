@@ -6,6 +6,7 @@
         "cn": "Este comentario es ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "No es cierto que los asiaticos devastados por la guerra tienen mejor estructura que chilito. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los asiaticos devastados por la guerra tienen mejor estructura que chilito. "
     }
 }

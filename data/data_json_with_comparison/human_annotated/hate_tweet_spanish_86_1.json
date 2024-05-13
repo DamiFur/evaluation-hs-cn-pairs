@@ -6,6 +6,7 @@
         "cn": "Lo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues no es cierto que eso no tiene ningn efecto en el país. "
     }
 }

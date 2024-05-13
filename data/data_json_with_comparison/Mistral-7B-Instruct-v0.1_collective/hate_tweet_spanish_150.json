@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que todos los ciudadanos son iguales ante la ley y tienen los mismos derechos y obligaciones.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "Es injusto asignar esa acción negativa a toda una comunidad basada en su origen étnico.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto asignar esa acción negativa a toda una comunidad basada en su origen étnico."
     }
 }

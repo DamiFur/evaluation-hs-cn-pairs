@@ -6,6 +6,7 @@
         "cn": "Es importante no generalizar ni caer en el discurso del odio. Los actos individuales no representan a todos los inmigrantes ni a una comunidad en su totalidad. Todos los seres humanos merecen respeto y trato digno, independientemente de su origen o estatus migratorio. La alcaldesa seguramente tomará medidas para abordar la situación de manera justa y equitativa.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué eso no es cierto? No es lo que tiene que decir? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso no es cierto? No es lo que tiene que decir? "
     }
 }

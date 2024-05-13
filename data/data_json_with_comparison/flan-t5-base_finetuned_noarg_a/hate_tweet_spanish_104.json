@@ -6,6 +6,7 @@
         "cn": "No creo que es una estrategia para entrar a Europa y atacarla, y eso no tiene razón nada a los inmigrantes. ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde hace mil años. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde hace mil años. "
     }
 }

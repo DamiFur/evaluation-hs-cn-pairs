@@ -6,6 +6,7 @@
         "cn": "It's important to remember that generalizations and stereotypes are harmful and inaccurate.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "No es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad."
     }
 }

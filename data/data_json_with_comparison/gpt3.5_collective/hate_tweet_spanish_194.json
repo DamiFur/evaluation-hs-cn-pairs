@@ -6,6 +6,7 @@
         "cn": "Es injusto generalizar y etiquetar a todos los sudamericanos de esa manera. La migración es un fenómeno complejo y cada persona tiene sus propias razones para buscar una vida mejor. Hay que tratar a todos con respeto y empatía.",
         "model": "gpt3.5_collective",
         "comparison_text": "La violencia no tiene nada que ver con el país de origen de las personas involucradas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa violencia no tiene nada que ver con el país de origen de las personas involucradas."
     }
 }

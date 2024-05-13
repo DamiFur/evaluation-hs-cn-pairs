@@ -6,6 +6,7 @@
         "cn": "hashtag defiendeespaña elección ya hashtag españa hashtag eleccionesgeneralesya",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Es peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Esa afirmación no tiene ninguna base científica o factual.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "Asiaticos devastados por la guerra hoy tienen mejor estructura que chilito sudacos",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nAsiaticos devastados por la guerra hoy tienen mejor estructura que chilito sudacos"
     }
 }

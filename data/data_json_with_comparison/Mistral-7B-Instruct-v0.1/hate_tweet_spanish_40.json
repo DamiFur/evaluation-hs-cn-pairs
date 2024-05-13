@@ -6,6 +6,7 @@
         "cn": "Ese comportamiento es inaceptable, pero no se debe generalizar al resto de la población de subsáharinos en el Perú.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es importante recordar que la diversidad enriquece a una sociedad y que generalizar a todas las personas de una determinada nacionalidad o etnia es injusto y fomenta el odio y la discriminación. Es necesario abordar los problemas sociales de manera integral y respetuosa, sin caer en prejuicios ni estereotipos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la diversidad enriquece a una sociedad y que generalizar a todas las personas de una determinada nacionalidad o etnia es injusto y fomenta el odio y la discriminación. Es necesario abordar los problemas sociales de manera integral y respetuosa, sin caer en prejuicios ni estereotipos."
     }
 }

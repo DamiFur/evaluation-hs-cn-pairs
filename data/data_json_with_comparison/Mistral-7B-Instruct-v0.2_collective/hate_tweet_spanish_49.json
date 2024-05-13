@@ -6,6 +6,7 @@
         "cn": "No es posible hacer juicios generales sobre una base de datos tan pequeña y sesgada.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "ike that nationality or ethnicity believes that it adapts better to western European life (have rights and liberties women lgtb convi pf better chinos because I believe that we are already very acostumbrados and idk worse for the arabes y myself http://t co/ycmdcfwxcg",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nike that nationality or ethnicity believes that it adapts better to western European life (have rights and liberties women lgtb convi pf better chinos because I believe that we are already very acostumbrados and idk worse for the arabes y myself http://t co/ycmdcfwxcg"
     }
 }

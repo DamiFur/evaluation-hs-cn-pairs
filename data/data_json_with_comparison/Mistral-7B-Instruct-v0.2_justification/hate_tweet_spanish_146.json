@@ -6,6 +6,7 @@
         "cn": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que el pueblo exige mas atención en el sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el pueblo exige mas atención en el sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. "
     }
 }

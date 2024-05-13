@@ -6,6 +6,7 @@
         "cn": "Estás siendo paranoico. No se va a \\\"desbordar\\\", y es por eso que no hace falta ponerle \\\"coto y fin\\\"",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar."
     }
 }

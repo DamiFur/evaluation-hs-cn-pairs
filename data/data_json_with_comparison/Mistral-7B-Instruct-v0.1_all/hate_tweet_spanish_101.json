@@ -6,6 +6,7 @@
         "cn": "No es correcto afirmar que todos los migrantes son refuerzos.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país. No hay que deportar a nadie.",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nagresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país. No hay que deportar a nadie."
     }
 }

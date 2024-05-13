@@ -6,6 +6,7 @@
         "cn": "@user no iba a desechar la nacionalidad de los 3 abusos que han abusado en ciencia de una niña",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "No, lo importante es que se den cuenta de estas acciones y se actúe de acuerdo con la ley.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo, lo importante es que se den cuenta de estas acciones y se actúe de acuerdo con la ley."
     }
 }

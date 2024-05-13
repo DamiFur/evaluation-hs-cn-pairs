@@ -6,6 +6,7 @@
         "cn": "The following messages of odio: agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidarity lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando a postura antiinmigración no significa que acogierlos sera un error, ni que los demás países estén de acuerdo con ello. i que les pasa a todos que me quieren hacer usar turbante de arabes soy negro pero tampoco para tanto | Justification: soy nigra pero negrin pero a tampaco para tanta | Conclusion: que les pase a todas que me quiere hacer usar turbantes de arabe (value)",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Tranquilo, nadie te va a obligar a nada.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTranquilo, nadie te va a obligar a nada."
     }
 }

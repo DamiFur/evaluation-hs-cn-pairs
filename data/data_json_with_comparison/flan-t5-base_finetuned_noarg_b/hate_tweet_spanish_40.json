@@ -6,6 +6,7 @@
         "cn": "<extra_id_61> No es cierto que los nios y los abuelos tienen nada que eso es lo que tiene. No hay nada que que tienen. No tienen que que el hombre tiene nada. <extra_id_32>",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "No podemos permitir que esos comentarios xenófobos y racistas se propaguen y fomenten el odio hacia nuestros hermanos y hermanas de distintas nacionalidades. Todos merecen ser tratados con respeto y dignidad, independientemente de donde sean. La diversidad es algo que enriquece a la sociedad, no debemos permitir que el miedo y la ignorancia nos dividan. Promovamos la inclusión y la solidaridad en lugar del rechazo y la intolerancia. ¡Respeto para todos!",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos permitir que esos comentarios xenófobos y racistas se propaguen y fomenten el odio hacia nuestros hermanos y hermanas de distintas nacionalidades. Todos merecen ser tratados con respeto y dignidad, independientemente de donde sean. La diversidad es algo que enriquece a la sociedad, no debemos permitir que el miedo y la ignorancia nos dividan. Promovamos la inclusión y la solidaridad en lugar del rechazo y la intolerancia. ¡Respeto para todos!"
     }
 }

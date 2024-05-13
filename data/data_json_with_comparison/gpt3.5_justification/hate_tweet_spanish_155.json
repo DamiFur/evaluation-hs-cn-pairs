@@ -6,6 +6,7 @@
         "cn": "No importa la nacionalidad de los perpetradores, lo importante es condenar el acto abusivo y garantizar que se haga justicia. Discriminar por nacionalidad no ayuda a resolver el problema.",
         "model": "gpt3.5_justification",
         "comparison_text": "No tiene que descubrir la nacionalidad de los 3 nios que abusaban en el lugar de una persona. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tiene que descubrir la nacionalidad de los 3 nios que abusaban en el lugar de una persona. "
     }
 }

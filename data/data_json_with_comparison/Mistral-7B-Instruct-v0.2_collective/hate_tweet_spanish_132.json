@@ -6,6 +6,7 @@
         "cn": "Es injusto y erroneo asignarle la responsabilidad de una supuesta \\\"invasión\\\" a un grupo étnico específico.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "Spanish is being invaded by the subsaharians and here don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 =>.",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nSpanish is being invaded by the subsaharians and here don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 =>."
     }
 }

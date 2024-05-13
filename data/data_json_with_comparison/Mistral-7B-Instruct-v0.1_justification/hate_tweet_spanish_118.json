@@ -6,6 +6,7 @@
         "cn": "Esta información es incorrecta.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_75> Por qué es cierto que los inmigrantes en el mundo tienen que encontrar esos nios? No, no hay inmigrantes, ni ni siquiera tienen nada?",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_75> Por qué es cierto que los inmigrantes en el mundo tienen que encontrar esos nios? No, no hay inmigrantes, ni ni siquiera tienen nada?"
     }
 }

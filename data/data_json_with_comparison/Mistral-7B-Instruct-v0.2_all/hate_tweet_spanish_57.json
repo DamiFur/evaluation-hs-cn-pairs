@@ -6,6 +6,7 @@
         "cn": "Muchas personas comparten la preocupación sobre el aumento del flujo migratorio ilegal y su impacto en el sistema social y económico de Suecia",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Muchas personas tienen puntos de vista diferentes acerca de la migración.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMuchas personas tienen puntos de vista diferentes acerca de la migración."
     }
 }

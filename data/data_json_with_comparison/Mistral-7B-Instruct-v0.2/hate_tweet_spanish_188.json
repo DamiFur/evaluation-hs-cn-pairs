@@ -6,6 +6,7 @@
         "cn": "La situación que presentas es compleja y no puede ser resumida solo en términos negativos.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No, la situación es grave y requiere una acción urgente.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo, la situación es grave y requiere una acción urgente."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Dudo que las elecciones puedan cambiar algo. Esas políticas están reguladas por leyes, no por el capricho del gobierno de turno, y esta bien que así sea. ",
         "model": "human_annotated",
         "comparison_text": "La noticia es falsa, no hay evidencia que apoye esa afirmación.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa noticia es falsa, no hay evidencia que apoye esa afirmación."
     }
 }

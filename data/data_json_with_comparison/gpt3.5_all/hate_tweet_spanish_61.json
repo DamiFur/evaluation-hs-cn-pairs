@@ -6,6 +6,7 @@
         "cn": "Todos merecen ser acogidos y respetados, la xenofobia y el miedo solo generan división y desconfianza. Hay que rechazar cualquier tipo de discurso que promueva el odio. Hashtag AcogidaSolidaria.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. "
     }
 }

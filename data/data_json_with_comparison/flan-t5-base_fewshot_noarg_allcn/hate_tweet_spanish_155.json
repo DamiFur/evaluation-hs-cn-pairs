@@ -6,6 +6,7 @@
         "cn": "@user obviamente @user no iba a desear la nacionalidad de los 3 moro pedidos que han abusado en términa de una niña =>",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No está bien etiquetar a un colectivo entero por las acciones de unos pocos individuos. No todos los moros son abusadores, así como no todos los españoles lo son. La generalización solo promueve la xenofobia y el odio.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo está bien etiquetar a un colectivo entero por las acciones de unos pocos individuos. No todos los moros son abusadores, así como no todos los españoles lo son. La generalización solo promueve la xenofobia y el odio."
     }
 }

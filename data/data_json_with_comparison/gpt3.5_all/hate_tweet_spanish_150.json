@@ -6,6 +6,7 @@
         "cn": "Es completamente incorrecto y discriminatorio afirmar que los subsaharianos están organizándose para asaltar fronteras y hacerse cargo de nuestras pensiones. Hay que rechazar estas ideas de odio y xenofobia, y recordar que la diversidad y la inclusión son fundamentales para el progreso de la sociedad. Todos merecen respeto y la oportunidad de contribuir positivamente a la comunidad.",
         "model": "gpt3.5_all",
         "comparison_text": "No es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. "
     }
 }

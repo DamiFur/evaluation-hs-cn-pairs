@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales",
         "model": "gpt3.5_justification",
         "comparison_text": "Y eso no significa que nadie tiene nada sin fueran refugiados gloria. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no significa que nadie tiene nada sin fueran refugiados gloria. "
     }
 }

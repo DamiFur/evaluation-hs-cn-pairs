@@ -6,6 +6,7 @@
         "cn": "Por qué crees que se adapta mejor a la vida occidental europea? ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "nationality or etnia believes that it is best to adapt to western European life (have rights and liberties women lgtb convi pf best chinos because I think we are already very acostumbrados and idk worse arabes yo https://t co/ycmdcfwxcg | Justifica",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nnationality or etnia believes that it is best to adapt to western European life (have rights and liberties women lgtb convi pf best chinos because I think we are already very acostumbrados and idk worse arabes yo https://t co/ycmdcfwxcg | Justifica"
     }
 }

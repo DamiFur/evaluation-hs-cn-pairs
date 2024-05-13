@@ -6,6 +6,7 @@
         "cn": "No hay suficientes datos o contexto en el enlace proporcionado para determinar con certeza las intenciones o motivos detrás de la migr",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que los inmigrantes o los envecos han entrado solos desde marruecos. Por qué? ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes o los envecos han entrado solos desde marruecos. Por qué? "
     }
 }

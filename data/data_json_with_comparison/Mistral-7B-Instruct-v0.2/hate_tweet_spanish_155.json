@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No sabes lo que estás hablando, pero es importante recordar que la raza no tiene nada que ver con el comportamiento malvado de alguien.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo sabes lo que estás hablando, pero es importante recordar que la raza no tiene nada que ver con el comportamiento malvado de alguien."
     }
 }

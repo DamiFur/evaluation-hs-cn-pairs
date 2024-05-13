@@ -6,6 +6,7 @@
         "cn": "Por qué no es una inmigración a las autoridades peruanas? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": " El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que requiera un \\\"coto\\\" o \\\"fin\\\".",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que requiera un \\\"coto\\\" o \\\"fin\\\"."
     }
 }

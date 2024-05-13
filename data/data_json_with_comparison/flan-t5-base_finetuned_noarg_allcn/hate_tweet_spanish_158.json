@@ -6,6 +6,7 @@
         "cn": "No es cierto que la cultura árabe es una cultura machista. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "No es justo generalizar que toda una culture o descendentes son machistas basado en experiencias personales.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo generalizar que toda una culture o descendentes son machistas basado en experiencias personales."
     }
 }

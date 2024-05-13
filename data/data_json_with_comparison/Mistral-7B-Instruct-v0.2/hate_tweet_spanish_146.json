@@ -6,6 +6,7 @@
         "cn": " Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "El sistema de distribución de productos agrícolas es complejo y no se puede atribuir a un solo grupo de personas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl sistema de distribución de productos agrícolas es complejo y no se puede atribuir a un solo grupo de personas."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "It is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families."
     }
 }

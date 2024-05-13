@@ -6,6 +6,7 @@
         "cn": "Este punto de vista es racista y no tiene base en la realidad.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "No caigamos en la división y la xenofobia. Es importante abordar la situación de manera humanitaria y buscar soluciones que beneficien a todos. Los migrantes subsaharianos merecen respeto y apoyo en su camino hacia una vida mejor. Hastags como #caminodevenezuela y #señorllevamépronto no ayudan a resolver el problema de forma constructiva.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo caigamos en la división y la xenofobia. Es importante abordar la situación de manera humanitaria y buscar soluciones que beneficien a todos. Los migrantes subsaharianos merecen respeto y apoyo en su camino hacia una vida mejor. Hastags como #caminodevenezuela y #señorllevamépronto no ayudan a resolver el problema de forma constructiva."
     }
 }

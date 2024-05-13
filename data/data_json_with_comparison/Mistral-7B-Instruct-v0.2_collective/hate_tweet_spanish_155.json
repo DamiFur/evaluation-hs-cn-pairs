@@ -6,6 +6,7 @@
         "cn": "Es injusto y ofensivo etiquetar a alguien por su raza o religión sin ninguna prueba.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "@user obviamente @user no iba a desear la nacionalidad de los 3 moro pedidos que han abusado en términa de una niña =>",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user obviamente @user no iba a desear la nacionalidad de los 3 moro pedidos que han abusado en términa de una niña =>"
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No se de que hablas, ni se donde viste eso. Hasta donde se, esto podría no haber ocurrido nunca.",
         "model": "human_annotated",
         "comparison_text": "La situación que describes es grave y debe ser abordada con urgencia.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación que describes es grave y debe ser abordada con urgencia."
     }
 }

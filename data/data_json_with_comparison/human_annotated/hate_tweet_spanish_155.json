@@ -6,6 +6,7 @@
         "cn": "Pues quizás porque no es relevante realmente.",
         "model": "human_annotated",
         "comparison_text": "El uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio."
     }
 }

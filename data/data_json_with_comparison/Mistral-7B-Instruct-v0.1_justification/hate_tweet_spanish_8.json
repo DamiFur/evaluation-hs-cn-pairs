@@ -6,6 +6,7 @@
         "cn": "No es bueno hablar de esos temas de manera irresponsable y sin evidencia.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_57> El nio tiene violencia de género y otras obras, pero eso no es cierto que el hombre tiene la razón de que esa es una razón en el mundo.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_57> El nio tiene violencia de género y otras obras, pero eso no es cierto que el hombre tiene la razón de que esa es una razón en el mundo."
     }
 }

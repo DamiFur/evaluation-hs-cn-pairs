@@ -6,6 +6,7 @@
         "cn": "@user @user descendencia arabe siguen inculcando el machismo =>",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No se puede generalizar y etiquetar a toda una cultura como machista. Eso solo perpetua estereotipos injustos y perjudiciales. Es importante educarnos y aprender a respetar la diversidad cultural.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se puede generalizar y etiquetar a toda una cultura como machista. Eso solo perpetua estereotipos injustos y perjudiciales. Es importante educarnos y aprender a respetar la diversidad cultural."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Me parece que estás tomando un estudio científico serio, y sacándolo completamente de contexto. No se puede tomar en serio algo así.",
         "model": "human_annotated",
         "comparison_text": "El brutalismo no tiene nada que ver con el origen de una persona.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl brutalismo no tiene nada que ver con el origen de una persona."
     }
 }

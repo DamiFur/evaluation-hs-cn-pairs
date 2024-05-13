@@ -6,6 +6,7 @@
         "cn": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": " Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic"
     }
 }

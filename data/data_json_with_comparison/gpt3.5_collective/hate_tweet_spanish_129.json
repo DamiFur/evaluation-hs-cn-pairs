@@ -6,6 +6,7 @@
         "cn": "Los subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este comentario parece estar basado en una opinión personal y no en hechos verificables.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario parece estar basado en una opinión personal y no en hechos verificables."
     }
 }

@@ -6,6 +6,7 @@
         "cn": " It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Lo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial."
     }
 }

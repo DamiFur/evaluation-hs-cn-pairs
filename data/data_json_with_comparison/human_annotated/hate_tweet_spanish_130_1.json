@@ -6,6 +6,7 @@
         "cn": "Dices que los árabes y negros causan problemas, pero no es cierto. Como en todos lados, algunos quizá delinquen, muchos otros trabajan y aportan.",
         "model": "human_annotated",
         "comparison_text": "La violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales."
     }
 }

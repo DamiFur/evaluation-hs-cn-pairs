@@ -6,6 +6,7 @@
         "cn": "No se puede generalizar sobre la adaptación de nacionalidades o etnias a la vida occidental europea basándose en prejuicios y estereotipos. Cada persona, independientemente de su origen, merece respeto y tiene el derecho a vivir en libertad y con igualdad de derechos. La diversidad enriquece a la sociedad y es importante combatir cualquier forma de discriminación.",
         "model": "gpt3.5_justification",
         "comparison_text": "No creo que estamos muy acostumbrados y idk peor a los árabes. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que estamos muy acostumbrados y idk peor a los árabes. "
     }
 }

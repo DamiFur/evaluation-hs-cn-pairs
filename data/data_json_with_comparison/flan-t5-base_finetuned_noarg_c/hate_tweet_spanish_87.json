@@ -6,6 +6,7 @@
         "cn": "No hay ninguna escritura en el caso de que eso no es cierto. Por suerte, no hay nada. ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "Este comentário é racista e ofensivo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentário é racista e ofensivo."
     }
 }

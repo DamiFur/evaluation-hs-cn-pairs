@@ -6,6 +6,7 @@
         "cn": "Este punto de vista es discriminatorio y debe ser rechazado.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_57> Sólo es una inmigración a las autoridades peruanas? No es cierto que el inmigrante tiene que reaccionarse a la invasión? No, no es inmigrarse en esos casos. No hay inmigrantes en EE.UU., no hay inmigradores en otros países, y no hay ninguna inmigranción a través de esas invasiones.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_57> Sólo es una inmigración a las autoridades peruanas? No es cierto que el inmigrante tiene que reaccionarse a la invasión? No, no es inmigrarse en esos casos. No hay inmigrantes en EE.UU., no hay inmigradores en otros países, y no hay ninguna inmigranción a través de esas invasiones."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No es cierto que la nacionalidad de los 3 moro mierdas abusado en el lugar de una niña. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "Mis palabras fueron tomadas fuera de contexto y malinterpretadas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMis palabras fueron tomadas fuera de contexto y malinterpretadas."
     }
 }

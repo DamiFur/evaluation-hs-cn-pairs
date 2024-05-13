@@ -6,6 +6,7 @@
         "cn": "Que asocien a los negros con los robos parece una excusa, o bien, que necesitan un chivo expiatorio.",
         "model": "human_annotated",
         "comparison_text": "Es incorrecto afirmar que todos los negros son ladrones.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs incorrecto afirmar que todos los negros son ladrones."
     }
 }

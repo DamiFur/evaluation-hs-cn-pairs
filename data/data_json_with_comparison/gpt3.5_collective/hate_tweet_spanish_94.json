@@ -6,6 +6,7 @@
         "cn": "La violencia y la agresión hacia cualquier persona, ya sean turistas o policías, no está justificada. Pero no debemos generalizar y culpar a todos los manteros por los actos de unos pocos. Es importante abordar estos problemas de manera justa y equitativa, sin caer en la discriminación.",
         "model": "gpt3.5_collective",
         "comparison_text": "No puedo estar de acuerdo con esa afirmación.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo puedo estar de acuerdo con esa afirmación."
     }
 }

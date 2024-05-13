@@ -6,6 +6,7 @@
         "cn": "Por qué estás invado por los subsaharianos? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "Este tweet contiene una mezcla de temas irracionales y ofensivos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet contiene una mezcla de temas irracionales y ofensivos."
     }
 }

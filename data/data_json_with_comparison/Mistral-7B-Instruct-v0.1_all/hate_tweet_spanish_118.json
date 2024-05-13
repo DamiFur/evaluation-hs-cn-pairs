@@ -6,6 +6,7 @@
         "cn": "Esta información es incorrecta y se basa en una fuente no confiable. El número de personas que han llegado a España desde Marrakech en los últimos años es much",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "They are immigrants or enviados to invade españa",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nThey are immigrants or enviados to invade españa"
     }
 }

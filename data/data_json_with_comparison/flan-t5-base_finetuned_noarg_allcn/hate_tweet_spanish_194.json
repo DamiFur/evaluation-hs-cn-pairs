@@ -6,6 +6,7 @@
         "cn": "No es cierto que los sudacas y centroamirdicanos pasan por mi país violentando gente porque \\\"no tienen dinero\\\"... ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "It's important to remember that generalizations and stereotypes are harmful and inaccurate.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to remember that generalizations and stereotypes are harmful and inaccurate."
     }
 }

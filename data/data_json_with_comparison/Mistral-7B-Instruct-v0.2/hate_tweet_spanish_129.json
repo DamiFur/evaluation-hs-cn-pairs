@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero no estoy en capacidad de comprender el significado de tu comentario.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No puedo decir si es verdad o falso lo que dijiste, pero es importante mantener una perspectiva objetiva y no generalizar sobre una situación compleja",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo puedo decir si es verdad o falso lo que dijiste, pero es importante mantener una perspectiva objetiva y no generalizar sobre una situación compleja"
     }
 }

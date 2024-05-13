@@ -6,6 +6,7 @@
         "cn": "Se puede regular la actividad de los manteros sin tener que deportar a nadie. No hay que ser tan drásticos. No es necesario.",
         "model": "human_annotated",
         "comparison_text": "¿Cómo puedes decir que estas personas no tienen documentos de identidad y que lo único que necesitan es que se mantegan en Perú? Eso",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Cómo puedes decir que estas personas no tienen documentos de identidad y que lo único que necesitan es que se mantegan en Perú? Eso"
     }
 }

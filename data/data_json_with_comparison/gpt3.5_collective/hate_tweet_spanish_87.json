@@ -6,6 +6,7 @@
         "cn": "Es vergonzoso y despreciable promover ideas de odio y discriminación hacia las personas de otras nacionalidades o razas. Debemos promover la igualdad y el respeto hacia todos, sin importar su origen. No hay lugar para la discriminación en nuestra sociedad.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentarios es altamente ofensivo y discriminatorio."
     }
 }

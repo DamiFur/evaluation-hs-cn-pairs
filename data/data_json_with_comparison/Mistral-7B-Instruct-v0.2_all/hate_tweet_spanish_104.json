@@ -6,6 +6,7 @@
         "cn": "Marina Le Pen's statement is based on a conspiracy theory with no factual basis.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa."
     }
 }

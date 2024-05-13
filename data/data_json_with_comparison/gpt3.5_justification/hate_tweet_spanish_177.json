@@ -6,6 +6,7 @@
         "cn": "Es lamentable que se utilicen términos despectivos y discriminatorios para referirse a países y culturas latinoamericanas. En lugar de comparar de manera negativa, deberíamos enfocarnos en construir puentes de entendimiento y respeto entre todas las naciones. La diversidad cultural es un valor que enriquece a la humanidad.",
         "model": "gpt3.5_justification",
         "comparison_text": "Por qué tienen estructuras más ricas que la guerra? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué tienen estructuras más ricas que la guerra? "
     }
 }

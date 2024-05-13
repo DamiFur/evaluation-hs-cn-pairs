@@ -6,6 +6,7 @@
         "cn": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando apostura antiinmigración no significa que acoperlos sera un error, ni que los demás países estén de acuerdo con ello.",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\".",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\"."
     }
 }

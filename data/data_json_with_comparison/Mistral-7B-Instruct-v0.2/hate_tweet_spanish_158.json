@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero no puedo confirmar esa afirmación específica sobre una hashrag o una persona en particular.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas"
     }
 }

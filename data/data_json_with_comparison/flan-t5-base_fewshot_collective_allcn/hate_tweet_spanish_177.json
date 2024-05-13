@@ -6,6 +6,7 @@
         "cn": "Asiaticos devastados por la guerra hoy tienen mejor estructura que chilito sudacos",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "La comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar."
     }
 }

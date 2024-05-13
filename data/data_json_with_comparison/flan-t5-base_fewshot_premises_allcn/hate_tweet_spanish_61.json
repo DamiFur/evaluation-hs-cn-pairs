@@ -6,6 +6,7 @@
         "cn": "100 000 subsaharianos hashtag defiendeespaña elección ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Justification: attención la inteligencia norteamericana advende una invasión inminente",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Dudo que las elecciones puedan cambiar algo. Esas políticas están reguladas por leyes, no por el capricho del gobierno de turno, y esta bien que así sea. ",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nDudo que las elecciones puedan cambiar algo. Esas políticas están reguladas por leyes, no por el capricho del gobierno de turno, y esta bien que así sea. "
     }
 }

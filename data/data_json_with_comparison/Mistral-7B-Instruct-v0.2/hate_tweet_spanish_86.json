@@ -6,6 +6,7 @@
         "cn": "Mis palabras anteriores fueron equivocadas debido a mi falible comprensión del contexto.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Este tipo de pensamiento es discriminatorio y no tiene base en la realidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tipo de pensamiento es discriminatorio y no tiene base en la realidad."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No, es improbable que el desempeño cognitivo reducido debido al calor extremo en edificios sin aire acondicionado explique el \\\"br",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que eso puede explicar el brutismo caribeo y el subsahariano. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso puede explicar el brutismo caribeo y el subsahariano. "
     }
 }

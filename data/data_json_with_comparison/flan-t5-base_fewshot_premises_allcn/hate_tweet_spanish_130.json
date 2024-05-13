@@ -6,6 +6,7 @@
         "cn": "| Justification: and in all Europe they are mating and violating",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Es dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione."
     }
 }

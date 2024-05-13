@@ -6,6 +6,7 @@
         "cn": "It's not fair to label an entire cultural group as misogynistic based on personal experiences.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "@user @user descendencia arabe siguen inculcando el machismo =>",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user @user descendencia arabe siguen inculcando el machismo =>"
     }
 }

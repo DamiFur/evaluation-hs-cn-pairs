@@ -6,6 +6,7 @@
         "cn": "Something is happening in the country is the caos organized surrealista subsahariano our reality",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Los subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia."
     }
 }

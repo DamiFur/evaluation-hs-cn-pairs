@@ -6,6 +6,7 @@
         "cn": "No podemos permitir que el miedo y la xenofobia dicten nuestras acciones. Debemos acoger a los venezolanos con compasión y solidaridad, brindándoles la oportunidad de reconstruir sus vidas en un lugar seguro y acogedor. No se trata de una invasión, se trata de personas en busca de un futuro mejor. La cooperación y la empatía son las respuestas adecuadas, no la violencia o la discriminación.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y qué es una inmigración a las autoridades perúodosas? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY qué es una inmigración a las autoridades perúodosas? "
     }
 }

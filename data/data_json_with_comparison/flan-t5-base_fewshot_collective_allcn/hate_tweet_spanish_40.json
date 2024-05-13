@@ -6,6 +6,7 @@
         "cn": "vengan muchos ya sobre aquí hay demasiados de todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroques donde trabaja el y viven la mujer 4 children and 4 abuelos en ciudades",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Ese comportamiento es inaceptable, pero no se debe generalizar al resto de la población de subsáharinos en el Perú.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEse comportamiento es inaceptable, pero no se debe generalizar al resto de la población de subsáharinos en el Perú."
     }
 }

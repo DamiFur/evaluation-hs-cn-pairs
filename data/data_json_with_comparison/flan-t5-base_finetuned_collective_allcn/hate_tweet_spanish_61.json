@@ -6,6 +6,7 @@
         "cn": "No es cierto que los subsaharianos son invasores, y eso no tiene nada que ver. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "100 000 subsaharianos hashtag defiendeespaña elección ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Justification: attención la inteligencia norteamericana advende una invasión inminente",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n100 000 subsaharianos hashtag defiendeespaña elección ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Justification: attención la inteligencia norteamericana advende una invasión inminente"
     }
 }

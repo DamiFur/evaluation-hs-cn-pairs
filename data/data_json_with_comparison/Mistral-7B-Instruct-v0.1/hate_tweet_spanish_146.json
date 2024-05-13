@@ -6,6 +6,7 @@
         "cn": "Sí, es importante que se defienda el sistema de alimentación y se impida la speculación de precio de los productos impuestos por ciertos grupos.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "La diversidad cultural enriquece a nuestro país, no importa de dónde provengan las personas involucradas en el sistema alimentario. Debemos combatir juntos la especulación de precios sin caer en la discriminación ni el odio hacia ningún grupo étnico. Hagamos patria cuidando y respetando a todos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa diversidad cultural enriquece a nuestro país, no importa de dónde provengan las personas involucradas en el sistema alimentario. Debemos combatir juntos la especulación de precios sin caer en la discriminación ni el odio hacia ningún grupo étnico. Hagamos patria cuidando y respetando a todos."
     }
 }

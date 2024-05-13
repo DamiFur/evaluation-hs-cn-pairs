@@ -6,6 +6,7 @@
         "cn": "gloria hashtag migrates hashtag refugiados hashtag españaloprimero",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "El origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa."
     }
 }

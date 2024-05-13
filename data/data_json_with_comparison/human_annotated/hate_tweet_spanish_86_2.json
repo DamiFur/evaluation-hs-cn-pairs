@@ -6,6 +6,7 @@
         "cn": "Ponerle un alto no es la única forma de hacer algo al respecto. Hay formas de controlar una situación sin reprimir a nadie.",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar."
     }
 }

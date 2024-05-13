@@ -6,6 +6,7 @@
         "cn": "No podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este punto de vista es discriminatorio y debe ser rechazado.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste punto de vista es discriminatorio y debe ser rechazado."
     }
 }

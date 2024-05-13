@@ -6,6 +6,7 @@
         "cn": "he has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No tienes por qué asociar la violencia de género con ser árabe. La violencia es un problema que afecta a personas de todas las razas y culturas. Enfocarte en la etnia solo perpetúa estereotipos negativos.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienes por qué asociar la violencia de género con ser árabe. La violencia es un problema que afecta a personas de todas las razas y culturas. Enfocarte en la etnia solo perpetúa estereotipos negativos."
     }
 }

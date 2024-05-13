@@ -6,6 +6,7 @@
         "cn": "No hay excusa para el odio y la violencia. Los problemas sociales en Europa no se pueden atribuir a una raza o grupo étnico en particular. Es importante abogar por la convivencia pacífica y el respeto mutuo entre todas las personas, independientemente de su origen.",
         "model": "gpt3.5",
         "comparison_text": "No es cierto que los negros y los arabes causan problemas. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los negros y los arabes causan problemas. "
     }
 }

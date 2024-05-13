@@ -6,6 +6,7 @@
         "cn": "Los inmigrantes ilegales deberían recibir apoyo y soluciones humanitarias, en lugar de ser vistos como un problema. La integración y el respeto a los derechos humanos son fundamentales en todas las sociedades.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y qué es el paquete? No es lo que tiene que pensar? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY qué es el paquete? No es lo que tiene que pensar? "
     }
 }

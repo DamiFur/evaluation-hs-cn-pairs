@@ -6,6 +6,7 @@
         "cn": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Lo siento, pero no estoy en capacidad de comprender el significado de tu comentario.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero no estoy en capacidad de comprender el significado de tu comentario."
     }
 }

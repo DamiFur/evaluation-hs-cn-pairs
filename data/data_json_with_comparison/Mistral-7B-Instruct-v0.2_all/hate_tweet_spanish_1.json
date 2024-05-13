@@ -6,6 +6,7 @@
         "cn": "It's important to note that the link provided doesn't seem to be working properly.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "El artículo no proporciona suficientes detalles para llegar a conclusiones definitivas sobre quiéntes pagan las facturas o cóMO se distrib",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl artículo no proporciona suficientes detalles para llegar a conclusiones definitivas sobre quiéntes pagan las facturas o cóMO se distrib"
     }
 }

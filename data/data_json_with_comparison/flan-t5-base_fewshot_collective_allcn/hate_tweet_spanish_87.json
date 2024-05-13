@@ -6,6 +6,7 @@
         "cn": "sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello. g \\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentarios es altamente ofensivo y discriminatorio."
     }
 }

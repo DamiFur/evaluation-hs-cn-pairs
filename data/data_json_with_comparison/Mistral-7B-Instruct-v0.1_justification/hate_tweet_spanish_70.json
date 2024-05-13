@@ -6,6 +6,7 @@
         "cn": "Este comentario es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_48> No es cierto que esos robas son robadas, esa es una otra vez, como el nio tiene en el país. Eso es lo que tiene que robar todos los alimentos, y no es algo más mal que yo tengo en panama.",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_48> No es cierto que esos robas son robadas, esa es una otra vez, como el nio tiene en el país. Eso es lo que tiene que robar todos los alimentos, y no es algo más mal que yo tengo en panama."
     }
 }

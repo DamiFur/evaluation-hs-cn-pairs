@@ -6,6 +6,7 @@
         "cn": "Hablar de invasión en vez de migración, en el contexto actual, es sacar a relucir tu racismo.",
         "model": "human_annotated",
         "comparison_text": "La noticia es falsa, no hay evidencia que apoye esa afirmación.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa noticia es falsa, no hay evidencia que apoye esa afirmación."
     }
 }

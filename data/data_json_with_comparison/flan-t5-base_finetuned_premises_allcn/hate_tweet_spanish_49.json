@@ -6,6 +6,7 @@
         "cn": "Por qué crees que estamos muy acostumbrados y idk peor los árabes? ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "Por qué crees que se adapta mejor a la vida occidental europea? ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué crees que se adapta mejor a la vida occidental europea? "
     }
 }

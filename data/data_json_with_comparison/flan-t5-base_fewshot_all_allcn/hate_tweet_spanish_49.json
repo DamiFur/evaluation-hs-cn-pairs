@@ -6,6 +6,7 @@
         "cn": "nationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "No se puede generalizar sobre la adaptación de nacionalidades o etnias a la vida occidental europea basándose en prejuicios y estereotipos. Cada persona, independientemente de su origen, merece respeto y tiene el derecho a vivir en libertad y con igualdad de derechos. La diversidad enriquece a la sociedad y es importante combatir cualquier forma de discriminación.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se puede generalizar sobre la adaptación de nacionalidades o etnias a la vida occidental europea basándose en prejuicios y estereotipos. Cada persona, independientemente de su origen, merece respeto y tiene el derecho a vivir en libertad y con igualdad de derechos. La diversidad enriquece a la sociedad y es importante combatir cualquier forma de discriminación."
     }
 }

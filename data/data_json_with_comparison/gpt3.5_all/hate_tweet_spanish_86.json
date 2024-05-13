@@ -6,6 +6,7 @@
         "cn": "Todos tenemos derecho a buscar una vida mejor, independientemente de nuestra nacionalidad. En vez de preocuparnos por cuántas personas llegan, deberíamos buscar maneras de integrar y apoyar a quienes vienen en busca de oportunidades. En vez de hablar de invasiones, deberíamos hablar de colaboración y solidaridad entre todos los seres humanos.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué no es una inmigración a las autoridades peruanas? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué no es una inmigración a las autoridades peruanas? "
     }
 }

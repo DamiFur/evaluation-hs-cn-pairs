@@ -6,6 +6,7 @@
         "cn": "Es completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad.",
         "model": "gpt3.5_collective",
         "comparison_text": "La adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,"
     }
 }

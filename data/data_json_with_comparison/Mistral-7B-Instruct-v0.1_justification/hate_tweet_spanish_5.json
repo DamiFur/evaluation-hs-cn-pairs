@@ -6,6 +6,7 @@
         "cn": "No es posible decir que un artículo sobre el efecto de la calor en el rendimiento cognitivo de jóvenes adultos en edificios sin aire a",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_48> El brutismo caribeo y el subsahariano puede explicar esas sociedades, pero eso no es cierto que las gente tiene el hecho de que las personas tienen el mismo trabajo. No puede obtener una evidencia de que la gente no tiene que escribir ese tipo de brutalismo, sino el sufrimiento de que los nio",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_48> El brutismo caribeo y el subsahariano puede explicar esas sociedades, pero eso no es cierto que las gente tiene el hecho de que las personas tienen el mismo trabajo. No puede obtener una evidencia de que la gente no tiene que escribir ese tipo de brutalismo, sino el sufrimiento de que los nio"
     }
 }

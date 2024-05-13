@@ -6,6 +6,7 @@
         "cn": "No es cierto que los negros y los arabes causan problemas. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "idioma y europe están matando y violando a millones y millones de blancos pero ni lo mencionas tampoco mencionados que esos negros y arabes causan problemas",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nidioma y europe están matando y violando a millones y millones de blancos pero ni lo mencionas tampoco mencionados que esos negros y arabes causan problemas"
     }
 }

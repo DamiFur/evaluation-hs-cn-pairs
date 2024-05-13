@@ -6,6 +6,7 @@
         "cn": "ira a las autoridades peruanas que no le da ni la todos por este tema sólo reaccionarán cuando esto se desborde",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio."
     }
 }

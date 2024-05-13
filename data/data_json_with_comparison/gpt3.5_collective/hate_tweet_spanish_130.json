@@ -6,6 +6,7 @@
         "cn": "No se puede generalizar y culpar a todos los negros y árabes de los problemas en Europa. La violencia y el crimen no están limitados a una sola raza o etnia. Es importante no caer en la xenofobia y el racismo.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este comentario es altamente racista y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es altamente racista y discriminatorio."
     }
 }

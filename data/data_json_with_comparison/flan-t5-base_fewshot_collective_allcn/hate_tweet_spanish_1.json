@@ -6,6 +6,7 @@
         "cn": "Ahora el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez más países que se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "La responsabilidad de pagar los impuestos y garantizar el bienestar de los ciudadanos no se deja a cargo de una sola persona o entidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa responsabilidad de pagar los impuestos y garantizar el bienestar de los ciudadanos no se deja a cargo de una sola persona o entidad."
     }
 }

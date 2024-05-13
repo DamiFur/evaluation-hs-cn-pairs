@@ -6,6 +6,7 @@
         "cn": "No es cierto que los inmigrantes sean envadas para invadir españa. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "They are immigrants or enviados to invade españa",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nThey are immigrants or enviados to invade españa"
     }
 }

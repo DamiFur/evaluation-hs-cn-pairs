@@ -6,6 +6,7 @@
         "cn": "Debemos recordar que la diversidad cultural y de nacionalidades enriquece a nuestra sociedad. No podemos culpar a un grupo específico de personas por los problemas que enfrentamos en el sistema alimentario. Es importante trabajar juntos para encontrar soluciones impulsadas por el respeto y la colaboración. Hagamos patria promoviendo la inclusión y la unidad entre todos los que habitamos en nuestro país.",
         "model": "gpt3.5_justification",
         "comparison_text": "No creo que el pueblo exige más atención en el sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los aguas y a los colombianos. No tiene nada. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que el pueblo exige más atención en el sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los aguas y a los colombianos. No tiene nada. "
     }
 }

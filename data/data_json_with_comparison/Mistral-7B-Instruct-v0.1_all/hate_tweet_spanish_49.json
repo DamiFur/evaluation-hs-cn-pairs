@@ -6,6 +6,7 @@
         "cn": "La adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "nationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nnationality or ethnicity thinks that it adapts better to western European life (mama derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrados y idk peor los arabes yo https://t co/ycmdcfwxcg | Colectivo"
     }
 }

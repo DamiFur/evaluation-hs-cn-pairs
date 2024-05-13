@@ -6,6 +6,7 @@
         "cn": "Te estoy preguntando, ¿qué significa \\\"para tanto\\\"? ¿Qué quieres decir?",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "No debes preocuparte de lo que quieran hacer tus detractores.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo debes preocuparte de lo que quieran hacer tus detractores."
     }
 }

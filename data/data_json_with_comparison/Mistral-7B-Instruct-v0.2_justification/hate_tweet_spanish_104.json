@@ -6,6 +6,7 @@
         "cn": "Marina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Por qué es el partido antiinmigración que ganara las elecciones del próximo mes de septiembre? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "Muchas personas tienen preocupaciones legítimas acerca de la migración incontrolada y su impacto en el sistema social y económico de un país",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMuchas personas tienen preocupaciones legítimas acerca de la migración incontrolada y su impacto en el sistema social y económico de un país"
     }
 }

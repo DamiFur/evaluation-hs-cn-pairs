@@ -6,6 +6,7 @@
         "cn": "<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "No hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad."
     }
 }

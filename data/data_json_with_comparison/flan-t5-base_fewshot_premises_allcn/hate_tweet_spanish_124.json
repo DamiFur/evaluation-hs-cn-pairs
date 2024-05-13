@@ -6,6 +6,7 @@
         "cn": "gandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Que las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  ",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Tampoco hay que ridiculizar al punto de vista opuesto. Seguro vienen buscando una mejor vida, y ya.",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que todos los ciudadanos son iguales ante la ley y tienen los mismos derechos y obligaciones.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que todos los ciudadanos son iguales ante la ley y tienen los mismos derechos y obligaciones."
     }
 }

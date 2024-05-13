@@ -6,6 +6,7 @@
         "cn": "The subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "No podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa."
     }
 }

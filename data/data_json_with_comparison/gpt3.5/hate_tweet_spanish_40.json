@@ -6,6 +6,7 @@
         "cn": "No podemos permitir que esos comentarios xenófobos y racistas se propaguen y fomenten el odio hacia nuestros hermanos y hermanas de distintas nacionalidades. Todos merecen ser tratados con respeto y dignidad, independientemente de donde sean. La diversidad es algo que enriquece a la sociedad, no debemos permitir que el miedo y la ignorancia nos dividan. Promovamos la inclusión y la solidaridad en lugar del rechazo y la intolerancia. ¡Respeto para todos!",
         "model": "gpt3.5",
         "comparison_text": "No es cierto que todos los subsaharianos hayan demasido aquí. Por qué? ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los subsaharianos hayan demasido aquí. Por qué? "
     }
 }

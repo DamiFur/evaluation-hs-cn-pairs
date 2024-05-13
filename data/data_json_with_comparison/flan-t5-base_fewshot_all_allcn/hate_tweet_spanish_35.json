@@ -6,6 +6,7 @@
         "cn": "ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\"",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "La solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "El sistema de alimentos es importante para todos los ciudadanos y se debe garantizar que todos tengan acceso a comida segura y sana.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "Es importante defender nuestros intereses económicos, pero no debemos generalizar y odiar a ciertos grupos basados en su origen étnico.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante defender nuestros intereses económicos, pero no debemos generalizar y odiar a ciertos grupos basados en su origen étnico."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No es cierto que los turistas y polticos obligan a ayudar a las personas sin papeles. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "No es cierto que la única manera de agregar a los turistas y polticas es mantero sin papeles. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la única manera de agregar a los turistas y polticas es mantero sin papeles. "
     }
 }

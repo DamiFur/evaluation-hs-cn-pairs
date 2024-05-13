@@ -6,6 +6,7 @@
         "cn": "<extra_id_57> El nio tiene violencia de género y otras obras, pero eso no es cierto que el hombre tiene la razón de que esa es una razón en el mundo.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "Es lamentable que aún haya personas que justifiquen la violencia de género con excusas racistas. Nadie merece ser maltratado, independientemente de su origen étnico.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs lamentable que aún haya personas que justifiquen la violencia de género con excusas racistas. Nadie merece ser maltratado, independientemente de su origen étnico."
     }
 }

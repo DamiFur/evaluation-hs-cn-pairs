@@ -6,6 +6,7 @@
         "cn": "Performance among young adults in non-air-conditioned buildings",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "No hay correlación entre el calor extremo y el nivel de inteligencia o desempeño cognitivo de personas de ciertas regiones geográficas. Estereotipar a personas del Caribe o África Subsahariana como \\\"brutalistas\\\" basado en su origen geográfico es injusto y discriminatorio. Es importante reconocer la diversidad de habilidades y capacidades individuales sin generalizar ni caer en prejuicios raciales.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay correlación entre el calor extremo y el nivel de inteligencia o desempeño cognitivo de personas de ciertas regiones geográficas. Estereotipar a personas del Caribe o África Subsahariana como \\\"brutalistas\\\" basado en su origen geográfico es injusto y discriminatorio. Es importante reconocer la diversidad de habilidades y capacidades individuales sin generalizar ni caer en prejuicios raciales."
     }
 }

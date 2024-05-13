@@ -6,6 +6,7 @@
         "cn": "Por qué eso es cierto que el nmero de nios han encontrado en españa solo desde marruecos? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": "No hay suficientes datos o contexto en el enlace proporcionado para determinar con certeza las intenciones o motivos detrás de la migr",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay suficientes datos o contexto en el enlace proporcionado para determinar con certeza las intenciones o motivos detrás de la migr"
     }
 }

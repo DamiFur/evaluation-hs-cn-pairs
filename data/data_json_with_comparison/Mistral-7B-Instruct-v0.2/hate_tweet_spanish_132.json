@@ -6,6 +6,7 @@
         "cn": "Lo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "Este mensaje es un ejemplo de una afirmación basada en un prejuicio racial. El uso de la palabra \\\"invasión\\\" para referirse a la",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje es un ejemplo de una afirmación basada en un prejuicio racial. El uso de la palabra \\\"invasión\\\" para referirse a la"
     }
 }

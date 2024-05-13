@@ -6,6 +6,7 @@
         "cn": "El brutalismo no tiene nada que ver con el origen de una persona.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "El artículo que compartes trata sobre el efecto negativo de la calidez extrema en el rendimiento cognitivo de jóvenes adultos en edific",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl artículo que compartes trata sobre el efecto negativo de la calidez extrema en el rendimiento cognitivo de jóvenes adultos en edific"
     }
 }

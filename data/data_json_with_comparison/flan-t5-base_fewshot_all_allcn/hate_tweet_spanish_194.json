@@ -6,6 +6,7 @@
         "cn": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas",
         "model": "flan-t5-base_fewshot_all_allcn",
         "comparison_text": "Todos somos seres humanos y merecemos respeto y compasión, independientemente de nuestra nacionalidad o estatus migratorio. La violencia y la discriminación no son la respuesta.",
-        "comparison_model": "gpt3.5_justification"
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTodos somos seres humanos y merecemos respeto y compasión, independientemente de nuestra nacionalidad o estatus migratorio. La violencia y la discriminación no son la respuesta."
     }
 }

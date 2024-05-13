@@ -6,6 +6,7 @@
         "cn": "Tu comentario es discriminatorio y deberías sentir lo mal que te hace.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es una lástima que existan personas con mentalidad tan cerrada y llena de prejuicios. La diversidad cultural y el respeto hacia todas las personas, sin importar su género, raza o condición social, es lo que enriquece a la humanidad. Debemos rechazar cualquier forma de discriminación y trabajar juntos para construir un mundo más inclusivo y tolerante.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs una lástima que existan personas con mentalidad tan cerrada y llena de prejuicios. La diversidad cultural y el respeto hacia todas las personas, sin importar su género, raza o condición social, es lo que enriquece a la humanidad. Debemos rechazar cualquier forma de discriminación y trabajar juntos para construir un mundo más inclusivo y tolerante."
     }
 }

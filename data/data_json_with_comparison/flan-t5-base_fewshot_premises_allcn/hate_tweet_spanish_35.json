@@ -6,6 +6,7 @@
         "cn": "ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\"",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Lo dices solo porque te caen mal los inmigrantes, y eso. Realmente no es que este mal lo que hizo.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo dices solo porque te caen mal los inmigrantes, y eso. Realmente no es que este mal lo que hizo."
     }
 }

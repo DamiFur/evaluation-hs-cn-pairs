@@ -6,6 +6,7 @@
         "cn": "La capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio.",
         "model": "gpt3.5_collective",
         "comparison_text": "No es posible decir que un artículo sobre el efecto de la calor en el rendimiento cognitivo de jóvenes adultos en edificios sin aire a",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es posible decir que un artículo sobre el efecto de la calor en el rendimiento cognitivo de jóvenes adultos en edificios sin aire a"
     }
 }

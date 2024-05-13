@@ -6,6 +6,7 @@
         "cn": "Muchas personas tienen preocupaciones legítimas acerca de la migración incontrolada y su impacto en el sistema social y económico de un país",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre. "
     }
 }

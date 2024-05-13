@@ -6,6 +6,7 @@
         "cn": "El hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse"
     }
 }

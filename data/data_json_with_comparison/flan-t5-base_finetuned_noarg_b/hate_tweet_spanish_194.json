@@ -6,6 +6,7 @@
         "cn": "<extra_id_61> No es cierto que los sudacos y centroamirdicanos son ilegales, y eso no es lo que es que los violentos pasan por mi país, porque no tienen dinero, porque van en busca de una vida mejor.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "No se puede permitir que se falte el respeto ni se discrimine a nadie por su procedencia. Todas las personas merecen ser tratadas con dignidad y respeto, independientemente de su nacionalidad o situación económica. La violencia y la xenofobia no son una solución viable para ningún problema.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se puede permitir que se falte el respeto ni se discrimine a nadie por su procedencia. Todas las personas merecen ser tratadas con dignidad y respeto, independientemente de su nacionalidad o situación económica. La violencia y la xenofobia no son una solución viable para ningún problema."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Invasión =>",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Esta información es falsa y se basa en una fuente no confiable.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es falsa y se basa en una fuente no confiable."
     }
 }

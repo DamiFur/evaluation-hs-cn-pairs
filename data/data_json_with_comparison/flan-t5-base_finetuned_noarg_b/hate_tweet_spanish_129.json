@@ -6,6 +6,7 @@
         "cn": "<extra_id_48> El caos organizado surrealista subsahariano es el caos organizativo para la realidad del país, y eso es lo que tiene que encontrar en el campo de la realidad.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "La diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Esta información es falsa y se basa en una fuente no confiable.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Todos merecen ser acogidos y respetados, la xenofobia y el miedo solo generan división y desconfianza. Hay que rechazar cualquier tipo de discurso que promueva el odio. Hashtag AcogidaSolidaria.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTodos merecen ser acogidos y respetados, la xenofobia y el miedo solo generan división y desconfianza. Hay que rechazar cualquier tipo de discurso que promueva el odio. Hashtag AcogidaSolidaria."
     }
 }

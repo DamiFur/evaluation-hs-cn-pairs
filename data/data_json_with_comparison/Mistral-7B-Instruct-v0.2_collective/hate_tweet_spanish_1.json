@@ -6,6 +6,7 @@
         "cn": "El artículo no proporciona suficientes datos para llegar a conclusiones racistas o xenoferobicas.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "Ahora, el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez que más países se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nAhora, el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez que más países se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada"
     }
 }

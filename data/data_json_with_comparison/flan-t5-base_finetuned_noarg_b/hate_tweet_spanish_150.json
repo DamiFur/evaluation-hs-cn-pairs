@@ -6,6 +6,7 @@
         "cn": "<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "Tu comentario es completamente infundado y fomenta el miedo sin razón. La diversidad cultural enriquece a nuestra sociedad y no hay ninguna evidencia que respalde tu afirmación de que los subsaharianos están planeando asaltar nuestras fronteras. Todos merecen ser tratados con respeto y tener la oportunidad de contribuir positivamente a nuestra comunidad.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTu comentario es completamente infundado y fomenta el miedo sin razón. La diversidad cultural enriquece a nuestra sociedad y no hay ninguna evidencia que respalde tu afirmación de que los subsaharianos están planeando asaltar nuestras fronteras. Todos merecen ser tratados con respeto y tener la oportunidad de contribuir positivamente a nuestra comunidad."
     }
 }

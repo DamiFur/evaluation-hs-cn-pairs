@@ -6,6 +6,7 @@
         "cn": " It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
         "comparison_text": "No es cierto que el nio tiene ningn razón, y eso no es lo que es realmente. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el nio tiene ningn razón, y eso no es lo que es realmente. "
     }
 }

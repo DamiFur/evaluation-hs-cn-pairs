@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que todos los individuos tienen derechos humanos y deben ser tratados con respeto y dignidad, sin importar su raza o etnia.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "Es injusto generalizar que todos los subsAHARIANOS se dedican a la venta de contrabando o están \\\"tiros\\\" en la calle.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto generalizar que todos los subsAHARIANOS se dedican a la venta de contrabando o están \\\"tiros\\\" en la calle."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Es injusto generalizar que todo lo relacionado con el Subsáhara tiene que ver con caós. El Perú, como todos los países, tiene su propio",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "Something is happening in the country is the caos organized surrealista subsahariano our reality",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nSomething is happening in the country is the caos organized surrealista subsahariano our reality"
     }
 }

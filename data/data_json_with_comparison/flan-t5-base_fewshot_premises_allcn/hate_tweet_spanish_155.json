@@ -6,6 +6,7 @@
         "cn": "3 moro mierdas que han abusado en ciencia de una niña",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Pues quizás porque no es relevante realmente.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues quizás porque no es relevante realmente."
     }
 }

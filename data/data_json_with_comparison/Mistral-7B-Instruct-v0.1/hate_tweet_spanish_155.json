@@ -6,6 +6,7 @@
         "cn": "No, lo importante es que se den cuenta de estas acciones y se actúe de acuerdo con la ley.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es inaceptable utilizar lenguaje racista y xenófobo para referirse a cualquier grupo de personas. La nacionalidad no determina la conducta de un individuo y estigmatizar a toda una comunidad por las acciones de unos pocos es injusto y discriminatorio. La dignidad y el respeto deben estar por encima de cualquier prejuicio.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs inaceptable utilizar lenguaje racista y xenófobo para referirse a cualquier grupo de personas. La nacionalidad no determina la conducta de un individuo y estigmatizar a toda una comunidad por las acciones de unos pocos es injusto y discriminatorio. La dignidad y el respeto deben estar por encima de cualquier prejuicio."
     }
 }

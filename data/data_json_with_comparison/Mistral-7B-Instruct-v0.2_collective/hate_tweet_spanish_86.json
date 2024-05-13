@@ -6,6 +6,7 @@
         "cn": "It is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "ira a las autoridades peruanas que no le da ni la todos por este tema sólo reaccionarán cuando esto se desborde",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nira a las autoridades peruanas que no le da ni la todos por este tema sólo reaccionarán cuando esto se desborde"
     }
 }

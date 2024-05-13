@@ -6,6 +6,7 @@
         "cn": "Que las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  ",
         "model": "human_annotated",
         "comparison_text": "La India de Gandhi es un país con una rica cultura y diversidad de pueblos y religiones.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa India de Gandhi es un país con una rica cultura y diversidad de pueblos y religiones."
     }
 }

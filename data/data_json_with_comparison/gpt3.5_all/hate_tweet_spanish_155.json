@@ -6,6 +6,7 @@
         "cn": "Es inaceptable utilizar lenguaje racista y xenófobo para referirse a cualquier grupo de personas. La nacionalidad no determina la conducta de un individuo y estigmatizar a toda una comunidad por las acciones de unos pocos es injusto y discriminatorio. La dignidad y el respeto deben estar por encima de cualquier prejuicio.",
         "model": "gpt3.5_all",
         "comparison_text": "No es cierto que eso es una de las personas que han abusado en el trabajo de una niña. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso es una de las personas que han abusado en el trabajo de una niña. "
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No está bien etiquetar a un colectivo entero por las acciones de unos pocos individuos. No todos los moros son abusadores, así como no todos los españoles lo son. La generalización solo promueve la xenofobia y el odio.",
         "model": "gpt3.5_collective",
         "comparison_text": "No hay nada de obvio en esa afirmación.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay nada de obvio en esa afirmación."
     }
 }

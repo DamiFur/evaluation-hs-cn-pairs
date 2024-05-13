@@ -6,6 +6,7 @@
         "cn": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este comentario es ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es ofensivo y discriminatorio."
     }
 }

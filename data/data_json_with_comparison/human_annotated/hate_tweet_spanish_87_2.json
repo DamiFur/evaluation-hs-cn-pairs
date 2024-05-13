@@ -6,6 +6,7 @@
         "cn": "Queda claro, sin embargo, que el unico motivo por el que te caen mal, es que son negros. Racismo puro.",
         "model": "human_annotated",
         "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentarios es altamente ofensivo y discriminatorio."
     }
 }

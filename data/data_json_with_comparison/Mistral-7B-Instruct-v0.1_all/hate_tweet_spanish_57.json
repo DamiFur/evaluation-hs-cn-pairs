@@ -6,6 +6,7 @@
         "cn": "La situación en Suecia es compleja y no puede ser reducida a un solo punto de vista.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "Los indocumentados aportan mucho a la sociedad, su trabajo y esfuerzo contribuyen al desarrollo y bienestar de todos. La xenofobia y el odio no tienen cabida en un mundo diverso y multicultural como el nuestro.",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos indocumentados aportan mucho a la sociedad, su trabajo y esfuerzo contribuyen al desarrollo y bienestar de todos. La xenofobia y el odio no tienen cabida en un mundo diverso y multicultural como el nuestro."
     }
 }

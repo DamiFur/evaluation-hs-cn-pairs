@@ -6,6 +6,7 @@
         "cn": "El número de personas que vienen a Perú cada día es un problema, pero no se debe ver como una \\\"invasión\\\". Es una cuestión de refugiados",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Todos tenemos derecho a buscar una vida mejor, independientemente de nuestra nacionalidad. En vez de preocuparnos por cuántas personas llegan, deberíamos buscar maneras de integrar y apoyar a quienes vienen en busca de oportunidades. En vez de hablar de invasiones, deberíamos hablar de colaboración y solidaridad entre todos los seres humanos.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTodos tenemos derecho a buscar una vida mejor, independientemente de nuestra nacionalidad. En vez de preocuparnos por cuántas personas llegan, deberíamos buscar maneras de integrar y apoyar a quienes vienen en busca de oportunidades. En vez de hablar de invasiones, deberíamos hablar de colaboración y solidaridad entre todos los seres humanos."
     }
 }

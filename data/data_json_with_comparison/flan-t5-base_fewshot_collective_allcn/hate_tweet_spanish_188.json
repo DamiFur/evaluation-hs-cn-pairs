@@ -6,6 +6,7 @@
         "cn": "@user https://t co/l4",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Esa es la manera en que se debe hacer, no se puede permitir que alguien sea asesinado o golpeado por motivos de raza o nacionalidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsa es la manera en que se debe hacer, no se puede permitir que alguien sea asesinado o golpeado por motivos de raza o nacionalidad."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No se puede generalizar y etiquetar a toda una cultura como machista. Eso solo perpetua estereotipos injustos y perjudiciales. Es importante educarnos y aprender a respetar la diversidad cultural.",
         "model": "gpt3.5_collective",
         "comparison_text": "No es correcto afirmar que toda la población de ascendencia musulmana sigue perpetuando la misma ideología. Es importante evitar generalizaciones y apreci",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que toda la población de ascendencia musulmana sigue perpetuando la misma ideología. Es importante evitar generalizaciones y apreci"
     }
 }

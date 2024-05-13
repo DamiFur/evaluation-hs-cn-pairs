@@ -6,6 +6,7 @@
         "cn": "No hay lugar para comentarios racistas y despectivos. Todos los seres humanos merecen ser tratados con respeto y dignidad, independientemente de su origen o color de piel. Es necesario promover la empatía y la solidaridad en lugar del odio y la discriminación. Apoyemos la diversidad y la inclusión en lugar de fomentar la xenofobia.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y si no hay papal del culto, eso no es realmente cierto? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY si no hay papal del culto, eso no es realmente cierto? "
     }
 }

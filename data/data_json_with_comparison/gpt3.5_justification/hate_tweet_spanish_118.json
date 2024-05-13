@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que muchos menores migrantes llegan solos buscando una vida mejor y huyendo de situaciones de violencia y pobreza en sus países de origen. La reunificación familiar es un derecho humano fundamental que permite a las familias estar juntas. No debemos asumir que hay motivos maliciosos detrás de estos movimientos migratorios sin pruebas sólidas. Es importante abordar estos temas con empatía, respeto y buscando soluciones humanitarias.",
         "model": "gpt3.5_justification",
         "comparison_text": "Por qué eso no es cierto en el país? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso no es cierto en el país? "
     }
 }

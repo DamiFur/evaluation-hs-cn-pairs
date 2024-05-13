@@ -6,6 +6,7 @@
         "cn": "No es cierto que los manteros hostiguen y peguen a los turistas, piénsalo. ¿Quién querría tratar mal a sus clientes?",
         "model": "human_annotated",
         "comparison_text": "La situación que describes es grave y debe ser abordada con urgencia.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación que describes es grave y debe ser abordada con urgencia."
     }
 }

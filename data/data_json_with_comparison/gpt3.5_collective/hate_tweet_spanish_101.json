@@ -6,6 +6,7 @@
         "cn": "El origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa.",
         "model": "gpt3.5_collective",
         "comparison_text": "Gloria, como española, tienes derecho a expresar tu opinión libremente.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nGloria, como española, tienes derecho a expresar tu opinión libremente."
     }
 }

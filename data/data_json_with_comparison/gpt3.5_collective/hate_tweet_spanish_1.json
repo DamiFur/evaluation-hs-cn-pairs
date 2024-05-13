@@ -6,6 +6,7 @@
         "cn": "Los inmigrantes ilegales también son seres humanos que merecen respeto y dignidad. No se trata de un problema de \\\"marrón\\\" que repartir, sino de encontrar soluciones justas y humanitarias para garantizar su bienestar y su integración en la sociedad. La xenofobia y la discriminación no son la respuesta.",
         "model": "gpt3.5_collective",
         "comparison_text": "Esta información es incorrecta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es incorrecta."
     }
 }

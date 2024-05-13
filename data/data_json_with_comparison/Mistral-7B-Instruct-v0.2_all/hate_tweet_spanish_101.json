@@ -6,6 +6,7 @@
         "cn": " La etnia o nacionalidad de alguien no se determina por su pasado o situación actual, especialmente cuando se trata de conceptos abstractos como \\\"Gloria\\\" o",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar"
     }
 }

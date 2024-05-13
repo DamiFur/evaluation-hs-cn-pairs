@@ -6,6 +6,7 @@
         "cn": "No es cierto que es un inmigrante a las autoridades peruanas, y eso no tiene ningn efecto. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
         "comparison_text": "No es cierto que los venezolanos no son inmigrantes, y eso no tiene nada que reaccionar. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los venezolanos no son inmigrantes, y eso no tiene nada que reaccionar. "
     }
 }

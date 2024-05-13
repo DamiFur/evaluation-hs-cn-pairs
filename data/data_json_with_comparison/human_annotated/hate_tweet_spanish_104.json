@@ -6,6 +6,7 @@
         "cn": "Que a ti te caigan mal ellos, no significa que tenga razón. No se toma una decisión tan grande en base a prejuicios.",
         "model": "human_annotated",
         "comparison_text": "Es importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida"
     }
 }

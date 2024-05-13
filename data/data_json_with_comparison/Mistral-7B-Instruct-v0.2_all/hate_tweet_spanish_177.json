@@ -6,6 +6,7 @@
         "cn": "Este tweet no está relacionado con tu pregunta.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Este tweet no proporciona suficientes datos para llegar a una conclusión válida.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no proporciona suficientes datos para llegar a una conclusión válida."
     }
 }

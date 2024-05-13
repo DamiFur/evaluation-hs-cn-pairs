@@ -6,6 +6,7 @@
         "cn": "Este mensaje es un ejemplo de una afirmación basada en un prejuicio racial. El uso de la palabra \\\"invasión\\\" para referirse a la",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "Aqu don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Property: españa está siendo invadida por | Justification: esp",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nAqu don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Property: españa está siendo invadida por | Justification: esp"
     }
 }

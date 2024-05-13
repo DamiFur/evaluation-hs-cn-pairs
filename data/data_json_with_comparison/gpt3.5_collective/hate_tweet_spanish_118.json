@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que los menores migrantes son personas vulnerables que merecen respeto y apoyo, independientemente de su origen. Culpar a Marruecos o insinuar que están siendo enviados para invadir es injusto y alimenta la xenofobia.",
         "model": "gpt3.5_collective",
         "comparison_text": "Esta información es incorrecta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es incorrecta."
     }
 }

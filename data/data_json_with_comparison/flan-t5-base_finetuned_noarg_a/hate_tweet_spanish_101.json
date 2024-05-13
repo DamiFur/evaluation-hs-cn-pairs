@@ -6,6 +6,7 @@
         "cn": "Y eso no significa que nadie tiene nada sin fueran refugiados gloria. ",
         "model": "flan-t5-base_finetuned_noarg_a",
         "comparison_text": "No es cierto que los españoles son nada sin fueran refugiados gloria. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los españoles son nada sin fueran refugiados gloria. "
     }
 }

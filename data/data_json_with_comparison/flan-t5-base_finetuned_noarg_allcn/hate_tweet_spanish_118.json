@@ -6,6 +6,7 @@
         "cn": "No es cierto que los inmigrantes o los enviados a invadir españa. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "No es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas."
     }
 }

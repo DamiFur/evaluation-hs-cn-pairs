@@ -6,6 +6,7 @@
         "cn": "Este comentarios es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "Este comentário é ofensivo, racista e insensato.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentário é ofensivo, racista e insensato."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "No es cierto que los inmigrantes ilegales son inmigrantes, y eso no tiene nada que ver. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "It's important to note that the link provided doesn't seem to be working properly.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to note that the link provided doesn't seem to be working properly."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Todos merecen ser tratados con igualdad y respeto, independientemente de su origen étnico. La xenofobia y el racismo solo generan división y odio. Defendamos la diversidad y trabajemos juntos para construir una sociedad más inclusiva y justa.",
         "model": "gpt3.5",
         "comparison_text": "No es cierto que el pueblo exige mas atención en cuanto al sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el pueblo exige mas atención en cuanto al sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. "
     }
 }

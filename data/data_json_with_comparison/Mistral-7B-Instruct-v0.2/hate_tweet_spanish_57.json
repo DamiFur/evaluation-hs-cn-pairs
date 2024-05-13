@@ -6,6 +6,7 @@
         "cn": "Muchas personas tienen puntos de vista diferentes acerca de la migración.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "La situación en Suecia es compleja y no puede ser reducida a un solo punto de vista.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación en Suecia es compleja y no puede ser reducida a un solo punto de vista."
     }
 }

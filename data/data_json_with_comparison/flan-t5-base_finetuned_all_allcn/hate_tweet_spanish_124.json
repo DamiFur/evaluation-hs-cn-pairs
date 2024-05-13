@@ -6,6 +6,7 @@
         "cn": "No es cierto que los animales y las mujeres son razas dominadas por un libro. ",
         "model": "flan-t5-base_finetuned_all_allcn",
         "comparison_text": "gandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\ngandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres"
     }
 }

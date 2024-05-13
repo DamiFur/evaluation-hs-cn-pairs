@@ -6,6 +6,7 @@
         "cn": "Mis palabras: No apoyo la violencia contra inocentes personas, incluidos viajeros y policías.",
         "model": "Mistral-7B-Instruct-v0.2_all",
         "comparison_text": "Mis palabras: No apoyo la violencia o el abuso de la hospitalidad extendida.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2"
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMis palabras: No apoyo la violencia o el abuso de la hospitalidad extendida."
     }
 }

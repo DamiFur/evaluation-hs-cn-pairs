@@ -6,6 +6,7 @@
         "cn": "No podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!",
         "model": "gpt3.5",
         "comparison_text": "No es cierto que los manteros hosten a seoras y peguen a turistas. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los manteros hosten a seoras y peguen a turistas. "
     }
 }

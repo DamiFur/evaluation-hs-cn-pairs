@@ -6,6 +6,7 @@
         "cn": "La adaptación de una persona a una cultura se basa en varios factores, incluyendo su historia, experiencias, valores y perspectivas.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Esa no es una forma adecuada de abordar el tema de la adaptación de diferentes culturas a la vida en Occidente. Todas las nacionalidades y etnias tienen la capacidad de adaptarse y contribuir positivamente a la sociedad, independientemente de prejuicios culturales o personales. Es importante promover la diversidad, el respeto y la inclusión en lugar de alimentar estereotipos dañinos basados en la nacionalidad o etnia.",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsa no es una forma adecuada de abordar el tema de la adaptación de diferentes culturas a la vida en Occidente. Todas las nacionalidades y etnias tienen la capacidad de adaptarse y contribuir positivamente a la sociedad, independientemente de prejuicios culturales o personales. Es importante promover la diversidad, el respeto y la inclusión en lugar de alimentar estereotipos dañinos basados en la nacionalidad o etnia."
     }
 }

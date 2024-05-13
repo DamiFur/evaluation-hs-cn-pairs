@@ -6,6 +6,7 @@
         "cn": "<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "Es importante recordar que la violencia nunca es la solución. Debemos abordar la situación de los migrantes sin papeles de manera empática y solidaria, buscando soluciones que respeten la dignidad y los derechos humanos de todas las personas. La xenofobia y el odio solo generan más división y sufrimiento. #NoAlRacismo #MigraciónConDignidad",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la violencia nunca es la solución. Debemos abordar la situación de los migrantes sin papeles de manera empática y solidaria, buscando soluciones que respeten la dignidad y los derechos humanos de todas las personas. La xenofobia y el odio solo generan más división y sufrimiento. #NoAlRacismo #MigraciónConDignidad"
     }
 }

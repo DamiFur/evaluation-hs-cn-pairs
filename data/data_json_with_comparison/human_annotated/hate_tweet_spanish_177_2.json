@@ -6,6 +6,7 @@
         "cn": "Son dos circunstancias muy diferentes, no puedes comparar de forma tan simplificada.",
         "model": "human_annotated",
         "comparison_text": "Este comentario es discriminatorio y se basa en estereotipos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es discriminatorio y se basa en estereotipos."
     }
 }

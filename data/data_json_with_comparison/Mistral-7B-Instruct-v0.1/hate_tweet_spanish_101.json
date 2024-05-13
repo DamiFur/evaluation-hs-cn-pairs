@@ -6,6 +6,7 @@
         "cn": "Eres incorrecto.",
         "model": "Mistral-7B-Instruct-v0.1",
         "comparison_text": "Es importante recordar que todas las personas merecen ser tratadas con respeto y empatía, independientemente de su nacionalidad. No debemos discriminar ni menospreciar a nadie por su origen o nacionalidad. Todos tenemos derecho a una vida digna y a buscar una mejor calidad de vida. Es necesario erradicar el odio y la intolerancia, promoviendo la solidaridad y la unidad entre todos los seres humanos. #NoAlRacismo #NoALaXenofobia ",
-        "comparison_model": "gpt3.5_all"
+        "comparison_model": "gpt3.5_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que todas las personas merecen ser tratadas con respeto y empatía, independientemente de su nacionalidad. No debemos discriminar ni menospreciar a nadie por su origen o nacionalidad. Todos tenemos derecho a una vida digna y a buscar una mejor calidad de vida. Es necesario erradicar el odio y la intolerancia, promoviendo la solidaridad y la unidad entre todos los seres humanos. #NoAlRacismo #NoALaXenofobia "
     }
 }

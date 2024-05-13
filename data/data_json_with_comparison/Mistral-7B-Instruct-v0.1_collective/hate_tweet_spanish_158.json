@@ -6,6 +6,7 @@
         "cn": "El machisme no solo es un problema en la culturas Árabes, sino también en muchas otras partes del mundo.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
         "comparison_text": "It's not fair to label an entire cultural group as misogynistic based on personal experiences.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's not fair to label an entire cultural group as misogynistic based on personal experiences."
     }
 }

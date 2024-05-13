@@ -6,6 +6,7 @@
         "cn": "idioma y europe están matando y violando a millones y millones de blancos pero ni lo mencionas tampoco mencionados que esos negros y arabes causan problemas",
         "model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text": "Tienes una visión muy limitada y prejudicada.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1"
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTienes una visión muy limitada y prejudicada."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Esa no es una forma adecuada de abordar el tema de la adaptación de diferentes culturas a la vida en Occidente. Todas las nacionalidades y etnias tienen la capacidad de adaptarse y contribuir positivamente a la sociedad, independientemente de prejuicios culturales o personales. Es importante promover la diversidad, el respeto y la inclusión en lugar de alimentar estereotipos dañinos basados en la nacionalidad o etnia.",
         "model": "gpt3.5_all",
         "comparison_text": "No creo que estamos muy acostumbrados y idk peor a los árabes xenophobes... ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que estamos muy acostumbrados y idk peor a los árabes xenophobes... "
     }
 }

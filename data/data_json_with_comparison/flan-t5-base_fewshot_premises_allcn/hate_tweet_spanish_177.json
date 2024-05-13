@@ -6,6 +6,7 @@
         "cn": "Asiáticos devastados por la guerra hoy tienen mejores estructura que chilito sudacas",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Pues no, no es porque sean \\\"sudacas\\\", sino porque sus circunstancias materiales son diferentes.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues no, no es porque sean \\\"sudacas\\\", sino porque sus circunstancias materiales son diferentes."
     }
 }

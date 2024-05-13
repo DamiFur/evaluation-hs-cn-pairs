@@ -6,6 +6,7 @@
         "cn": "Por qué eso es cierto que trabaja en el lugar en que esas niñas tienen ninguna edad? ",
         "model": "flan-t5-base_finetuned_noarg_c",
         "comparison_text": " Es injusto generalizar y culpar a una comunidad específica por problemas económicos y sociales que afectan a toda la sociedad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es injusto generalizar y culpar a una comunidad específica por problemas económicos y sociales que afectan a toda la sociedad."
     }
 }

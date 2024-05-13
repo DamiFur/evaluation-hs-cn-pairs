@@ -6,6 +6,7 @@
         "cn": "No hay nada de obvio en esa afirmación.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>"
     }
 }

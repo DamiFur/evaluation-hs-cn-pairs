@@ -6,6 +6,7 @@
         "cn": "el pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos defenderamos lo nuestro hagamos patria @user @user &lt;b&gt;",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "La especulación de precios es un problema real, pero culpar a ciertas nacionalidades no es la solución. Todos debemos trabajar juntos para encontrar una solución justa y equitativa.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa especulación de precios es un problema real, pero culpar a ciertas nacionalidades no es la solución. Todos debemos trabajar juntos para encontrar una solución justa y equitativa."
     }
 }

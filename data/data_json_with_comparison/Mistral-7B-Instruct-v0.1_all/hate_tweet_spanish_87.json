@@ -6,6 +6,7 @@
         "cn": "Este comentarios es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "\\\"lindos negritos visitantes\\\"\\\" are safe",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n\\\"lindos negritos visitantes\\\"\\\" are safe"
     }
 }

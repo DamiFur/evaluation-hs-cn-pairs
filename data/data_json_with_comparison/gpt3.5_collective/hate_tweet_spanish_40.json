@@ -6,6 +6,7 @@
         "cn": "Los subsaharianos son seres humanos que merecen respeto y oportunidades, no ser estigmatizados o discriminados por su origen étnico. La diversidad enriquece nuestras sociedades y debemos rechazar cualquier forma de xenofobia.",
         "model": "gpt3.5_collective",
         "comparison_text": "Este mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú."
     }
 }

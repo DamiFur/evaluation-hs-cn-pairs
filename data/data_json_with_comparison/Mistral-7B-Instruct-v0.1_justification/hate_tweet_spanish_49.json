@@ -6,6 +6,7 @@
         "cn": "La adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,",
         "model": "Mistral-7B-Instruct-v0.1_justification",
         "comparison_text": "Por qué crees que estamos muy acostumbrados y idk peor los árabes? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué crees que estamos muy acostumbrados y idk peor los árabes? "
     }
 }

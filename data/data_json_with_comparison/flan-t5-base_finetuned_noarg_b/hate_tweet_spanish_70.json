@@ -6,6 +6,7 @@
         "cn": "<extra_id_48> No es cierto que esos robas son robadas, esa es una otra vez, como el nio tiene en el país. Eso es lo que tiene que robar todos los alimentos, y no es algo más mal que yo tengo en panama.",
         "model": "flan-t5-base_finetuned_noarg_b",
         "comparison_text": "La xenofobia y el racismo son intolerables. No hay justificación para el uso de lenguaje despectivo hacia ninguna comunidad. Todos merecen respeto y dignidad sin importar su origen o color de piel.",
-        "comparison_model": "gpt3.5"
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa xenofobia y el racismo son intolerables. No hay justificación para el uso de lenguaje despectivo hacia ninguna comunidad. Todos merecen respeto y dignidad sin importar su origen o color de piel."
     }
 }

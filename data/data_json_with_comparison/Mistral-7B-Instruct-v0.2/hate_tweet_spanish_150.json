@@ -6,6 +6,7 @@
         "cn": "Este tweet no proporciona suficientes datos para evaluar su veracidad.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "No puedo decir si es verdad o falso, pero es importante recordar que la migración es un fenómeno complejo y no se puede reducir a un solo",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo puedo decir si es verdad o falso, pero es importante recordar que la migración es un fenómeno complejo y no se puede reducir a un solo"
     }
 }

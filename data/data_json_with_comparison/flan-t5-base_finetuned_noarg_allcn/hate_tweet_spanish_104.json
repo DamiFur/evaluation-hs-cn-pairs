@@ -6,6 +6,7 @@
         "cn": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde hace mil años. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
         "comparison_text": "Marina Le Pen's statement is based on a conspiracy theory with no factual basis.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMarina Le Pen's statement is based on a conspiracy theory with no factual basis."
     }
 }

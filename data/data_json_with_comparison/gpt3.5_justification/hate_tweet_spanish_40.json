@@ -6,6 +6,7 @@
         "cn": "Es importante recordar que la diversidad cultural enriquece a la sociedad. Es injusto generalizar y discriminar a un grupo por el origen de su nacionalidad. Todos merecen ser tratados con respeto y dignidad, independientemente de su procedencia. Acoger y ayudar a aquellos que vienen en búsqueda de una vida mejor es un acto de humanidad y solidaridad. No hay motivo para excluir a nadie de la sociedad solo por su nacionalidad. Juntos podemos construir una sociedad más inclusiva y comprensiva.",
         "model": "gpt3.5_justification",
         "comparison_text": "Y eso no es sencillo. Gracias a la gente que estas llenos a su casa. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a"
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no es sencillo. Gracias a la gente que estas llenos a su casa. "
     }
 }

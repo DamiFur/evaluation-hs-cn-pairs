@@ -6,6 +6,7 @@
         "cn": "No es cierto que los venezolanos no son inmigrantes, y eso no tiene nada que reaccionar. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "900 venezolanos por day al perú cuántos más tendrán que venir para que ya se pona coto y fin a esta invasion?",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n900 venezolanos por day al perú cuántos más tendrán que venir para que ya se pona coto y fin a esta invasion?"
     }
 }

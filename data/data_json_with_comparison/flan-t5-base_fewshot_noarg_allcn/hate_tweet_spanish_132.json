@@ -6,6 +6,7 @@
         "cn": "Spanish is being invaded by the subsaharians and here don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 =>.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text": "Los subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía.",
-        "comparison_model": "gpt3.5_collective"
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía."
     }
 }

@@ -6,6 +6,7 @@
         "cn": "Sería una falta de humanidad y solidaridad negar la oportunidad de integración y acogida a personas que buscan una vida mejor. El ejemplo de Riace demuestra que la convivencia y el apoyo mutuo son posibles, y es algo que deberíamos replicar en lugar de rechazar.",
         "model": "gpt3.5_all",
         "comparison_text": "Por qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? "
     }
 }

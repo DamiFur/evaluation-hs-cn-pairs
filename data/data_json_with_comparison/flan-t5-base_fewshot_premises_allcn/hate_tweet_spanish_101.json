@@ -6,6 +6,7 @@
         "cn": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel mantero to su país. No hay que deportar a nadie.",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "No es cierto. Se puede atender a unos sin descuidar a otros.",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto. Se puede atender a unos sin descuidar a otros."
     }
 }

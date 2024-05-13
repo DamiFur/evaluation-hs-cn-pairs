@@ -6,6 +6,7 @@
         "cn": " Es importante recordar que generalizaciones sobre una etnicía o nación entera son injustas y no reflejan la realidad.",
         "model": "Mistral-7B-Instruct-v0.2",
         "comparison_text": "La adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse"
     }
 }

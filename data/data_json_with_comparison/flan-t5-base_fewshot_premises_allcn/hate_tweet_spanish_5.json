@@ -6,6 +6,7 @@
         "cn": "Habrá correlación?",
         "model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text": "Es difícil que algo tenga relación con algún estudio de internet completamente descontextualizado...",
-        "comparison_model": "human_annotated"
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs difícil que algo tenga relación con algún estudio de internet completamente descontextualizado..."
     }
 }

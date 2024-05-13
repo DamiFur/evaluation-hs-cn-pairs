@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "El hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
+        "model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text": "Sería una falta de humanidad y solidaridad negar la oportunidad de integración y acogida a personas que buscan una vida mejor. El ejemplo de Riace demuestra que la convivencia y el apoyo mutuo son posibles, y es algo que deberíamos replicar en lugar de rechazar.",
+        "comparison_model": "gpt3.5_all"
+    }
+}

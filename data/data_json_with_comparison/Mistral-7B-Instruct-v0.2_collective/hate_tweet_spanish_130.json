@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "Es importante recordar que la violencia y los crímenes no se justifican basados en el color de la piel o la etnia.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "israel and in all of Europe are killing and destroying millions and millions of whites but this is not mentioned nor is it mentioned that these blacks and arabs cause problems",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

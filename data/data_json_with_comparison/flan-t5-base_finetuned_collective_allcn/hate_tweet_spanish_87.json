@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "87",
+        "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
+        "cn": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Estás paranoico. No se encuentra, y por eso no hace falta tener coto a fin' ",
+        "comparison_model": "flan-t5-base"
+    }
+}

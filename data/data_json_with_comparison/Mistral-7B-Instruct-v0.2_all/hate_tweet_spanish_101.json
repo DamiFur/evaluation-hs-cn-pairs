@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": " La etnia o nacionalidad de alguien no se determina por su pasado o situación actual, especialmente cuando se trata de conceptos abstractos como \\\"Gloria\\\" o",
+        "model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text": "Es importante recordar que todas las personas merecen ser tratadas con respeto y empatía, independientemente de su nacionalidad. No debemos discriminar ni menospreciar a nadie por su origen o nacionalidad. Todos tenemos derecho a una vida digna y a buscar una mejor calidad de vida. Es necesario erradicar el odio y la intolerancia, promoviendo la solidaridad y la unidad entre todos los seres humanos. #NoAlRacismo #NoALaXenofobia ",
+        "comparison_model": "gpt3.5_all"
+    }
+}

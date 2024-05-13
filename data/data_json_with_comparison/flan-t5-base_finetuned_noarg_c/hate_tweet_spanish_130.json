@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "Por qué eso no es cierto? No es un problema. ",
+        "model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text": "Es dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione.",
+        "comparison_model": "human_annotated"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "57",
+        "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
+        "cn": "No es cierto que el partido antiinmigración ganara las elecciones generales en el próximo mes de septiembre. Y qué? ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Están abriendo los ojos el partido antiinmigración ganara las generales del próxim",
+        "comparison_model": "flan-t5-base"
+    }
+}

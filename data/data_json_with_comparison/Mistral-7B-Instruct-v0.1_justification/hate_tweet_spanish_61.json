@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "Este mensaje parece estar relacionado con un evento específico que se ha producido en España, pero no se puede confirmar sin más detalles.",
+        "model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text": "No es cierto que la información norteamericana advierte en una invasión inminente. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+    }
+}

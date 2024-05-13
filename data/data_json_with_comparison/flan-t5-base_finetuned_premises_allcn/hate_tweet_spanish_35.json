@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "No es cierto que los manteros atacan a turistas y hay reyertas en el raval ada colau. Por qué? ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "Los manTERos no son una entidad homogénea, no todos actúan de la misma forma.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

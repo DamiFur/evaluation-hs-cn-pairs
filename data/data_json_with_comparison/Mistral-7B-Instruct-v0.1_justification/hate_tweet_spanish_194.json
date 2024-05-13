@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "194",
+        "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
+        "cn": "La violencia no tiene nada que ver con el país de origen de las personas involucradas.",
+        "model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text": "No es cierto que los sudacas y centroamirdicanos son violentos. No tienen dinero, no tienen nada. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+    }
+}

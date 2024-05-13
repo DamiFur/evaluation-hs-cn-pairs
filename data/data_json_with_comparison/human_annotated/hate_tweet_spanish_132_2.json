@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "132_2",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "No es cierto que España esté siendo invadida por nadie.",
+        "model": "human_annotated",
+        "comparison_text": "Lo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

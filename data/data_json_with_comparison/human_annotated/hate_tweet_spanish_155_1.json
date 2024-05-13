@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "155_1",
+        "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
+        "cn": "Que sea moro no tiene nada que ver. Hay tantos violadores moros como en cualquier otro grupo.",
+        "model": "human_annotated",
+        "comparison_text": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

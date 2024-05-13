@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "Por qué estás invado por los subsaharianos? ",
+        "model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text": "No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.",
+        "comparison_model": "human_annotated"
+    }
+}

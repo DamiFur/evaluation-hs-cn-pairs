@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "No es cierto que son españoles nada sin fueran refugiados gloria ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Es difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
+        "comparison_model": "flan-t5-base"
+    }
+}

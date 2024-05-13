@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "124",
+        "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
+        "cn": "<extra_id_48> La gente es el nio, y eso es una raza dominada, esa es la raza en que los árabes son razas dominadas, y la gente sean racionalmente dominadas como los animales, las mujeres, el pobre. No es necesario que las agricultores y los pobres sean dominados, pero no es decir, que ese país tiene ",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que los animales y las niñas son razas dominadas por un libro. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

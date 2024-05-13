@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "Por qué es el caos organizado surrealista subsahariano? ",
+        "model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text": "Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\".",
+        "comparison_model": "human_annotated"
+    }
+}

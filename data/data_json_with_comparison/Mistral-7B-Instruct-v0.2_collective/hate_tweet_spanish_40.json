@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "40",
+        "hs": "@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa",
+        "cn": "Es injusto generalizar que todos los subsAHARIANOS se dedican a la venta de contrabando o están \\\"tiros\\\" en la calle.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "vengan muchos ya sobre aquí hay demasiados de todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroques donde trabaja el y viven la mujer 4 children and 4 abuelos en ciudades",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

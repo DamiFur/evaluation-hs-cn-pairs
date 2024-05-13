@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
+        "model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text": "No tienen derecho a obligarte a usar algo que no deseas, tu identidad y cultura merecen respeto. No te dejes influenciar por comentarios racistas y xenofóbicos. ¡Tú eres libre de expresarte como desees!",
+        "comparison_model": "gpt3.5_justification"
+    }
+}

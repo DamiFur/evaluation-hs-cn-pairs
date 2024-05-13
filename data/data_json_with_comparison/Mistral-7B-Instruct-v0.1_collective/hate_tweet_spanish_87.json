@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "87",
+        "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
+        "cn": "Este comentarios es altamente ofensivo y discriminatorio.",
+        "model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+    }
+}

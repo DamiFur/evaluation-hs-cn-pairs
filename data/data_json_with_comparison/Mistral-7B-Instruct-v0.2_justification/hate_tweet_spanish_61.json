@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "Este tweet no tiene sentido y contiene información falsa.",
+        "model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text": "Es peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen.",
+        "comparison_model": "gpt3.5_collective"
+    }
+}

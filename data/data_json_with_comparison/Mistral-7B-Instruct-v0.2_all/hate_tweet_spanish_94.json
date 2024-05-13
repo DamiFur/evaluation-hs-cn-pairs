@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "94",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "Mis palabras: No apoyo la violencia contra inocentes personas, incluidos viajeros y policías.",
+        "model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text": "Es importante recordar que la violencia no es la respuesta y que generalizar a toda una comunidad por las acciones de unos pocos no es justo. Todas las personas merecen respeto y dignidad, independientemente de su estatus migratorio. Ayudar a quienes lo necesitan es un acto de humanidad, y debemos encontrar formas de convivencia pacífica y solidaria en lugar de recurrir a la violencia y la discriminación. #SolidaridadSinFronteras.",
+        "comparison_model": "gpt3.5_all"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "El sistema de alimentos es importante para todos los ciudadanos y se debe garantizar que todos tengan acceso a comida segura y sana.",
+        "model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text": " Es importante defender nuestros intereses económicos, pero es importante hacerlo de manera ética y legal.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+    }
+}

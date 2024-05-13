@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "No es cierto que eso no tiene nada de nada. ",
+        "model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text": "<extra_id_48> Eso no es cierto que los subsaharianos invadien el patata, eso es lo que tiene que hacer. No hay nada que esa es una pelcula. No tiene nada que hacerlo. <extra_id_69>",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+    }
+}

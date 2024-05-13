@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "57_1",
+        "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
+        "cn": "Los indocumentados suelen aceptar los trabajos que nadie quiere hacer. No es cierto que no aporten nada.",
+        "model": "human_annotated",
+        "comparison_text": "Muchas personas tienen puntos de vista diferentes acerca de la migración.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

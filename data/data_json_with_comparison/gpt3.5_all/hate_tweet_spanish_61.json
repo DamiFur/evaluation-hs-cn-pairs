@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "Todos merecen ser acogidos y respetados, la xenofobia y el miedo solo generan división y desconfianza. Hay que rechazar cualquier tipo de discurso que promueva el odio. Hashtag AcogidaSolidaria.",
+        "model": "gpt3.5_all",
+        "comparison_text": "Por qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

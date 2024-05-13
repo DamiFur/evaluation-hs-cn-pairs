@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... ",
+        "model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text": "'Is difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+    }
+}

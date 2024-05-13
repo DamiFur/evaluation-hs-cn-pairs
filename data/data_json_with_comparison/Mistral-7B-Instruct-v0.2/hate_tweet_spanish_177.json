@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "Este tweet no proporciona suficientes datos para llegar a una conclusión válida.",
+        "model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text": "Es lamentable que se utilicen términos despectivos y discriminatorios para referirse a países y culturas latinoamericanas. En lugar de comparar de manera negativa, deberíamos enfocarnos en construir puentes de entendimiento y respeto entre todas las naciones. La diversidad cultural es un valor que enriquece a la humanidad.",
+        "comparison_model": "gpt3.5_justification"
+    }
+}

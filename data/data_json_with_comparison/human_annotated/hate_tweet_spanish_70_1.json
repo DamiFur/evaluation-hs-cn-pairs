@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "70_1",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "Que asocien a los negros con los robos parece una excusa, o bien, que necesitan un chivo expiatorio.",
+        "model": "human_annotated",
+        "comparison_text": "Este comentario es racista y ofensivo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "118",
+        "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
+        "cn": "<extra_id_75> Por qué es cierto que los inmigrantes en el mundo tienen que encontrar esos nios? No, no hay inmigrantes, ni ni siquiera tienen nada?",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que los inmigrantes o los envecos han entrado solos desde marruecos. Por qué? ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

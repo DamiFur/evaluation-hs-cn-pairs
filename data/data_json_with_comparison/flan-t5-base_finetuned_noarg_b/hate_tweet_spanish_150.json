@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "150",
+        "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
+        "cn": "<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos.",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que los subsaharianos se organizan para asaltar nuestra frontera y hacer cargo de nuestros jubilaciones. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
+        "model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text": "La especulación de precios es un problema real, pero culpar a ciertas nacionalidades no es la solución. Todos debemos trabajar juntos para encontrar una solución justa y equitativa.",
+        "comparison_model": "gpt3.5_collective"
+    }
+}

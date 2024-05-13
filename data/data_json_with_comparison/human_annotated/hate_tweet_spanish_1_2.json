@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1_2",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "¿De qué factura hablas? Si los inmigrantes no representan ningún gasto.",
+        "model": "human_annotated",
+        "comparison_text": "El artículo no proporciona suficientes detalles para llegar a conclusiones definitivas sobre quiéntes pagan las facturas o cóMO se distrib",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

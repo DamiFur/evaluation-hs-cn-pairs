@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "El origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa.",
+        "model": "gpt3.5_collective",
+        "comparison_text": " La etnia o nacionalidad de alguien no se determina por su pasado o situación actual, especialmente cuando se trata de conceptos abstractos como \\\"Gloria\\\" o",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+    }
+}

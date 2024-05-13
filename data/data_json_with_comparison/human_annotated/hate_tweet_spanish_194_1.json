@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "194_1",
+        "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
+        "cn": "No es cierto que los \\\"sudacas\\\" sean violentos. Estás siendo xenofobico.",
+        "model": "human_annotated",
+        "comparison_text": "No es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

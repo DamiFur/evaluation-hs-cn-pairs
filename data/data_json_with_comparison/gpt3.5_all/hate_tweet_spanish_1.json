@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "No se trata de culpar a los inmigrantes ilegales, sino de encontrar soluciones justas y humanitarias para abordar la situación. Los votantes tienen el poder de elegir líderes que adopten políticas compasivas y efectivas en materia migratoria.",
+        "model": "gpt3.5_all",
+        "comparison_text": "Por qué eso es cierto? ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "Es incorrecto generalizar y menospreciar a toda una región solo por el caso particular de un país. Cada país tiene su historia y circunstancias únicas, y es inaceptable usar términos despectivos como \\\"sudacas\\\". Es importante reconocer el progreso que han logrado muchos países latinoamericanos, incluido Chile, y no menospreciar su potencial por prejuicios o estereotipos.",
+        "model": "gpt3.5_all",
+        "comparison_text": "No tiene ninguna estructura que eso tiene. No tienen nada. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

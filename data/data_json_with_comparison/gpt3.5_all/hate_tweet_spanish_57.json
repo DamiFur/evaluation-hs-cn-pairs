@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "57",
+        "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
+        "cn": "La diversidad y la inclusión son valores fundamentales para construir sociedades prósperas y justas. La migración aporta riqueza cultural, talento y contribuciones económicas a los países receptores. No debemos caer en la generalización ni en el discurso del odio hacia los inmigrantes. Es importante promover el respeto mutuo y la cooperación para crear un mundo mejor para todos.",
+        "model": "gpt3.5_all",
+        "comparison_text": "Por qué es el partido antiinmigración que ganara las elecciones del próximo mes de septiembre? ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

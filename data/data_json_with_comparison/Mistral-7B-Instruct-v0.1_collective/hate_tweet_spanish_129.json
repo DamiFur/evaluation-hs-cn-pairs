@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera",
+        "model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text": "Este comentario parece estar basado en una opinión personal y no en hechos verificables.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+    }
+}

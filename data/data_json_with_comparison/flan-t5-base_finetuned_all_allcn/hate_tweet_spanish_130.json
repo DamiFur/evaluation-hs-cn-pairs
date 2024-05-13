@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "No es cierto que los negros y los arabes causan problemas. ",
+        "model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text": "idioma y europe están matando y violando a millones y millones de blancos pero ni lo mencionas tampoco mencionados que esos negros y arabes causan problemas",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+    }
+}

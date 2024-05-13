@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "94",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "No es cierto que te ayudaras a los turistas y polticas, ni siquiera tiene ningn problema. ",
+        "model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text": " No es correcto afirmar que todos los sin-papeles son agregados. Hay muchas personas que ingresan a un país sin ser agressivos y solo buscan",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn"
+    }
+}

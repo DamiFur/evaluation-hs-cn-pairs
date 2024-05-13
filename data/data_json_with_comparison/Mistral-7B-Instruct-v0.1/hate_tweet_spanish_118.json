@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "118",
+        "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
+        "cn": "Los migrantes que entran en España desde Marrakech no son una amenaza para España.",
+        "model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text": "Esta información es incorrecta y se basa en una fuente no confiable. El número de personas que han llegado a España desde Marrakech en los últimos años es much",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+    }
+}

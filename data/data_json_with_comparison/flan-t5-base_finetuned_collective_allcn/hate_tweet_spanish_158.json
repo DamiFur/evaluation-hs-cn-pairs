@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "158",
+        "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
+        "cn": "No es cierto que la cultura árabe es una cultura machista. Y qué? ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Saben que estás paranoico. No te lo digo, y por eso no hace falta ponerle coto",
+        "comparison_model": "flan-t5-base"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "118",
+        "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
+        "cn": "No es justo asociar la llegada masiva de menors a España desde MarrUEcos con una intención maliciosa o invasiva.",
+        "model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text": "Es importante recordar que muchos menores migrantes llegan solos buscando una vida mejor y huyendo de situaciones de violencia y pobreza en sus países de origen. La reunificación familiar es un derecho humano fundamental que permite a las familias estar juntas. No debemos asumir que hay motivos maliciosos detrás de estos movimientos migratorios sin pruebas sólidas. Es importante abordar estos temas con empatía, respeto y buscando soluciones humanitarias.",
+        "comparison_model": "gpt3.5_justification"
+    }
+}

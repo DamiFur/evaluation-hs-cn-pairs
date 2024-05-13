@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "No creo que es cierto que los votantes no han pagado el marrón de dejar inmigrantes ilegales. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "El artículo no proporciona suficientes datos para llegar a conclusiones racistas o xenoferobicas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

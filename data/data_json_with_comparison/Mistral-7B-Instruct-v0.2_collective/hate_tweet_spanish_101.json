@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "La herencia étnica no justifica generalizaciones negativas.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "gloria hashtag migrates hashtag refugiados hashtag españaloprimero",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

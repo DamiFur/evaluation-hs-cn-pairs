@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "146_1",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "La existencia de empresarios especuladores, y su nacionalidad, no tienen nada que ver. No es como que los países \\\"impongan\\\" algo así.",
+        "model": "human_annotated",
+        "comparison_text": " Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

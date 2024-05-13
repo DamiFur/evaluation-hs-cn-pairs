@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "158",
+        "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
+        "cn": "Arabic culture = machista te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe",
+        "model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text": "user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe | Justification: te lo digo xq me ha pasado lo mismo @user",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn"
+    }
+}

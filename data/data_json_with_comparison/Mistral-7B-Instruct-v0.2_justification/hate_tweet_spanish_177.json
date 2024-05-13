@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "Este tweet no proporciona suficiente contexto ni información relevante para hacer una afirmación contra la racismo o xenoﬁoba.",
+        "model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
+        "comparison_model": "gpt3.5_collective"
+    }
+}

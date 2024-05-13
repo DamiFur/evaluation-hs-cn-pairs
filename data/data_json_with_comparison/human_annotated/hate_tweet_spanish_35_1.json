@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35_1",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "Estas suponiendo que solo los manteros agreden personas, y eso es prejuicioso. Ademas, no es cierto",
+        "model": "human_annotated",
+        "comparison_text": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

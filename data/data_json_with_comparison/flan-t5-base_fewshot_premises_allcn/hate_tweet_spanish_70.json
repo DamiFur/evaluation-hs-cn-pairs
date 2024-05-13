@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "70",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "Genera una respuesta sin odio a los siguientes mensajes:. sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver acombar a turistas y policias la única manera que nos obligan hacer es mantero seno a su país. No hay que deportar nadie...",
+        "model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text": "Es incorrecto afirmar que todos los negros son ladrones.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective"
+    }
+}

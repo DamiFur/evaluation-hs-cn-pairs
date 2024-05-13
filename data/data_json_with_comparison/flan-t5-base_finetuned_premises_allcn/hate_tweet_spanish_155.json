@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "155",
+        "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
+        "cn": "No es cierto que los nios han abusado en el trabajo. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "Es injusto y ofensivo etiquetar a alguien por su raza o religión sin ninguna prueba.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

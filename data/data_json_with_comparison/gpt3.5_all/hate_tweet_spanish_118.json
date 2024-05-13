@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "118",
+        "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
+        "cn": "Es importante recordar que cada individuo, independientemente de su origen, tiene derecho a buscar una vida mejor y a reunirse con sus seres queridos. En vez de plantear teorías de conspiración, debemos trabajar juntos para garantizar la seguridad y bienestar de todos los migrantes y refugiados. La solidaridad y el respeto son los pilares fundamentales para abordar la migración de manera humanitaria y justa.",
+        "model": "gpt3.5_all",
+        "comparison_text": "Por qué eso es cierto que el nmero de nios han encontrado en españa solo desde marruecos? ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": " Es importante recordar que el uso de generalizaciones basadas en el origen étnico o racial es erróneo y ofensivo.",
+        "model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text": "Es importante recordar que todas las personas, independientemente de su origen étnico, merecen ser tratadas con respeto y dignidad. Culpar a toda una raza o grupo étnico por los actos de unos pocos individuos es injusto y perpetúa estereotipos negativos. Debemos buscar la armonía y la convivencia pacífica entre todas las culturas y etnias.",
+        "comparison_model": "gpt3.5_all"
+    }
+}

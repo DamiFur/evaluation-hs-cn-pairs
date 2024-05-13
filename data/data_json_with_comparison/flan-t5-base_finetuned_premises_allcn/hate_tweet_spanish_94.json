@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "94",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "No es cierto que los turistas y polticos obligan a ayudar a las personas sin papeles. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "El grupo que mencionas, Manteros, está lidiando con la irregularidad migratoria. No es justo generalizar que estos individuos quieren ag",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

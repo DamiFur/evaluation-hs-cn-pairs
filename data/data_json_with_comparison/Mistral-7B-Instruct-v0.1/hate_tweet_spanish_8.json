@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "Este comentario es altamente ofensivo y discriminatorio.",
+        "model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text": "No se debería tomar esas palabras de boca de alguien como si fueran verdaderas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+    }
+}

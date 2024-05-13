@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "57",
+        "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
+        "cn": "Es importante recordar que todos los seres humanos tienen derechos y deben ser tratados con respeto y dignidad, sin importar su lugar de origen o su estatus",
+        "model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text": "El hecho de que un partido antinigración sea capaz de ganar en Suecia no significa que su posición sea correcta.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+    }
+}

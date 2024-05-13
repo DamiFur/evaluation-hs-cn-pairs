@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "Por qué tienen estructuras más ricas que la guerra? ",
+        "model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text": "No es cierto que los asiaticos devastados por la guerra tienen estructura que chilito cosas sudacas. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+    }
+}

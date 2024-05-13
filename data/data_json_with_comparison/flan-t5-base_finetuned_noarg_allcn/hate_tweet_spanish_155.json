@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "155",
+        "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
+        "cn": "No es cierto que la nacionalidad de los 3 moro mierdas abusado en el lugar de una niña. ",
+        "model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text": "<extra_id_61> No es cierto que los 3 abusos de niñas han abusado en el término de la escuela. No hay nada que eso es lo que tiene que abusar. <extra_id_32>",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b"
+    }
+}

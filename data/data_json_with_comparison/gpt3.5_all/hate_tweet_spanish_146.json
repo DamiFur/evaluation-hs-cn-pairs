@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "La diversidad cultural enriquece a nuestro país, no importa de dónde provengan las personas involucradas en el sistema alimentario. Debemos combatir juntos la especulación de precios sin caer en la discriminación ni el odio hacia ningún grupo étnico. Hagamos patria cuidando y respetando a todos.",
+        "model": "gpt3.5_all",
+        "comparison_text": "No es cierto que el pueblo exige más atención en el sistema alimentario y contra el especulación de precios impuesto por los chinos turcos, esos colombianos. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

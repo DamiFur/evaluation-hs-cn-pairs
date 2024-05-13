@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "<extra_id_57> Sólo es una inmigración a las autoridades peruanas? No es cierto que el inmigrante tiene que reaccionarse a la invasión? No, no es inmigrarse en esos casos. No hay inmigrantes en EE.UU., no hay inmigradores en otros países, y no hay ninguna inmigranción a través de esas invasiones.",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que es un inmigrante a las autoridades peruanas, y eso no tiene ningn efecto. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

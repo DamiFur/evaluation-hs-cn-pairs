@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "49",
+        "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
+        "cn": "La adaptación de una persona a una cultura diferente se basa en varios factores, incluyendo su educación, su experiencia de vida, sus valores y creencias,",
+        "model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text": "No es cierto que el nacionalidad o la etna crees que se adapta mejor a la vida occidental europea. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "<extra_id_48> El caos organizado surrealista subsahariano es el caos organizativo para la realidad del país, y eso es lo que tiene que encontrar en el campo de la realidad.",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que algo se pudre en el país es realidad. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

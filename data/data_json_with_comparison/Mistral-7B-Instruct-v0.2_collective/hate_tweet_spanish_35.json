@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "Los manTERos no son una entidad homogénea, no todos actúan de la misma forma.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\"",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

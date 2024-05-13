@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
+        "model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text": "Es importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales",
+        "comparison_model": "gpt3.5_justification"
+    }
+}

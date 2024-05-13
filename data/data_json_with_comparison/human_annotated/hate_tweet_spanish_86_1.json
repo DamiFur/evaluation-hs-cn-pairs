@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "86_1",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "Lo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?",
+        "model": "human_annotated",
+        "comparison_text": "Mis palabras anteriores fueron equivocadas debido a mi falible comprensión del contexto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

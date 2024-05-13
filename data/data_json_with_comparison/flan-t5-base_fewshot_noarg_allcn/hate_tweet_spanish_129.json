@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "Something is happening in the country is the caos organized surrealista subsahariano our reality",
+        "model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text": "Este comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1"
+    }
+}

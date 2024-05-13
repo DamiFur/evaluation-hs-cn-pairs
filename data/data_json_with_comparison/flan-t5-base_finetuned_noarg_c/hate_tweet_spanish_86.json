@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "Por qué no es una inmigración a las autoridades peruanas? ",
+        "model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text": "Estás siendo paranoico. No se va a \\\"desbordar\\\", y es por eso que no hace falta ponerle \\\"coto y fin\\\"",
+        "comparison_model": "human_annotated"
+    }
+}

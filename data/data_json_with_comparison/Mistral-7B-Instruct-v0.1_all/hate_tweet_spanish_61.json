@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "Este mensaje parece estar promoviendo un punto de vista extremo y discriminatorio.",
+        "model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text": "100 000 subsaharianos hashtag defiendeespaña elección ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn | Justification: attención la inteligencia norteamericana advende una invasión inminente",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+    }
+}

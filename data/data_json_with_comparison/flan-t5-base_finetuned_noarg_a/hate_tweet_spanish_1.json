@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "Y qué es el paquete? No es lo que tiene que pensar? ",
+        "model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text": "No es cierto que los inmigrantes ilegales son inmigrantes, y eso no tiene nada que ver. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+    }
+}

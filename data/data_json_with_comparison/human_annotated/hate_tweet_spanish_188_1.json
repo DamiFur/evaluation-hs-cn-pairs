@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "188_1",
+        "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
+        "cn": "No es cierto que los manteros hostiguen y peguen a los turistas, piénsalo. ¿Quién querría tratar mal a sus clientes?",
+        "model": "human_annotated",
+        "comparison_text": "La situación que presentas es compleja y no puede ser resumida solo en términos negativos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

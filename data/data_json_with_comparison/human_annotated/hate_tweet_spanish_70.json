@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "70",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "Hasta donde yo se, tener todo el dinero en Panama tampoco es legal...",
+        "model": "human_annotated",
+        "comparison_text": "Este comentario es racista y ofensivo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

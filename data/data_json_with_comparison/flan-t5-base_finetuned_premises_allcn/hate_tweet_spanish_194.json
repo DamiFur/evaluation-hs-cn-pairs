@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "194",
+        "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
+        "cn": "No es cierto que los sudacas y centroamirdicanos no son mas violentos. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "Es injusto calificar a todos los personas de Sudamérica o Centroaméricanos como violenteros o delincuentes. La mayoría de ellos buscan solo una",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

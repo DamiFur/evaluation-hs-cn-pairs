@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No debes preocuparte de lo que quieran hacer tus detractores.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "I am a black man but not black at all.",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

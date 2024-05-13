@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "155",
+        "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
+        "cn": "No es cierto que la nacionalidad de los 3 abusos de niña tiene nada que descubrir. ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Sólo estás paranoico. No se va a desbordar, y por eso no hace falta ponerle coto",
+        "comparison_model": "flan-t5-base"
+    }
+}

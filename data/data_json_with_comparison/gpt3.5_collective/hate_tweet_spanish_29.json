@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No es necesario asumir una identidad cultural que no te pertenece. Cada persona tiene derecho a expresar su identidad como prefiera, sin importar su color de piel. No hay necesidad de etiquetar a las personas por su apariencia física.",
+        "model": "gpt3.5_collective",
+        "comparison_text": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+    }
+}

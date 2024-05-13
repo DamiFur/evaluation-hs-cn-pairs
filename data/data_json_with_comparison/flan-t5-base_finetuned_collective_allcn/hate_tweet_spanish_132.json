@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "No es cierto que el espacio está siendo invadido por los subsaharianos. Por qué? ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Es difcil que algo tiene relación con algn estudio de internet completamente descontextualizado...'",
+        "comparison_model": "flan-t5-base"
+    }
+}

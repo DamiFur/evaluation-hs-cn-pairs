@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "Todos los grupos de personas son susceptibles de cometer crímenes, no importa su raza o etnia.",
+        "model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text": "| Justification: and in all Europe they are mating and violating",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+    }
+}

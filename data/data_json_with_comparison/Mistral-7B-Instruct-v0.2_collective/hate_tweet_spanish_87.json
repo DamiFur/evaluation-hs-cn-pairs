@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "87",
+        "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
+        "cn": "Este comentário é ofensivo, racista e insensato.",
+        "model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text": "\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn"
+    }
+}

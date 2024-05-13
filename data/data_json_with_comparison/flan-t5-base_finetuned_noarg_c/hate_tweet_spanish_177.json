@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "No tiene ninguna estructura que eso tiene. No tienen nada. ",
+        "model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text": "Pues no, no es porque sean \\\"sudacas\\\", sino porque sus circunstancias materiales son diferentes.",
+        "comparison_model": "human_annotated"
+    }
+}

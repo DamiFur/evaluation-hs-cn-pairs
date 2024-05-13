@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "No es cierto que los inmigrantes ilegales sueltan por su ciudades, y eso no es lo que te preocupa. ",
+        "model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text": "'Era una respuesta contraria al racismo y la xenofobia de los siguientes mensajes de o",
+        "comparison_model": "flan-t5-base"
+    }
+}

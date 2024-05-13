@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "87",
+        "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
+        "cn": "Este comentário é racista e ofensivo.",
+        "model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text": "Es vergonzoso y despreciable promover ideas de odio y discriminación hacia las personas de otras nacionalidades o razas. Debemos promover la igualdad y el respeto hacia todos, sin importar su origen. No hay lugar para la discriminación en nuestra sociedad.",
+        "comparison_model": "gpt3.5_collective"
+    }
+}

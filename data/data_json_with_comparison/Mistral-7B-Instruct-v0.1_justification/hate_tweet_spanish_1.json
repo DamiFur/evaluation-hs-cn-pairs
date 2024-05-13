@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "Esta información es incorrecta.",
+        "model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text": "No es cierto que los votantes no pagan el marrón de dejar inmigrantes ilegales sueltos por sus ciudades. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+    }
+}

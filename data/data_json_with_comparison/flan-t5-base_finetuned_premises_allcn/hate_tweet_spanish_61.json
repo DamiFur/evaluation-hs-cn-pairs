@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "No es cierto que la invasión inminente de los subsaharianos sean invasivos. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "Es injusto etiquetar a un grupo étnico como una \\\"invisión\\\". Es importante promover la comprensión intercultural y combatir las formas de discrim",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

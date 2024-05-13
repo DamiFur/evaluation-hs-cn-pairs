@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "Ahora, el partido antiinmigración ganara las elecciones generales del próximo mes de septiembre cada vez que más países se dan cuenta del error de acoger a miles de indocumentados sin que aporten nada",
+        "model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text": "La responsabilidad de pagar los impuestos y garantizar el bienestar de los ciudadanos no se deja a cargo de una sola persona o entidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1"
+    }
+}

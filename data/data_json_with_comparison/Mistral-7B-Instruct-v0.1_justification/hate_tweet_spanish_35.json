@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "La situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom",
+        "model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text": "No es cierto que los manteros atacan a turistas y hay reyertas en el raval adolescente. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn"
+    }
+}

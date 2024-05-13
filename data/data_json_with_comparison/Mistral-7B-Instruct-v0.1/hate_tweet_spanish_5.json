@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "5",
+        "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
+        "cn": "El estudio mencionado no tiene nada que ver con el brutalismo de las personas del Caribe o el Subsahara.",
+        "model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text": "Esta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "150_1",
+        "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
+        "cn": "No es cierto que se organicen para \\\"robar\\\" nuestras jubilaciones. Nuestras jubilaciones no estan en riesgo por unos inmigrantes.",
+        "model": "human_annotated",
+        "comparison_text": "Este tweet no proporciona suficientes datos para evaluar su veracidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

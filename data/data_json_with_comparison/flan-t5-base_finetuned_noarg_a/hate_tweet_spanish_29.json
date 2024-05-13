@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "Y eso no es tpico. Gracias a todos los nios. ",
+        "model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text": "No es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn"
+    }
+}

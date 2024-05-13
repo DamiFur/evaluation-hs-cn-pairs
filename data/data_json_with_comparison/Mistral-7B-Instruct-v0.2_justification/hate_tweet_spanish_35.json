@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "El hecho de que el alcalde de Riace haya abierto las puestas para inmobiliarios para construir viviendas permanentes para los migrantes no signific",
+        "model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text": "No es justo generalizar a todos los manteros por el comportamiento de unos cuantos. Hay que abordar el problema de forma más integral y respetuosa.",
+        "comparison_model": "gpt3.5_collective"
+    }
+}

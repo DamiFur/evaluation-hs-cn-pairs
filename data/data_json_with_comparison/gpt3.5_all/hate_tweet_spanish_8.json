@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "Es inaceptable y despreciable culpar a la mujer por ser víctima de violencia de género, sea cual sea su origen étnico. La violencia de género es un problema que debe ser abordado con seriedad y empatía, sin importar la nacionalidad o raza de las personas involucradas. Apoyo a la persona que está compartiendo su experiencia y condeno las actitudes racistas y sexistas del individuo mencionado.",
+        "model": "gpt3.5_all",
+        "comparison_text": "No es cierto que el nio tiene ningn razón, ni ni siquiera tiene. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c"
+    }
+}

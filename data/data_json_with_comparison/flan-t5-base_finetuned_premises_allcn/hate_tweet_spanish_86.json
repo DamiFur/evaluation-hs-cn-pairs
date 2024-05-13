@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "No es cierto que es un inmigrante a las autoridades peruanas, y eso no tiene ningn efecto. ",
+        "model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text": "It is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective"
+    }
+}

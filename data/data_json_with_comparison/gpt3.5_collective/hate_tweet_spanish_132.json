@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "Los subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía.",
+        "model": "gpt3.5_collective",
+        "comparison_text": "Este tweet contiene una mezcla de temas incoherentes y racistas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+    }
+}

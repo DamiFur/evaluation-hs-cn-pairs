@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "he has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman.",
+        "model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text": "No es cierto que los árabes son violadores de género, y eso no tiene ninguna razón. ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn"
+    }
+}

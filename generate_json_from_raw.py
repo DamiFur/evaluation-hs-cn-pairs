@@ -16,7 +16,19 @@ for idx, folder in enumerate(models_list):
         filename = file.split("/")[-1]
         if len(filename.split("_")) > 4:
             filename = filename.replace("_1.txt", ".txt").replace("_2.txt", ".txt")
-        comparison_file = open(f"data/data_raw/{comparison_folder}/{filename}", 'r')
+        if not os.path.exists(f"data/data_raw/{comparison_folder}/{filename}"):
+            new_comparison_folder = comparison_folder
+            print(folder)
+            print(filename)
+            print(new_comparison_folder)
+            new_idx = idx
+            while not os.path.exists(f"data/data_raw/{new_comparison_folder}/{filename}"):
+                new_idx = (new_idx + 1) % len(comparisson_reference)
+                new_comparison_folder = comparisson_reference[new_idx]
+                print(new_comparison_folder)
+            comparison_file = open(f"data/data_raw/{new_comparison_folder}/{filename}", 'r')
+        else:
+            comparison_file = open(f"data/data_raw/{comparison_folder}/{filename}", 'r')
         comparison_data = comparison_file.read()
         comparison_data = comparison_data.split("\n")
         comparison_data = [line for line in comparison_data if line != ""]
@@ -26,10 +38,6 @@ for idx, folder in enumerate(models_list):
             data = [line for line in data if line != ""]
             json_data = {}
             hs_num = file.split("/")[-1].replace("hate_tweet_spanish_", "").replace(".txt", "")
-            print(data)
-            print(comparison_data)
-            print(folder)
-            print(comparison_folder)
             json_data["data"] = {"number": hs_num,"hs": data[0], "cn": data[1], "model": folder, "comparison_text": comparison_data[1], "comparison_model": comparison_folder}
             if not os.path.exists(f"data/data_json_with_comparison/{folder}"):
                 os.makedirs(f"data/data_json_with_comparison/{folder}")

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "Soy un modelo de lenguaje y no puedo crear sentimientos o motivaciones.",
+        "model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text": "No hay razón para creer que alguien quiera hacerlo por su raza.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all"
+    }
+}

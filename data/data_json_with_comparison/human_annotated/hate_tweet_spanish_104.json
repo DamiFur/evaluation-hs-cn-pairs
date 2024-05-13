@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "104",
+        "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
+        "cn": "Que a ti te caigan mal ellos, no significa que tenga razón. No se toma una decisión tan grande en base a prejuicios.",
+        "model": "human_annotated",
+        "comparison_text": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

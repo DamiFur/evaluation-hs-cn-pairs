@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región",
+        "model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text": "No hay nada que pudrir en el Perú. La diversidad cultural enriquece nuestra sociedad, y no debemos caer en estereotipos racistas y xenófobos. La convivencia armónica y el respeto mutuo son fundamentales para construir una sociedad inclusiva y justa.",
+        "comparison_model": "gpt3.5_all"
+    }
+}

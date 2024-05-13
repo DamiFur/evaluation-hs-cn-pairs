@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "94_1",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "No recuerdo haber visto manteros agrediendo turistas. Si recuerdo haber visto gente agrediendo manteros. La violencia no es unidireccional como nos quieren hacer creer.",
+        "model": "human_annotated",
+        "comparison_text": "Mis palabras: No apoyo la violencia o el abuso de la hospitalidad extendida.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

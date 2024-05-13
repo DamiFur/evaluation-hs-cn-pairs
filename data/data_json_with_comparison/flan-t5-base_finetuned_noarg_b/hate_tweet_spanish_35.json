@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "35",
+        "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
+        "cn": "<extra_id_69> Y eso no es cierto que los hombres atacan a los turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues es indefinido.",
+        "model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text": "No es cierto que los manteros atacan a turistas y hay reyertas en el raval ada colau. Por qué? ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn"
+    }
+}

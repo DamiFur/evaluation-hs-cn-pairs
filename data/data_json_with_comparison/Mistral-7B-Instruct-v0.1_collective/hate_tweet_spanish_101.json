@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "Tu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención",
+        "model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text": "Gloria, como española, tienes derecho a expresar tu opinión libremente.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification"
+    }
+}

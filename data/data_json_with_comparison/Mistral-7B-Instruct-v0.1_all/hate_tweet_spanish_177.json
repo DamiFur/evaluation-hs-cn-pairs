@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "Este comentario es ofensivo y discriminatorio.",
+        "model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text": "Asiáticos devastados por la guerra hoy tienen mejores estructura que chilito sudacas",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn"
+    }
+}

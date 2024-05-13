@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "No podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio.",
+        "model": "gpt3.5_collective",
+        "comparison_text": " El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que necesite un \\\"coto\\\" o \\\"fin\\\".",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all"
+    }
+}

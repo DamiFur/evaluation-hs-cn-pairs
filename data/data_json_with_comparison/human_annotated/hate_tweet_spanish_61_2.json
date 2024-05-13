@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "61_2",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "¿Y a donde se publico tal informe, y por qué deberíamos confiar en la inteligencia de otro país?",
+        "model": "human_annotated",
+        "comparison_text": "Este tweet no tiene ninguna base en la realidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

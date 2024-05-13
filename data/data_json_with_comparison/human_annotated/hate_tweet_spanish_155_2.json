@@ -1,0 +1,10 @@
+{
+    "data": {
+        "number": "155_2",
+        "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
+        "cn": "Es muy triste que ocurra eso, pero si te enfocas solo en su nacionalidad, estas dejando ver que es lo unico que te importa.",
+        "model": "human_annotated",
+        "comparison_text": "Lo siento, pero no estoy dispuesto a participar en tu odiosa y racista discusión.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2"
+    }
+}

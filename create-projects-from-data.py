@@ -86,7 +86,11 @@ TEMPLATE = """<View>
     <Choice value="No evoca a ninguna emoción"/>
   </Choices>
   </View>
+  <View style="box-shadow: 2px 2px 5px #999;
+             padding: 20px; margin-top: 2em;
+             border-radius: 5px;">
   <Text name="comparison_text_complete" value="$comparison_text_complete"/>
+  </View>
   <View style="box-shadow: 2px 2px 5px #999;
              padding: 20px; margin-top: 2em;
              border-radius: 5px;">
@@ -97,6 +101,14 @@ TEMPLATE = """<View>
     <Choice value="Está al mismo nivel"/>
     <Choice value="Peor"/>
   </Choices>
+  </View>
+  <View style="box-shadow: 2px 2px 5px #999;
+             padding: 20px; margin-top: 2em;
+             border-radius: 5px;">
+  <Header value="Proponga una mejor respuesta en sus propias palabras:"/>
+  <TextArea name="answer" toName="text"
+            showSubmitButton="true" maxSubmissions="1" editable="true"
+            required="true" />
   </View>
 </View>
 
@@ -125,7 +137,8 @@ for i in range(len(filenames)//20):
             for filename in (new_block_1 + new_block_2):
                 os.system('cp ' + filename + ' projects/' + str(current_project) + "/" + filename.replace("/", "-"))
             response = requests.post(ENDPOINT + 'api/projects', headers={'Authorization': f'Token {ACCESS_TOKEN}', 'Content-Type': 'application/json'}, json={"label_config": TEMPLATE, "title": f"Block {current_project}"})
-            project_id = json.loads(response.content.decode('utf-8'))["id"]
+            decoded_response = json.loads(response.content.decode('utf-8'))
+            project_id = decoded_response["id"]
             for filename in (new_block_1 + new_block_2):
                 requests.post(ENDPOINT + f"api/projects/{project_id}/import", headers={'Authorization': f'Token {ACCESS_TOKEN}'}, files={"upload_file": open(filename, 'rb')})
             current_project += 1

@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "Y si no hay papal del culto, eso no es realmente cierto? ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues no es cierto que eso no tiene ningn efecto en el país. "
+        "comparison_text": "No es cierto que los inmigrantes sean \"lindos negritos visitantes\". En realidad, son personas que huyen de la guerra y del hambre.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes sean \"lindos negritos visitantes\". En realidad, son personas que huyen de la guerra y del hambre."
     }
 }

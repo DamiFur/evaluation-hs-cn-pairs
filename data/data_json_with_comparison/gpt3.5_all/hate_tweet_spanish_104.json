@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Es importante recordar que la inmigración es un tema complejo y multifacético que no se puede reducir a simples comparaciones históricas. La diversidad cultural enriquece a las sociedades y no es correcto demonizar a todo un grupo de personas basándose en estereotipos injustos. Hay que tratar a cada individuo como tal y no generalizar. Promovamos la inclusión y el respeto mutuo en lugar de la división y el odio.",
         "model": "gpt3.5_all",
-        "comparison_text": "No es cierto que el imperio romano tiene ninguna razón en el mundo, pero eso no es lo que tiene. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el imperio romano tiene ninguna razón en el mundo, pero eso no es lo que tiene. "
+        "comparison_text": "Nadie quiere destruir nada. Nadie quiere atacar a nadie.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNadie quiere destruir nada. Nadie quiere atacar a nadie."
     }
 }

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo tienes que usar el turbante si no quieres. De lo demás no te preocupes.",
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No tienes que usar el turbante si no quieres. De lo demás no te preocupes.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "¿Por qué no podrías usar un turbante de otro color si no te gusta el de los árabes?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Por qué no podrías usar un turbante de otro color si no te gusta el de los árabes?"
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Es importante recordar que todas las personas merecen ser tratadas con respeto y empatía, independientemente de su nacionalidad. No debemos discriminar ni menospreciar a nadie por su origen o nacionalidad. Todos tenemos derecho a una vida digna y a buscar una mejor calidad de vida. Es necesario erradicar el odio y la intolerancia, promoviendo la solidaridad y la unidad entre todos los seres humanos. #NoAlRacismo #NoALaXenofobia ",
         "model": "gpt3.5_all",
-        "comparison_text": "No es cierto que son españoles nada sin fueran refugiados gloria. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que son españoles nada sin fueran refugiados gloria. "
+        "comparison_text": "No es cierto que los españoles sean menos humanitarios que otros pueblos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los españoles sean menos humanitarios que otros pueblos."
     }
 }

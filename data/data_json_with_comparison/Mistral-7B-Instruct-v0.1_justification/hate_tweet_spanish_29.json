@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es correcto afirmar que todos los que te intentan hacer uso de un turban de origen árabe son negros, pero no lo suficiente.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que eso no tiene ningn efecto en todos los países. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso no tiene ningn efecto en todos los países. "
+        "comparison_text": "Y eso no es tpico. Gracias a todos los nios. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no es tpico. Gracias a todos los nios. "
     }
 }

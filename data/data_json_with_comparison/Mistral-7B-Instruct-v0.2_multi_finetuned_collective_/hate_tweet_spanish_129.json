@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nCreo que estás exagerando. No veo ningún problema con los subsaharianos.",
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "Creo que estás exagerando. No veo ningún problema con los subsaharianos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a conclusiones racistas o negativas sobre una región"
+    }
+}

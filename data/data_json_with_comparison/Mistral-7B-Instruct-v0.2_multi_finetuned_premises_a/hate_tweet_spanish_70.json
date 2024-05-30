@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh\n\nSe responde lo siguiente:\n\nNo tienes ninguna idea de lo que estás hablando.",
+        "number": "70",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "No tienes ninguna idea de lo que estás hablando.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "¿Por qué? ¿Porque son negros? ¿Qué tiene que ver el color de la piel con el robo?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Por qué? ¿Porque son negros? ¿Qué tiene que ver el color de la piel con el robo?"
+    }
+}

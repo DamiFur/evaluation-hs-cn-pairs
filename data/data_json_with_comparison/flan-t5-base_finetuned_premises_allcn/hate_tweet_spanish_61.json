@@ -5,8 +5,8 @@
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "No es cierto que la invasión inminente de los subsaharianos sean invasivos. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No es cierto que los subsaharianos son invasores, y eso no tiene nada que ver. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los subsaharianos son invasores, y eso no tiene nada que ver. "
+        "comparison_text": "Es peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs peligroso difundir información falsa y crear miedo hacia un grupo específico de personas. Todos merecen ser tratados con respeto y dignidad, sin importar su origen."
     }
 }

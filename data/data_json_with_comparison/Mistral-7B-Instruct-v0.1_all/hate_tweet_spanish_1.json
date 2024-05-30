@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Esta afirmación es incorrecta.",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "a ver quién pagará la factura y cómo se reparten el marrón de dejar imigrantes ilegales sueltos por sus ciudades (y que los votantes no hagan pagará r dentro de un año) http://t co/cehrdjssdu | Colectivo: | Propiedad: | | Justification:",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\na ver quién pagará la factura y cómo se reparten el marrón de dejar imigrantes ilegales sueltos por sus ciudades (y que los votantes no hagan pagará r dentro de un año) http://t co/cehrdjssdu | Colectivo: | Propiedad: | | Justification:"
+        "comparison_text": "a ver quién pagará la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no hagan pagará r dentro de un año)",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\na ver quién pagará la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no hagan pagará r dentro de un año)"
     }
 }

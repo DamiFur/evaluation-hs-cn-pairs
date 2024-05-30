@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"\n\nSe responde lo siguiente:\n\nNo tienes ninguna idea de lo que estás hablando.",
+        "number": "35",
+        "hs": "\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \"\"ejemplo de acogida integración y lucha contra la xenofobia\"\" pues que se quede allí indefinidamente \"",
+        "cn": "No tienes ninguna idea de lo que estás hablando.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text": "El hecho de que un lugar sea escogido para albergar a personas que huyen de su país no significa que sea un modelo para el resto del mundo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl hecho de que un lugar sea escogido para albergar a personas que huyen de su país no significa que sea un modelo para el resto del mundo."
+    }
+}

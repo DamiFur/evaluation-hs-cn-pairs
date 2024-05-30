@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\n] El problema no es la inmigración sino el racismo y la xenofobia. No todos los inmigrantes son criminales y delincuentes.",
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "] El problema no es la inmigración sino el racismo y la xenofobia. No todos los inmigrantes son criminales y delincuentes.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "No entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices.",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo a qué te refieres, o qué te preocupa. Ni siquiera propones nada. No tiene mucho sentido lo qué dices."
+    }
+}

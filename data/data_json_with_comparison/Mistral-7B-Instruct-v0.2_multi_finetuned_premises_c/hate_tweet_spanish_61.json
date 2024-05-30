@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\natención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn\n\nSe responde lo siguiente:\n\nNo hay invasión. Solo inmigración. No es una amenaza, sino una oportunidad.",
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "No hay invasión. Solo inmigración. No es una amenaza, sino una oportunidad.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text": "Este mensaje parece estar promoviendo un punto de vista extremo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece estar promoviendo un punto de vista extremo y discriminatorio."
+    }
+}

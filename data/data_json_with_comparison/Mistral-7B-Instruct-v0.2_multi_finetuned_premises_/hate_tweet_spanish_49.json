@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg\n\nSe responde lo siguiente:\n\n¿Por qué crees que los chinos son mejores adaptados a la vida europea que los árabe o los asiáticos en general? No veo ninguna lógica en esa afirmación.",
+        "number": "49",
+        "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
+        "cn": "¿Por qué crees que los chinos son mejores adaptados a la vida europea que los árabe o los asiáticos en general? No veo ninguna lógica en esa afirmación.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text": " Es importante recordar que generalizaciones sobre una etnicía o nación entera son injustas y no reflejan la realidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante recordar que generalizaciones sobre una etnicía o nación entera son injustas y no reflejan la realidad."
+    }
+}

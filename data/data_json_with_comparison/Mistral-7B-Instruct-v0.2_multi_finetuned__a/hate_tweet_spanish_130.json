@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\n¿Qué problemas? ¿De qué se trata? ¿Y por qué los negros y los árabes son los únicos culpables?",
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "¿Qué problemas? ¿De qué se trata? ¿Y por qué los negros y los árabes son los únicos culpables?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text": "No creo que haya tantos casos de violencia contra los blancos en Europa. Es una exageración.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que haya tantos casos de violencia contra los blancos en Europa. Es una exageración."
+    }
+}

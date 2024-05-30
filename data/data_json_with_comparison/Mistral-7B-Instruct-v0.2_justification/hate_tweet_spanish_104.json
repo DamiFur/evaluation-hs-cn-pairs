@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Marina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. "
+        "comparison_text": "Solo una minoria de inmigrantes es ilegal. La mayoría son personas que huyen de la violencia y el hambre. La inmigración es un fenómeno natural y no tiene nada que ver con una invasión.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nSolo una minoria de inmigrantes es ilegal. La mayoría son personas que huyen de la violencia y el hambre. La inmigración es un fenómeno natural y no tiene nada que ver con una invasión."
     }
 }

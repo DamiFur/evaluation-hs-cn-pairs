@@ -5,8 +5,8 @@
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "It's important to remember that generalizations and stereotypes are harmful and inaccurate.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo generalizar y caluniar a ciertos grupos basados en su origen étnico o nacionalidad."
+        "comparison_text": "No es cierto que todos los inmigrantes sean violentos. En realidad, muchos de ellos huyen de la violencia.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los inmigrantes sean violentos. En realidad, muchos de ellos huyen de la violencia."
     }
 }

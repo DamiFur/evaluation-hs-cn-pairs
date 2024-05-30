@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\n¿Qué tienes en contra de los inmigrantes? ¿No crees que deberían tener la misma oportunidad que tú?",
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "¿Qué tienes en contra de los inmigrantes? ¿No crees que deberían tener la misma oportunidad que tú?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "¿Qué significa \"invadida\"? ¿Y por quién? ¿Y por qué es malo?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué significa \"invadida\"? ¿Y por quién? ¿Y por qué es malo?"
+    }
+}

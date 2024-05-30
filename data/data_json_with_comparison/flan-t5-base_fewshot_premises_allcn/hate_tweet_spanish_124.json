@@ -5,8 +5,8 @@
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "gandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Que las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  ",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue las religiones se hayan parecido en un pasado, no quiere decir que todos ellos sigan viviendo exactamente igual que en aquellas épocas.  "
+        "comparison_text": "La India de Gandhi es un país con una rica cultura y diversidad de pueblos y religiones.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa India de Gandhi es un país con una rica cultura y diversidad de pueblos y religiones."
     }
 }

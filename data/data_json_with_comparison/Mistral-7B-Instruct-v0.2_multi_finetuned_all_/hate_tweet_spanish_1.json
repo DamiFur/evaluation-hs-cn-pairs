@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\na ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu\n\nSe responde lo siguiente:\n\nEstas diciendo que los inmigrantes son un problema, cuando en realidad no lo son.",
+        "number": "1",
+        "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
+        "cn": "Estas diciendo que los inmigrantes son un problema, cuando en realidad no lo son.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text": "No es cierto que los inmigrantes ilegales sueltan por su ciudades, y eso no es lo que te preocupa. ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes ilegales sueltan por su ciudades, y eso no es lo que te preocupa. "
+    }
+}

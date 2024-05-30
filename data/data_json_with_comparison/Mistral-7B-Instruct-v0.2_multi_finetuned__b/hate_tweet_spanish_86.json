@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\nNo sabes si estas hablando de los venezolanos o de los inmigrantes en general. Si estás hablando de inmigrantes, no sabes nada de lo que hablas. Los inmigrantes no son una invasión, son personas que huyen de la pobreza, la violencia y el hambre. Son personas que buscan una vida digna y segura. Son personas como tú y como todos los demás.",
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "No sabes si estas hablando de los venezolanos o de los inmigrantes en general. Si estás hablando de inmigrantes, no sabes nada de lo que hablas. Los inmigrantes no son una invasión, son personas que huyen de la pobreza, la violencia y el hambre. Son personas que buscan una vida digna y segura. Son personas como tú y como todos los demás.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "Estás siendo paranoico. No se va a \\\"desbordar\\\", y es por eso que no hace falta ponerle \\\"coto y fin\\\"",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstás siendo paranoico. No se va a \\\"desbordar\\\", y es por eso que no hace falta ponerle \\\"coto y fin\\\""
+    }
+}

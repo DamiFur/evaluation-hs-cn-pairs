@@ -5,8 +5,8 @@
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "| Justification: and in all Europe they are mating and violating",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Es dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione.",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs dificil mencionar algo tan delirante como eso cuando se intenta ser objetivo. Es normal que no se mencione."
+        "comparison_text": "La violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales."
     }
 }

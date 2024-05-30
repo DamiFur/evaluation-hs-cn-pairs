@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "Lo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No se debería tomar esas palabras de boca de alguien como si fueran verdaderas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se debería tomar esas palabras de boca de alguien como si fueran verdaderas."
+        "comparison_text": "No es cierto que los árabes son violadores de género, y eso no tiene ninguna razón. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los árabes son violadores de género, y eso no tiene ninguna razón. "
     }
 }

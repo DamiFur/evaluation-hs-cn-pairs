@@ -5,8 +5,8 @@
         "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
         "cn": "La integración de inmigrantes es un desafío, pero la solución no es el odio y la xenofobia. Todos tenemos algo que aportar a la sociedad, independientemente de nuestras raíces. La diversidad enriquece a un país, y es fundamental trabajar juntos para crear un entorno inclusivo y respetuoso para todos.",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el partido antiinmigración ganara las elecciones generales del próximo mes. "
+        "comparison_text": "Muchas personas tienen preocupaciones legítimas acerca de la migración incontrolada y su impacto en el sistema social y económico de un país",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMuchas personas tienen preocupaciones legítimas acerca de la migración incontrolada y su impacto en el sistema social y económico de un país"
     }
 }

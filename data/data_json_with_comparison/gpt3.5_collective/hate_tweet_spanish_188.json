@@ -5,8 +5,8 @@
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "No todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga.",
         "model": "gpt3.5_collective",
-        "comparison_text": "La situación es compleja y requiere una solución multifaceted.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación es compleja y requiere una solución multifaceted."
+        "comparison_text": "No es cierto que un inmigrante con papeles fue muerto por una mujer hostigada por ésto. No tiene nada que decir. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que un inmigrante con papeles fue muerto por una mujer hostigada por ésto. No tiene nada que decir. "
     }
 }

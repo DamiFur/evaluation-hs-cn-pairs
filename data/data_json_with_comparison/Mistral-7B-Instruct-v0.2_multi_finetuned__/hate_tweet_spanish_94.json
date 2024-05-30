@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\nNo es cierto que los inmigrantes se aprovechen de la solidaridad de la gente. En realidad, es la gente quien se solidariza con ellos.",
+        "number": "94",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "No es cierto que los inmigrantes se aprovechen de la solidaridad de la gente. En realidad, es la gente quien se solidariza con ellos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_61> No es cierto que los turistas y polticos obligan a agregar a las personas sin papeles, pero eso no es necesario que los policas obligaron a la gente sin papels. No hay nada que obligaron a los tursticos, y no hay que obligaron a ellos."
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando apostura antiinmigración no significa que acoperlos sera un error, ni que los demás países estén de acuerdo con ello.",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\".",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\"."
+        "comparison_text": "¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera"
     }
 }

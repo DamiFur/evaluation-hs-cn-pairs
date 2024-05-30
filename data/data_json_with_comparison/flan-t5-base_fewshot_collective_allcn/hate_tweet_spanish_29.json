@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es necesario.",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Soy un modelo de lenguaje y no puedo crear sentimientos o motivaciones.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nSoy un modelo de lenguaje y no puedo crear sentimientos o motivaciones."
+        "comparison_text": "No tienes que usar el turbante si no quieres. De lo demás no te preocupes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienes que usar el turbante si no quieres. De lo demás no te preocupes."
     }
 }

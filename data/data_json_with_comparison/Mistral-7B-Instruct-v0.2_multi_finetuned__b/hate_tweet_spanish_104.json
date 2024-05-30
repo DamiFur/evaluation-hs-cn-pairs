@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nla inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5\n\nSe responde lo siguiente:\n\nSolo una minoria de inmigrantes es ilegal. La mayoría son personas que huyen de la violencia y el hambre. La inmigración es un fenómeno natural y no tiene nada que ver con una invasión.",
+        "number": "104",
+        "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
+        "cn": "Solo una minoria de inmigrantes es ilegal. La mayoría son personas que huyen de la violencia y el hambre. La inmigración es un fenómeno natural y no tiene nada que ver con una invasión.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "Que a ti te caigan mal ellos, no significa que tenga razón. No se toma una decisión tan grande en base a prejuicios.",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue a ti te caigan mal ellos, no significa que tenga razón. No se toma una decisión tan grande en base a prejuicios."
+    }
+}

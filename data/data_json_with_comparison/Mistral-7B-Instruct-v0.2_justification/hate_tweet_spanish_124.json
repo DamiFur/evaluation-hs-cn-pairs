@@ -5,8 +5,8 @@
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "Este mensaje contiene una mezcla de conceptos irracionales y ofensivos.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que los animales y las niñas son razas dominadas por un libro. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los animales y las niñas son razas dominadas por un libro. "
+        "comparison_text": "Tienes razón, es un país dominado por un libro, pero el libro no es el que domina a los indios, sino el que los domina a ti y a todos los que piensas igual que tú.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTienes razón, es un país dominado por un libro, pero el libro no es el que domina a los indios, sino el que los domina a ti y a todos los que piensas igual que tú."
     }
 }

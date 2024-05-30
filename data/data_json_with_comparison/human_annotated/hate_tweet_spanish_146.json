@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "Quizás hacer patria si sea luchar contra las especulaciones, pero si vas a insistir en que es culpa de otro país nunca hallaras a los responsables.",
         "model": "human_annotated",
-        "comparison_text": "El sistema de alimentos es importante para todos los ciudadanos y se debe garantizar que todos tengan acceso a comida segura y sana.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl sistema de alimentos es importante para todos los ciudadanos y se debe garantizar que todos tengan acceso a comida segura y sana."
+        "comparison_text": "Es importante defender nuestros intereses económicos, pero no debemos generalizar y odiar a ciertos grupos basados en su origen étnico.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante defender nuestros intereses económicos, pero no debemos generalizar y odiar a ciertos grupos basados en su origen étnico."
     }
 }

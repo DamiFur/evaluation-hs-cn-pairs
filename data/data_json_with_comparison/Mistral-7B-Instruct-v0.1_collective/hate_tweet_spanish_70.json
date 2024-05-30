@@ -5,8 +5,8 @@
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "Es incorrecto afirmar que todos los negros son ladrones.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Es inapropiado y ofensivo llamar a alguien \\\"negra\\\" o utilizar palabras racistas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs inapropiado y ofensivo llamar a alguien \\\"negra\\\" o utilizar palabras racistas."
+        "comparison_text": "¿De verdad crees que todos los negros son ladrones?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿De verdad crees que todos los negros son ladrones?"
     }
 }

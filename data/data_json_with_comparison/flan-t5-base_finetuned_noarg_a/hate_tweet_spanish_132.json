@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Y eso no significa que el país está invado por los subsaharianos, y aquí don tonto jugando al corro... ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que eso no tiene nada de nada. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso no tiene nada de nada. "
+        "comparison_text": "¿Tienes alguna fuente que apoye esa afirmación? Pues no creo que sea cierto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Tienes alguna fuente que apoye esa afirmación? Pues no creo que sea cierto."
     }
 }

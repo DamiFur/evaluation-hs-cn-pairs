@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "No tienes por qué asociar la violencia de género con ser árabe. La violencia es un problema que afecta a personas de todas las razas y culturas. Enfocarte en la etnia solo perpetúa estereotipos negativos.",
         "model": "gpt3.5_collective",
-        "comparison_text": "No es bueno hablar de esos temas de manera irresponsable y sin evidencia.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es bueno hablar de esos temas de manera irresponsable y sin evidencia."
+        "comparison_text": "No es cierto que el nio tiene ningn razón, ni ni siquiera tiene. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el nio tiene ningn razón, ni ni siquiera tiene. "
     }
 }

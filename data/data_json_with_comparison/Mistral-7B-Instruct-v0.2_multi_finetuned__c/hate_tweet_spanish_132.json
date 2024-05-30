@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nespaña está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7\n\nSe responde lo siguiente:\n\n¿De dónde sacaste esa información? No creo que sea cierto.",
+        "number": "132",
+        "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
+        "cn": "¿De dónde sacaste esa información? No creo que sea cierto.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text": "Este punto de vista es racista y no tiene base en la realidad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste punto de vista es racista y no tiene base en la realidad."
+    }
+}

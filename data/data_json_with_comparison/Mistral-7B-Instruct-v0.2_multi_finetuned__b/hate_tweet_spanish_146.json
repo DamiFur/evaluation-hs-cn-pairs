@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\nResponde el problema con soluciones, no con odio y xenofobia. El problema de la especulación no es de los inmigrantes, sino de la falta de regulación y control de los precios de los productos agrícolas.",
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "Responde el problema con soluciones, no con odio y xenofobia. El problema de la especulación no es de los inmigrantes, sino de la falta de regulación y control de los precios de los productos agrícolas.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "Quizás hacer patria si sea luchar contra las especulaciones, pero si vas a insistir en que es culpa de otro país nunca hallaras a los responsables.",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQuizás hacer patria si sea luchar contra las especulaciones, pero si vas a insistir en que es culpa de otro país nunca hallaras a los responsables."
+    }
+}

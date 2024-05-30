@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel mantero to su país. No hay que deportar a nadie.",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "No es cierto. Se puede atender a unos sin descuidar a otros.",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto. Se puede atender a unos sin descuidar a otros."
+        "comparison_text": "Tu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención"
     }
 }

@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "Es inaceptable y repudiable cualquier tipo de comentario racista y despectivo hacia cualquier persona. Todos merecen ser tratados con respeto y dignidad, sin importar su origen o color de piel. No hay justificación para discriminar a alguien por su aspecto físico. Todos merecen ser tratados con humanidad y compasión. La diversidad cultural y étnica enriquece a la sociedad y debemos celebrarla, no menospreciarla.",
         "model": "gpt3.5_all",
-        "comparison_text": "No hay ninguna escritura en el caso de que eso no es cierto. Por suerte, no hay nada. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay ninguna escritura en el caso de que eso no es cierto. Por suerte, no hay nada. "
+        "comparison_text": "Estas diciendo cosas que no tienes prueba de que sean ciertas. No tienes derecho a decir esas cosas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstas diciendo cosas que no tienes prueba de que sean ciertas. No tienes derecho a decir esas cosas."
     }
 }

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\n¿Por qué dices que no son españoles? ¿Porque no son como tú? ¿Qué importa si son españoles o no?",
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "¿Por qué dices que no son españoles? ¿Porque no son como tú? ¿Qué importa si son españoles o no?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "¿Qué tiene de malo ser refugiado?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué tiene de malo ser refugiado?"
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "he has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman.",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Que triste que aun hoy en día haya gente que piense así...",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue triste que aun hoy en día haya gente que piense así..."
+        "comparison_text": "Ese comentario es altamente ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEse comentario es altamente ofensivo y discriminatorio."
     }
 }

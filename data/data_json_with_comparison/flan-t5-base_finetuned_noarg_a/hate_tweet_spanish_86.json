@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "Y qué es una inmigración a las autoridades perúodosas? ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es una inmigración a las autoridades peruanas, sino una invasión en el país. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es una inmigración a las autoridades peruanas, sino una invasión en el país. "
+        "comparison_text": "No creo que se trate de una invasión, simplemente de gente en busca de un mejor lugar para vivir.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que se trate de una invasión, simplemente de gente en busca de un mejor lugar para vivir."
     }
 }

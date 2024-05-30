@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nlos subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w\n\nSe responde lo siguiente:\n\nNo es cierto que los inmigrantes se lleven la jubilación de los españoles. Esto no tiene ninguna relación con la inmigración.",
+        "number": "150",
+        "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
+        "cn": "No es cierto que los inmigrantes se lleven la jubilación de los españoles. Esto no tiene ninguna relación con la inmigración.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_61> No es cierto que los subsaharianos tienen que ajustarse a nuestros jubilaciones, y no es necesario que los jubiladores tiene el ánimo de hacer viables nuestros servicios sociales. No sólo tiene que hacerse esos jubilados. No tienen nada que hacer esas esfuerzos."
+    }
+}

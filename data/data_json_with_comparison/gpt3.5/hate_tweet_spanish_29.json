@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Tu origen étnico o color de piel no deberían determinar cómo te ven los demás. No hay nada de malo en usar un turbante de cualquier cultura, pero nadie debería presionarte a hacerlo si no te sientes cómodo. ¡Tú eres libre de decidir cómo quieres expresarte!",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que estoy negro, ni siquiera. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que estoy negro, ni siquiera. "
+        "comparison_text": " Es injusto y absurdo que alguien quieran que usted use un turban solo por su raza.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es injusto y absurdo que alguien quieran que usted use un turban solo por su raza."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Aqu don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 | Colectivo: subsaharianos | Property: españa está siendo invadida por | Justification: esp",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Estás propagando mensajes de odio y discriminación. La diversidad enriquece a España y la xenofobia no tiene cabida en nuestra sociedad.",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstás propagando mensajes de odio y discriminación. La diversidad enriquece a España y la xenofobia no tiene cabida en nuestra sociedad."
+        "comparison_text": "Esta afirmación es falsa y ofrece una justificación basada en la discriminación racial.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta afirmación es falsa y ofrece una justificación basada en la discriminación racial."
     }
 }

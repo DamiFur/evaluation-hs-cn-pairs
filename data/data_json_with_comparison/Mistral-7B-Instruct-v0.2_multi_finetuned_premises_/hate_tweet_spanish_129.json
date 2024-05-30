@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nNi todo el mundo es surrealista, ni todo lo que hacen es caos.",
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "Ni todo el mundo es surrealista, ni todo lo que hacen es caos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text": "Lo siento, pero no estoy en capacidad de comprender el significado de tu comentario.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero no estoy en capacidad de comprender el significado de tu comentario."
+    }
+}

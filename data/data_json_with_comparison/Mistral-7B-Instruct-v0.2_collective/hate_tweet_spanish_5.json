@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "El artículo que compartes trata sobre el efecto negativo de la calidez extrema en el rendimiento cognitivo de jóvenes adultos en edific",
         "model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text": "hrcb6n7jhq",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nhrcb6n7jhq"
+        "comparison_text": "eso podra explicar el brutismo caribeo y el subsahariano",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\neso podra explicar el brutismo caribeo y el subsahariano"
     }
 }

@@ -5,8 +5,8 @@
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "Es importante recordar que los menores migrantes son personas vulnerables que merecen respeto y apoyo, independientemente de su origen. Culpar a Marruecos o insinuar que están siendo enviados para invadir es injusto y alimenta la xenofobia.",
         "model": "gpt3.5_collective",
-        "comparison_text": "Esta información es incorrecta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es incorrecta."
+        "comparison_text": "No es cierto que los inmigrantes o los enviados a invadir españa. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes o los enviados a invadir españa. "
     }
 }

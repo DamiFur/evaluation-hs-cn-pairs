@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nNo sé si estás diciendo que los indios de Gandhi son dominados, o que la India es un país dominado por un libro, o que son las mismas cosas, o que ninguna de las cosas que dices tiene ninguna relación con el otro, o que todo lo que dices es falso.",
+        "number": "124",
+        "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
+        "cn": "No sé si estás diciendo que los indios de Gandhi son dominados, o que la India es un país dominado por un libro, o que son las mismas cosas, o que ninguna de las cosas que dices tiene ninguna relación con el otro, o que todo lo que dices es falso.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text": "No puedo aceptar esa afirmación. No creo que sea cierto. No tengo ninguna evidencia que respalde esa idea. Solo es una opinión.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo puedo aceptar esa afirmación. No creo que sea cierto. No tengo ninguna evidencia que respalde esa idea. Solo es una opinión."
+    }
+}

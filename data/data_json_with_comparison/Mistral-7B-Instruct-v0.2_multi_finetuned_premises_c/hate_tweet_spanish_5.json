@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq\n\nSe responde lo siguiente:\n\nNo es la calor la culpable, sino la falta de aire acondicionado.",
+        "number": "5",
+        "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
+        "cn": "No es la calor la culpable, sino la falta de aire acondicionado.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text": "Esta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car"
+    }
+}

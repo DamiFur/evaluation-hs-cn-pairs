@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Por qué eso es cierto? ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "It's important to note that the link provided doesn't seem to be working properly.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to note that the link provided doesn't seem to be working properly."
+        "comparison_text": "Es importante tratar a todos los seres humanos con respeto y dignidad, independientemente de su origen. La xenofobia y la discriminación solo generan divisiones y odio en la sociedad. Es necesario buscar soluciones que promuevan la integración y el respeto mutuo entre todas las personas.",
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante tratar a todos los seres humanos con respeto y dignidad, independientemente de su origen. La xenofobia y la discriminación solo generan divisiones y odio en la sociedad. Es necesario buscar soluciones que promuevan la integración y el respeto mutuo entre todas las personas."
     }
 }

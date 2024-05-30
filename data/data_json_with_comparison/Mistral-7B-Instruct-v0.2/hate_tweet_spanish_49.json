@@ -5,8 +5,8 @@
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": " Es importante recordar que generalizaciones sobre una etnicía o nación entera son injustas y no reflejan la realidad.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "La adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa adaptación de una persona a una cultura depende de varios factores, incluyendo su experiencia de vida, sus valores y su capacidad de aceptar y adaptarse"
+        "comparison_text": "No creo que estamos muy acostumbrados y idk peor a los árabes xenophobes... ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que estamos muy acostumbrados y idk peor a los árabes xenophobes... "
     }
 }

@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "I am a black man but not black at all.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "No es necesario asumir una identidad cultural que no te pertenece. Cada persona tiene derecho a expresar su identidad como prefiera, sin importar su color de piel. No hay necesidad de etiquetar a las personas por su apariencia física.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es necesario asumir una identidad cultural que no te pertenece. Cada persona tiene derecho a expresar su identidad como prefiera, sin importar su color de piel. No hay necesidad de etiquetar a las personas por su apariencia física."
+        "comparison_text": "No tienen derecho a obligarte a usar algo que no deseas, tu identidad y cultura merecen respeto. No te dejes influenciar por comentarios racistas y xenofóbicos. ¡Tú eres libre de expresarte como desees!",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienen derecho a obligarte a usar algo que no deseas, tu identidad y cultura merecen respeto. No te dejes influenciar por comentarios racistas y xenofóbicos. ¡Tú eres libre de expresarte como desees!"
     }
 }

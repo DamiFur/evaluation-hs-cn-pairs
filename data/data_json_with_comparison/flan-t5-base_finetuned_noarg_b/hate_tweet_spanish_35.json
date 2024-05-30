@@ -5,8 +5,8 @@
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "<extra_id_69> Y eso no es cierto que los hombres atacan a los turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues es indefinido.",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir.",
-        "comparison_model": "gpt3.5",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se puede comparar la situación de un pueblo italiano con la de una ciudad como Barcelona. La acogida e integración de inmigrantes es un acto de humanidad que enriquece a la sociedad en lugar de dividirla. Ada Colau está trabajando por un mundo más inclusivo y solidario, y eso es algo digno de admirar y seguir."
+        "comparison_text": "No es cierto que atacen a turistas, sino que intentan vender cosas a cambio de dinero.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que atacen a turistas, sino que intentan vender cosas a cambio de dinero."
     }
 }

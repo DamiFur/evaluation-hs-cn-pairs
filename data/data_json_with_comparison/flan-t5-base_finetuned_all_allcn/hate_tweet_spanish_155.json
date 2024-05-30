@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "No es cierto que los nios han abusado en el lugar de la nacionalidad. ",
         "model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text": "@user no iba a desechar la nacionalidad de los 3 abusos que han abusado en ciencia de una niña",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user no iba a desechar la nacionalidad de los 3 abusos que han abusado en ciencia de una niña"
+        "comparison_text": "No es cierto que los nios han abusado en el trabajo. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los nios han abusado en el trabajo. "
     }
 }

@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "No podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio.",
         "model": "gpt3.5_collective",
-        "comparison_text": "Este punto de vista es discriminatorio y debe ser rechazado.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste punto de vista es discriminatorio y debe ser rechazado."
+        "comparison_text": "No es una inmigración a las autoridades peruanas, sino una invasión en el país. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es una inmigración a las autoridades peruanas, sino una invasión en el país. "
     }
 }

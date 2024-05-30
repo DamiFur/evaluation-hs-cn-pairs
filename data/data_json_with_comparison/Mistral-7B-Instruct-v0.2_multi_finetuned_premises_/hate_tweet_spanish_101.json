@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\n¿Y a que te refieres con \\\"refugiados\\\"? No creo que sean peores que tú.",
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "¿Y a que te refieres con \"refugiados\"? No creo que sean peores que tú.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar"
+    }
+}

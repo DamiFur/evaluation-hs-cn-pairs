@@ -5,8 +5,8 @@
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "Sería una falta de humanidad y solidaridad negar la oportunidad de integración y acogida a personas que buscan una vida mejor. El ejemplo de Riace demuestra que la convivencia y el apoyo mutuo son posibles, y es algo que deberíamos replicar en lugar de rechazar.",
         "model": "gpt3.5_all",
-        "comparison_text": "Por qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? No es realmente cierto que el nmero de personas tienen ninguna ayuda en el mundo? "
+        "comparison_text": "No es cierto que Ada Colau haya ido a vivir a Riace. Es una mentira.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que Ada Colau haya ido a vivir a Riace. Es una mentira."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "Por qué crees que estamos muy acostumbrados y idk peor los árabes? ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "Por qué crees que se adapta mejor a la vida occidental europea? ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué crees que se adapta mejor a la vida occidental europea? "
+        "comparison_text": "Es completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs completamente erróneo generalizar sobre etnias o nacionalidades y su capacidad para adaptarse a la vida occidental. Los derechos y las libertades deben ser garantizados a todas las personas, independientemente de su origen étnico o nacional. Todos merecen ser tratados con igual respeto y dignidad."
     }
 }

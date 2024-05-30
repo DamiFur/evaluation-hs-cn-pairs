@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk\n\nSe responde lo siguiente:\n\nPorque eso te pasó a ti no significa que nadie más tenga razón.",
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "Porque eso te pasó a ti no significa que nadie más tenga razón.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text": "Lo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial."
+    }
+}

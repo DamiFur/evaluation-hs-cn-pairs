@@ -5,8 +5,8 @@
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Todos merecen ser tratados con respeto y dignidad, sin importar su situación migratoria. La violencia nunca es la respuesta y es importante abordar la problemática de una manera empática y respetuosa. La solidaridad y la cooperación son clave para construir una sociedad inclusiva y justa para todos.",
         "model": "gpt3.5_justification",
-        "comparison_text": "Y eso no es una forma de ayudar a la gente sin papeles, y esa es la única forma de obligar a los turistas y polticos. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no es una forma de ayudar a la gente sin papeles, y esa es la única forma de obligar a los turistas y polticos. "
+        "comparison_text": "Por qué mantero tiene que ser inmigrante sin papeles? ¿Por qué no podría ser un ciudadano con papeles? No veo ninguna lógica en tu argumento.",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué mantero tiene que ser inmigrante sin papeles? ¿Por qué no podría ser un ciudadano con papeles? No veo ninguna lógica en tu argumento."
     }
 }

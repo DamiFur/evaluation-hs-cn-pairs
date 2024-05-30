@@ -5,8 +5,8 @@
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ilegal ademas",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Es injusto generalizar y etiquetar a todos los sudamericanos de esa manera. La migración es un fenómeno complejo y cada persona tiene sus propias razones para buscar una vida mejor. Hay que tratar a todos con respeto y empatía.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto generalizar y etiquetar a todos los sudamericanos de esa manera. La migración es un fenómeno complejo y cada persona tiene sus propias razones para buscar una vida mejor. Hay que tratar a todos con respeto y empatía."
+        "comparison_text": "Todos somos seres humanos y merecemos respeto y compasión, independientemente de nuestra nacionalidad o estatus migratorio. La violencia y la discriminación no son la respuesta.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTodos somos seres humanos y merecemos respeto y compasión, independientemente de nuestra nacionalidad o estatus migratorio. La violencia y la discriminación no son la respuesta."
     }
 }

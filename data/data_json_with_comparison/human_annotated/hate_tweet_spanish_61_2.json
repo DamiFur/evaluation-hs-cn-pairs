@@ -5,8 +5,8 @@
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "¿Y a donde se publico tal informe, y por qué deberíamos confiar en la inteligencia de otro país?",
         "model": "human_annotated",
-        "comparison_text": "La noticia es falsa, no hay evidencia que apoye esa afirmación.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa noticia es falsa, no hay evidencia que apoye esa afirmación."
+        "comparison_text": "Es injusto etiquetar a un grupo étnico como una \\\"invisión\\\". Es importante promover la comprensión intercultural y combatir las formas de discrim",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto etiquetar a un grupo étnico como una \\\"invisión\\\". Es importante promover la comprensión intercultural y combatir las formas de discrim"
     }
 }

@@ -6,7 +6,7 @@
         "cn": "Es injusto asignar la responsabilidad de las acciones violentas de un individuo a una comunidad basada en su origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
         "comparison_text": "he has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman.",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
         "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nhe has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman."
     }
 }

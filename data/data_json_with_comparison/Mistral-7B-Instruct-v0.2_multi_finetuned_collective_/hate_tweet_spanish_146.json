@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\n¿Estás seguro de que son ellos los que están especulando con los precios? No creo que sea así.",
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "¿Estás seguro de que son ellos los que están especulando con los precios? No creo que sea así.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups."
+    }
+}

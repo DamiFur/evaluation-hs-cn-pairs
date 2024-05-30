@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo por qué alguien querría que usashes turbano si no te identificas con la cultura árabe."
+        "comparison_text": "No es cierto que los negros no sean buenos en ninguna cosa. Eso es racismo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los negros no sean buenos en ninguna cosa. Eso es racismo."
     }
 }

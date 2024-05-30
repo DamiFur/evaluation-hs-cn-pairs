@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "<extra_id_48> Eso no es cierto que los subsaharianos invadien el patata, eso es lo que tiene que hacer. No hay nada que esa es una pelcula. No tiene nada que hacerlo. <extra_id_69>",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No hay ninguna invasión ni necesidad de recurrir a la xenofobia. Todos merecen respeto y oportunidades, incluidos los migrantes. La diversidad enriquece a las sociedades. No caigas en discursos de odio.",
-        "comparison_model": "gpt3.5",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay ninguna invasión ni necesidad de recurrir a la xenofobia. Todos merecen respeto y oportunidades, incluidos los migrantes. La diversidad enriquece a las sociedades. No caigas en discursos de odio."
+        "comparison_text": "No es cierto que se esté invadiendo España.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que se esté invadiendo España."
     }
 }

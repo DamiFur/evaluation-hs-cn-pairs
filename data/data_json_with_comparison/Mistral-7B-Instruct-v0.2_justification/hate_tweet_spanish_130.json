@@ -5,8 +5,8 @@
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "No estoy aquí para justificar o negar crímenes cometidos en Europa o en ningún otro lugar.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que los negros y los arabes causan problemas. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los negros y los arabes causan problemas. "
+        "comparison_text": "Porque no hablas de los problemas que causan los blancos? ¿No sabes que los blancos son el grupo mayoritario de delincuentes en Europa?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPorque no hablas de los problemas que causan los blancos? ¿No sabes que los blancos son el grupo mayoritario de delincuentes en Europa?"
     }
 }

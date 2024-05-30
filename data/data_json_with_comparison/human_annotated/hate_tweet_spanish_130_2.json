@@ -5,8 +5,8 @@
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "Lo dices como si Europa estuviera en guerra. ¿Hay delito? Sí. ¿Genocidio? Estas siendo paranoico.",
         "model": "human_annotated",
-        "comparison_text": "La violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa violencia y los crímenes no son exclusivos de ciertos grupos étnicos o raciales."
+        "comparison_text": "Es importante recordar que la violencia y los crímenes no se justifican basados en el color de la piel o la etnia.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la violencia y los crímenes no se justifican basados en el color de la piel o la etnia."
     }
 }

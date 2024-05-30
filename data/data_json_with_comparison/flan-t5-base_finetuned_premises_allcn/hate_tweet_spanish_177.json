@@ -5,8 +5,8 @@
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "No es cierto que los asiaticos devastados por la guerra tienen mejor estructura que chilito. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No es cierto que los asiaticos devastados por el guerra tienen mejor estructura que chilito cosas sudacas. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los asiaticos devastados por el guerra tienen mejor estructura que chilito cosas sudacas. "
+        "comparison_text": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla, y eso no tiene razón a los inmigrantes. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde dentro como hace mil años hicieron barbaros para destruir el imperio romano el islan. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde dentro como hace mil años hicieron barbaros para destruir el imperio romano el islan. "
+        "comparison_text": "El problema no es la inmigración en sí, sino la desinformación y los prejuicios que promueven el odio y la xenofobia. Históricamente, la diversidad cultural ha enriquecido a las sociedades, no las ha destruido.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl problema no es la inmigración en sí, sino la desinformación y los prejuicios que promueven el odio y la xenofobia. Históricamente, la diversidad cultural ha enriquecido a las sociedades, no las ha destruido."
     }
 }

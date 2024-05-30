@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "La herencia étnica no justifica generalizaciones negativas.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text": "gloria hashtag migrates hashtag refugiados hashtag españaloprimero",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\ngloria hashtag migrates hashtag refugiados hashtag españaloprimero"
+        "comparison_text": "sbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel a su país",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nsbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel a su país"
     }
 }

@@ -5,8 +5,8 @@
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Este tweet no está relacionado con tu pregunta.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Este tweet no proporciona suficientes datos para llegar a una conclusión válida.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no proporciona suficientes datos para llegar a una conclusión válida."
+        "comparison_text": "No es cierto que los asiáticos sean peores o mejores que los chilenos. Lo que sí es cierto es que no tienen nada que ver entre sí.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los asiáticos sean peores o mejores que los chilenos. Lo que sí es cierto es que no tienen nada que ver entre sí."
     }
 }

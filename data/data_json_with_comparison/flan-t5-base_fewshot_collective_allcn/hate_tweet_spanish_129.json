@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Algo se puede en el perú es el caos organizado surrealista subsahariano nuestra realidad",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Este comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista."
+        "comparison_text": "Caos organizado no significa que algo se haya pudrido. Caos organizado es solo caos, eso no significa ninguna cosa mal.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nCaos organizado no significa que algo se haya pudrido. Caos organizado es solo caos, eso no significa ninguna cosa mal."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "Es inaceptable utilizar lenguaje racista y xenófobo para referirse a cualquier grupo de personas. La nacionalidad no determina la conducta de un individuo y estigmatizar a toda una comunidad por las acciones de unos pocos es injusto y discriminatorio. La dignidad y el respeto deben estar por encima de cualquier prejuicio.",
         "model": "gpt3.5_all",
-        "comparison_text": "No es cierto que eso es una de las personas que han abusado en el trabajo de una niña. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso es una de las personas que han abusado en el trabajo de una niña. "
+        "comparison_text": "¿Por qué asumirías que los culpables son árabes? No tienes ninguna información que respalde esa afirmación.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Por qué asumirías que los culpables son árabes? No tienes ninguna información que respalde esa afirmación."
     }
 }

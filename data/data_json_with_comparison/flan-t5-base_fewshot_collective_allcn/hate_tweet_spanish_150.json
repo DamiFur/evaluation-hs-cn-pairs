@@ -5,8 +5,8 @@
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "Colectivo: subsaharianos |",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "No es correcto afirmar que todos los personas de subsáharin son los que se asocian con la inseguridad del sistema pensionado y que su único objetivo",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que todos los personas de subsáharin son los que se asocian con la inseguridad del sistema pensionado y que su único objetivo"
+        "comparison_text": "¿Qué quieres decir con \"no temáis\"? ¿Quisiste decir que no tienen nada que temer?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué quieres decir con \"no temáis\"? ¿Quisiste decir que no tienen nada que temer?"
     }
 }

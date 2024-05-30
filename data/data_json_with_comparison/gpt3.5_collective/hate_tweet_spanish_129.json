@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Los subsaharianos no traen caos organizado, están buscando una mejor vida al igual que cualquier otra persona. No caigamos en la xenofobia.",
         "model": "gpt3.5_collective",
-        "comparison_text": "Este comentario parece estar basado en una opinión personal y no en hechos verificables.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario parece estar basado en una opinión personal y no en hechos verificables."
+        "comparison_text": "No es cierto que algo se puede en el país es un caos organizado surrealista. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que algo se puede en el país es un caos organizado surrealista. "
     }
 }

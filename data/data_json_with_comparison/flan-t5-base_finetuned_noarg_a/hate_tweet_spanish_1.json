@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "Y qué es el paquete? No es lo que tiene que pensar? ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los inmigrantes ilegales son inmigrantes, y eso no tiene nada que ver. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes ilegales son inmigrantes, y eso no tiene nada que ver. "
+        "comparison_text": "No es cierto que los inmigrantes pongan en peligro la seguridad de la gente. No tienen nada que ver.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes pongan en peligro la seguridad de la gente. No tienen nada que ver."
     }
 }

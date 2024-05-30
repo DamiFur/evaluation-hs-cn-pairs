@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "No es cierto que el nio tiene ningn razón, ni ni siquiera tiene. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": " It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences."
+        "comparison_text": "No es cierto que los árabes tienen ninguna razón. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los árabes tienen ninguna razón. "
     }
 }

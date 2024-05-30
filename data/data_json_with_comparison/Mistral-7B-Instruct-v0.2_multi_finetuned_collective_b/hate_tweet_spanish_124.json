@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\npues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj\n\nSe responde lo siguiente:\n\nNo todos los indios de Gandhi retroceden ante lo nuevo y desprecian a las mujeres.",
+        "number": "124",
+        "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
+        "cn": "No todos los indios de Gandhi retroceden ante lo nuevo y desprecian a las mujeres.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text": "No entiendo por qué alguien podría dominar a un pueblo tan grande como la India. No creo que sea cierto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo por qué alguien podría dominar a un pueblo tan grande como la India. No creo que sea cierto."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo entiendo a qué te refieres con \\\"hacer usar turbante de arabe\\\". Podrías explicarme un poco mejor.",
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No entiendo a qué te refieres con \"hacer usar turbante de arabe\". Podrías explicarme un poco mejor.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNinguna persona tiene derecho de decirte qué vestir debido a tu origen étnico."
+    }
+}

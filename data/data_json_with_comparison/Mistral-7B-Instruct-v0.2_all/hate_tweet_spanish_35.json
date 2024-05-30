@@ -5,8 +5,8 @@
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "El hecho de que el alcalde de Riace haya brindado refUGIO a migrantes no justifica que quedaallí permanentemente.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse"
+        "comparison_text": "No veo ningún problema en visitar otro pais. De hecho, es algo que todos debemos hacer al menos una vez en la vida.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo veo ningún problema en visitar otro pais. De hecho, es algo que todos debemos hacer al menos una vez en la vida."
     }
 }

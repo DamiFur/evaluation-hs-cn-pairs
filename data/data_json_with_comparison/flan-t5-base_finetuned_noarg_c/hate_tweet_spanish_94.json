@@ -5,8 +5,8 @@
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Por qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "No estoy de acuerdo con el uso injustificado de la palabra \\\"manterismo\\\" y su aplicación en este contexto.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo estoy de acuerdo con el uso injustificado de la palabra \\\"manterismo\\\" y su aplicación en este contexto."
+        "comparison_text": "Es importante recordar que la violencia nunca es la solución. Debemos abordar la situación de los migrantes sin papeles de manera empática y solidaria, buscando soluciones que respeten la dignidad y los derechos humanos de todas las personas. La xenofobia y el odio solo generan más división y sufrimiento. #NoAlRacismo #MigraciónConDignidad",
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la violencia nunca es la solución. Debemos abordar la situación de los migrantes sin papeles de manera empática y solidaria, buscando soluciones que respeten la dignidad y los derechos humanos de todas las personas. La xenofobia y el odio solo generan más división y sufrimiento. #NoAlRacismo #MigraciónConDignidad"
     }
 }

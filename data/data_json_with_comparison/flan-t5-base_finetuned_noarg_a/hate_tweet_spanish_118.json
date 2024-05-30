@@ -5,8 +5,8 @@
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "Por qué eso no es cierto en el país? ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los inmigrantes o los enviados a invadir españa. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes o los enviados a invadir españa. "
+        "comparison_text": "¿De dónde sacaste esa información? No tienes ninguna fuente.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿De dónde sacaste esa información? No tienes ninguna fuente."
     }
 }

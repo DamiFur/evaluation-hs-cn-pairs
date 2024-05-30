@@ -5,8 +5,8 @@
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Asiaticos devastados por la guerra hoy tienen mejor estructura que chilito sudacos",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Es irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs irrespetuoso hacer comparaciones de esa forma, cada país tiene sus propias circunstancias y luchas. Es importante mostrar empatía y solidaridad en lugar de caer en estereotipos xenófobos."
+        "comparison_text": "Es lamentable que se utilicen términos despectivos y discriminatorios para referirse a países y culturas latinoamericanas. En lugar de comparar de manera negativa, deberíamos enfocarnos en construir puentes de entendimiento y respeto entre todas las naciones. La diversidad cultural es un valor que enriquece a la humanidad.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs lamentable que se utilicen términos despectivos y discriminatorios para referirse a países y culturas latinoamericanas. En lugar de comparar de manera negativa, deberíamos enfocarnos en construir puentes de entendimiento y respeto entre todas las naciones. La diversidad cultural es un valor que enriquece a la humanidad."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": "No estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "Todos los grupos de personas son susceptibles de cometer crímenes, no importa su raza o etnia.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTodos los grupos de personas son susceptibles de cometer crímenes, no importa su raza o etnia."
+        "comparison_text": "Por qué eso no es cierto? No es un problema. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso no es cierto? No es un problema. "
     }
 }

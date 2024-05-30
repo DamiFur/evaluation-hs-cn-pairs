@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh\n\nSe responde lo siguiente:\n\nNo todos los negros son ladrones.",
+        "number": "70",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "No todos los negros son ladrones.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text": "No creo que los negros sean más ladrones que los demás. De hecho, creo que eso no tiene nada que ver con el color de la piel.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que los negros sean más ladrones que los demás. De hecho, creo que eso no tiene nada que ver con el color de la piel."
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "Pues no es cierto que eso no tiene ningn efecto en el país. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues no es cierto que eso no tiene ningn efecto en el país. "
+        "comparison_text": "Es vergonzoso y despreciable promover ideas de odio y discriminación hacia las personas de otras nacionalidades o razas. Debemos promover la igualdad y el respeto hacia todos, sin importar su origen. No hay lugar para la discriminación en nuestra sociedad.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs vergonzoso y despreciable promover ideas de odio y discriminación hacia las personas de otras nacionalidades o razas. Debemos promover la igualdad y el respeto hacia todos, sin importar su origen. No hay lugar para la discriminación en nuestra sociedad."
     }
 }

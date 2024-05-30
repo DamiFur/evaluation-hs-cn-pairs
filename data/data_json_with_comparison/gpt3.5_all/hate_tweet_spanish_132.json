@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "No caigamos en la división y la xenofobia. Es importante abordar la situación de manera humanitaria y buscar soluciones que beneficien a todos. Los migrantes subsaharianos merecen respeto y apoyo en su camino hacia una vida mejor. Hastags como #caminodevenezuela y #señorllevamépronto no ayudan a resolver el problema de forma constructiva.",
         "model": "gpt3.5_all",
-        "comparison_text": "Por qué estás invado por los subsaharianos? ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué estás invado por los subsaharianos? "
+        "comparison_text": "Invadida? No creo que estén haciendo ningún daño.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nInvadida? No creo que estén haciendo ningún daño."
     }
 }

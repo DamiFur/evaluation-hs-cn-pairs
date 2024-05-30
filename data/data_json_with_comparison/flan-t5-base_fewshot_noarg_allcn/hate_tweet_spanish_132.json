@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Spanish is being invaded by the subsaharians and here don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag seorllevamépronto https://t co/h4xmwqlvw7 =>.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Los subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos subsaharianos son personas que buscan una mejor vida, al igual que cualquier otro ser humano. Llamarlos invasores es deshumanizarlos y fomentar el odio. Debemos tratar a todos con respeto y empatía."
+        "comparison_text": "Estás propagando mensajes de odio y discriminación. La diversidad enriquece a España y la xenofobia no tiene cabida en nuestra sociedad.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEstás propagando mensajes de odio y discriminación. La diversidad enriquece a España y la xenofobia no tiene cabida en nuestra sociedad."
     }
 }

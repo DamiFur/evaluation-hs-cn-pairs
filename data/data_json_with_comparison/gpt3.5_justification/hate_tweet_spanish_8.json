@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": "Es inaceptable y discriminatorio culpar a tu origen étnico por la violencia de género que has presenciado en tu familia. Nadie merece ser maltratado, sin importar su origen. Es importante denunciar y buscar ayuda en situaciones de violencia doméstica.",
         "model": "gpt3.5_justification",
-        "comparison_text": "Y eso no significa que el nio tiene razón porque soy árabe. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no significa que el nio tiene razón porque soy árabe. "
+        "comparison_text": "he has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman.",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nhe has two denunciations for gender violence and oordens of incarceration and said to me that he would never think that a woman has the reason that if that happened to me it was because she is a woman."
     }
 }

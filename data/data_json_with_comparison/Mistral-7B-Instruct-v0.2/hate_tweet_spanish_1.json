@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "El artículo no proporciona suficientes detalles para llegar a conclusiones definitivas sobre quiéntes pagan las facturas o cóMO se distrib",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "Esta afirmación es incorrecta.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta afirmación es incorrecta."
+        "comparison_text": "Por qué eso es cierto? ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? "
     }
 }

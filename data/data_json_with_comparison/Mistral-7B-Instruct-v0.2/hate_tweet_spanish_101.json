@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Lo siento, no puedo comprender el significado exacto de tu mensaje debido a los múltiples hachuzos. Sin embargo, quiero clarificar",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No es correcto afirmar que todos los migrantes son refuerzos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que todos los migrantes son refuerzos."
+        "comparison_text": "No es cierto que son españoles nada sin fueran refugiados gloria. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que son españoles nada sin fueran refugiados gloria. "
     }
 }

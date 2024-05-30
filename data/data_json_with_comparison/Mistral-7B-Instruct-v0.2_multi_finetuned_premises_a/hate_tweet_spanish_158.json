@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nCada cultura tiene sus virtudes y sus vicios. El machismo no es un monopolio de ninguna cultura en particular.",
+        "number": "158",
+        "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
+        "cn": "Cada cultura tiene sus virtudes y sus vicios. El machismo no es un monopolio de ninguna cultura en particular.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "Yo no veo ninguna relación entre ello y el machismo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nYo no veo ninguna relación entre ello y el machismo."
+    }
+}

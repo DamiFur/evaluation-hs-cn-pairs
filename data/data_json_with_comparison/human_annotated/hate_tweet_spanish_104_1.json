@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Los inmigrantes no son barbaros, ni intentan invadir nada. Vienen por su cuenta a intentar ganarse la vida.",
         "model": "human_annotated",
-        "comparison_text": "Es importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los africanos o personas de origen árabe son terroristas y que la mayoría de ellos son personas normales que buscan una mejor vida"
+        "comparison_text": "Es injusto generalizar que todos quienes emigran de África o de Países Árabe tengan intenciones malas hacia Europa.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto generalizar que todos quienes emigran de África o de Países Árabe tengan intenciones malas hacia Europa."
     }
 }

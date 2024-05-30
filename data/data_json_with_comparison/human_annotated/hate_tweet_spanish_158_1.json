@@ -5,8 +5,8 @@
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "No es cierto que todos los árabes sean machistas. Ademas hay tanto machismo en su cultura como en las demás.",
         "model": "human_annotated",
-        "comparison_text": "El machisme no solo es un problema en la culturas Árabes, sino también en muchas otras partes del mundo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl machisme no solo es un problema en la culturas Árabes, sino también en muchas otras partes del mundo."
+        "comparison_text": "It's not fair to label an entire cultural group as misogynistic based on personal experiences.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's not fair to label an entire cultural group as misogynistic based on personal experiences."
     }
 }

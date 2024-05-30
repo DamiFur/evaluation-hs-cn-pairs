@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "El artículo no menciona ninguna correlacion entre el \\\"brutismo\\\" de las regiones caribea y subsahariana, así que es improbable que",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "Esta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta investigación no proporciona suficiente evidencia para afirmar que el fuerte calor esté directamente relacionado con la brutalidad en el Car"
+        "comparison_text": "Por qué eso puede explicar el brutismo caribeo y el subsahariano? ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso puede explicar el brutismo caribeo y el subsahariano? "
     }
 }

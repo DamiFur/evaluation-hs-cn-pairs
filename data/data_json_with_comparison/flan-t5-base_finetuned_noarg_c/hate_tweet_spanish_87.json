@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "No hay ninguna escritura en el caso de que eso no es cierto. Por suerte, no hay nada. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Este comentário é racista e ofensivo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentário é racista e ofensivo."
+        "comparison_text": "Lamentablemente, este tipo de comentarios ofensivos y racistas no contribuyen en nada a la promoción de la igualdad y el respeto entre las personas. Es importante rechazar este tipo de discursos y luchar por la inclusión y la diversidad.",
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLamentablemente, este tipo de comentarios ofensivos y racistas no contribuyen en nada a la promoción de la igualdad y el respeto entre las personas. Es importante rechazar este tipo de discursos y luchar por la inclusión y la diversidad."
     }
 }

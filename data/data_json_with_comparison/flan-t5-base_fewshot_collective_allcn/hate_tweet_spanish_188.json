@@ -5,8 +5,8 @@
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "@user https://t co/l4",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Esa es la manera en que se debe hacer, no se puede permitir que alguien sea asesinado o golpeado por motivos de raza o nacionalidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsa es la manera en que se debe hacer, no se puede permitir que alguien sea asesinado o golpeado por motivos de raza o nacionalidad."
+        "comparison_text": "¿Qué tienes que ver con ello? ¿Qué tiene que ver lo de los inmigrantes ilegales con lo de los vendedores de cosas en la calle?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué tienes que ver con ello? ¿Qué tiene que ver lo de los inmigrantes ilegales con lo de los vendedores de cosas en la calle?"
     }
 }

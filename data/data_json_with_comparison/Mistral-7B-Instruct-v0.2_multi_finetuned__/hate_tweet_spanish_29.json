@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nque les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto\n\nSe responde lo siguiente:\n\nNo se entiende lo que quieres decir.",
+        "number": "29",
+        "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
+        "cn": "No se entiende lo que quieres decir.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "No es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los negros que queran usar turbante del arabe, pero tampoco para tanto. "
+    }
+}

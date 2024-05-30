@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Gloria, como española, tienes derecho a expresar tu opinión libremente.",
         "model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text": "No es cierto que los españoles son nada sin fueran refugiados gloria. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los españoles son nada sin fueran refugiados gloria. "
+        "comparison_text": "Y eso no significa que nadie tiene nada sin fueran refugiados gloria. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nY eso no significa que nadie tiene nada sin fueran refugiados gloria. "
     }
 }

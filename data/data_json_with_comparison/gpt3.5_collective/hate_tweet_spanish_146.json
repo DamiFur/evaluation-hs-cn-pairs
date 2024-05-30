@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "La especulación de precios es un problema real, pero culpar a ciertas nacionalidades no es la solución. Todos debemos trabajar juntos para encontrar una solución justa y equitativa.",
         "model": "gpt3.5_collective",
-        "comparison_text": " Es importante defender nuestros intereses económicos, pero es importante hacerlo de manera ética y legal.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante defender nuestros intereses económicos, pero es importante hacerlo de manera ética y legal."
+        "comparison_text": "No es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. "
     }
 }

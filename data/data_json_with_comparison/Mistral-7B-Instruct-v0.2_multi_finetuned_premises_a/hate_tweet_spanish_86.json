@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nllegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde\n\nSe responde lo siguiente:\n\nNo entiendo cómo se puede considerar una invasión la llegada de refugiados. Solo porque son muchos no significa que estén invadiendo el país.",
+        "number": "86",
+        "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
+        "cn": "No entiendo cómo se puede considerar una invasión la llegada de refugiados. Solo porque son muchos no significa que estén invadiendo el país.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "Pero si se desborda, ¿qué pasa? El problema no es que existan inmigrantes, sino que existen políticos malos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPero si se desborda, ¿qué pasa? El problema no es que existan inmigrantes, sino que existen políticos malos."
+    }
+}

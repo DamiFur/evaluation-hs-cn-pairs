@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "Este comentário é ofensivo, racista e insensato.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text": "\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos"
+        "comparison_text": "sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello. g \\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nsbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjsan => ng que en un país estén tomando una postura antiinmigración no significa que acogierenlos ser un error, ni que los demás países estén de acuerdo con ello. g \\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negros visitantes\\\"\\\" estén estreñidos"
     }
 }

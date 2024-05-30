@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"\n\nSe responde lo siguiente:\n\nNo es cierto que los inmigrantes sean manteros, ni que sean delincuentes. De hecho, la mayoría de ellos son trabajadores honestos que solo quieren trabajar y vivir tranquilos.",
+        "number": "35",
+        "hs": "\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \"\"ejemplo de acogida integración y lucha contra la xenofobia\"\" pues que se quede allí indefinidamente \"",
+        "cn": "No es cierto que los inmigrantes sean manteros, ni que sean delincuentes. De hecho, la mayoría de ellos son trabajadores honestos que solo quieren trabajar y vivir tranquilos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text": "Mis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse",
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMis palabras: Es importante recordar que cada situación es única y que los eventos que ocurren en un lugar específico no siempre pueden aplicarse"
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "Arabic culture = machista te lo digo xq me ha pasado lo mismo @user @user descendencia arabe siguen inculcando el machismo | Colectivo: arabe - arabe | Propiedad: arabe",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "No es correcto afirmar que toda la población de ascendencia musulmana sigue siguiendo las tradiciones machistas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que toda la población de ascendencia musulmana sigue siguiendo las tradiciones machistas."
+        "comparison_text": "Cada cultura tiene sus virtudes y sus vicios. El machismo no es un monopolio de ninguna cultura en particular.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nCada cultura tiene sus virtudes y sus vicios. El machismo no es un monopolio de ninguna cultura en particular."
     }
 }

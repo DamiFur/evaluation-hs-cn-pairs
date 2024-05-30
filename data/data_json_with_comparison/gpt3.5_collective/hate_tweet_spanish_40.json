@@ -5,8 +5,8 @@
         "hs": "@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa",
         "cn": "Los subsaharianos son seres humanos que merecen respeto y oportunidades, no ser estigmatizados o discriminados por su origen étnico. La diversidad enriquece nuestras sociedades y debemos rechazar cualquier forma de xenofobia.",
         "model": "gpt3.5_collective",
-        "comparison_text": "Este mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú."
+        "comparison_text": "No es cierto que todos los subsaharianos tienen problemas en el país, pero eso no tiene nada de nada. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los subsaharianos tienen problemas en el país, pero eso no tiene nada de nada. "
     }
 }

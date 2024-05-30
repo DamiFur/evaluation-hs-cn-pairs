@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\n¿Cómo sabes que los asiáticos tienen una estructura mejor que los chilotos? ¿Qué criterio usaste para llegar a esa conclusión?",
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "¿Cómo sabes que los asiáticos tienen una estructura mejor que los chilotos? ¿Qué criterio usaste para llegar a esa conclusión?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text": "Este comentario es ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es ofensivo y discriminatorio."
+    }
+}

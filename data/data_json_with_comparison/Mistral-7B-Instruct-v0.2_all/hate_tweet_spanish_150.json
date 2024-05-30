@@ -5,8 +5,8 @@
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": " Es importante recordar que ninguna prueba o evidencia concreta ha sido presentada en el enlace proporcionado para respaldar esa afirmación",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Este tweet no proporciona suficientes datos para evaluar su veracidad.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no proporciona suficientes datos para evaluar su veracidad."
+        "comparison_text": "No es cierto que los inmigrantes vengan a robar nuestras pensiones. En realidad, muchos de ellos trabajan en el sector informal y no pagan impuestos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes vengan a robar nuestras pensiones. En realidad, muchos de ellos trabajan en el sector informal y no pagan impuestos."
     }
 }

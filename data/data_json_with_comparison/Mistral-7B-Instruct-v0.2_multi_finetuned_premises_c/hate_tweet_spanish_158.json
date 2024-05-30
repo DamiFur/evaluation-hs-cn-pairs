@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo\n\nSe responde lo siguiente:\n\nNo, no es así. El machismo es una cuestión cultural, no racial. En todo el mundo existen culturas machistas y culturas no machistas.",
+        "number": "158",
+        "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
+        "cn": "No, no es así. El machismo es una cuestión cultural, no racial. En todo el mundo existen culturas machistas y culturas no machistas.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text": "No es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que toda la comunidad musulmana sigue promoviendo la misma idea, ya que hay una gran diversidad de creencias y prácticas"
+    }
+}

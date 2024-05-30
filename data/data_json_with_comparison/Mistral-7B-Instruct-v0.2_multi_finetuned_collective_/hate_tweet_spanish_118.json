@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii\n\nSe responde lo siguiente:\n\n¿De dónde sacaste esa información? No tienes ninguna fuente.",
+        "number": "118",
+        "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
+        "cn": "¿De dónde sacaste esa información? No tienes ninguna fuente.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "No es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas."
+    }
+}

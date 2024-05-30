@@ -5,8 +5,8 @@
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "The subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable.",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "No podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos generalizar y acusar a todos los subsaharianos de querer asaltar fronteras y aprovecharse de nuestras pensiones. Hay que tratar a cada individuo con respeto y sin prejuicios. La xenofobia no tiene cabida en una sociedad inclusiva y respetuosa."
+        "comparison_text": "No hay evidencia de que los subsaharianos estén organizando ninguna invasión hacia nuestras fronteras para hacerse cargo de nuestras pensiones. Es importante no difundir mensajes llenos de prejuicios y xenofobia. Todos merecen ser tratados con respeto y dignidad.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay evidencia de que los subsaharianos estén organizando ninguna invasión hacia nuestras fronteras para hacerse cargo de nuestras pensiones. Es importante no difundir mensajes llenos de prejuicios y xenofobia. Todos merecen ser tratados con respeto y dignidad."
     }
 }

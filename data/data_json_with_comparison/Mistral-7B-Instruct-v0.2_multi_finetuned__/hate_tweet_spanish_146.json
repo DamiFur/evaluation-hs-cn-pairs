@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nel pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz\n\nSe responde lo siguiente:\n\nNadie exige esas cosas. Solo hay gente que dice que eso es lo que el pueblo quiere, cuando en realidad no es así.",
+        "number": "146",
+        "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
+        "cn": "Nadie exige esas cosas. Solo hay gente que dice que eso es lo que el pueblo quiere, cuando en realidad no es así.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "<extra_id_48> El sistema alimentario tiene especulación de precios impuestos por los chinos turcos, esos chinos son chinos del mundo. No es cierto que el chinos turko, el colombiano y los turcos tienen ningn problema. <extra_id_69>",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_48> El sistema alimentario tiene especulación de precios impuestos por los chinos turcos, esos chinos son chinos del mundo. No es cierto que el chinos turko, el colombiano y los turcos tienen ningn problema. <extra_id_69>"
+    }
+}

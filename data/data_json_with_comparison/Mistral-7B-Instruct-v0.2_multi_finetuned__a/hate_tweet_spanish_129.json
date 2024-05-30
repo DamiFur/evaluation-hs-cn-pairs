@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\n¿Qué tienes contra los subsaharianos?",
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "¿Qué tienes contra los subsaharianos?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text": "No es realidad, sino una creación de tu imaginación. El mundo es mucho más complejo que eso.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es realidad, sino una creación de tu imaginación. El mundo es mucho más complejo que eso."
+    }
+}

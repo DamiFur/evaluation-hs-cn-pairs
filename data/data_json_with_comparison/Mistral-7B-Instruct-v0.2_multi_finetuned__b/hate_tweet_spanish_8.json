@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk\n\nSe responde lo siguiente:\n\nNo todos los árabes son violadores ni maltratadores de mujeres, ni todos los musulmanes son terroristas. No todos los hombres maltratan a las mujeres y no todas las mujeres son víctimas de violencia de genero. No todas las denuncias son reales y no todos los casos de violencia tienen que ver con el origen étnico de las personas involucradas.",
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "No todos los árabes son violadores ni maltratadores de mujeres, ni todos los musulmanes son terroristas. No todos los hombres maltratan a las mujeres y no todas las mujeres son víctimas de violencia de genero. No todas las denuncias son reales y no todos los casos de violencia tienen que ver con el origen étnico de las personas involucradas.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "Que triste que aun hoy en día haya gente que piense así...",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue triste que aun hoy en día haya gente que piense así..."
+    }
+}

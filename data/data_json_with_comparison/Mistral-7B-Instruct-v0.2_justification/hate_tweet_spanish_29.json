@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": " Es injusto y absurdo que alguien quieran que usted use un turban solo por su raza.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que eso no tiene ningn efecto en todos los países. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso no tiene ningn efecto en todos los países. "
+        "comparison_text": "No es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... ",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... "
     }
 }

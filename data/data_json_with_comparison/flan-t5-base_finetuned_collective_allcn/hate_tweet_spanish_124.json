@@ -6,7 +6,7 @@
         "cn": "No es cierto que la India de Gandhi es un país tan espiritual, sino que los árabes son razas dominadas. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "gandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\ngandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres"
     }
 }

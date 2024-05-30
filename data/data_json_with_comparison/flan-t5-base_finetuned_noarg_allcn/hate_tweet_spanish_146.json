@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "No es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "It's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to address the root causes of concerns regarding food security and price speculation, rather than focusing on specific ethnic groups."
+        "comparison_text": "No es cierto que el pueblo exige mas atención en cuanto al sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el pueblo exige mas atención en cuanto al sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los arabes y a los colombianos. "
     }
 }

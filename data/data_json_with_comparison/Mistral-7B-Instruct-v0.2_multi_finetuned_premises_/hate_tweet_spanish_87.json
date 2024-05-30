@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"\n\nSe responde lo siguiente:\n\nNo entiendo por qué deberían mantenerse alejados, ni siquiera entiendo a qué te refieres con \\\"lindos negritos visitantes\\\".",
+        "number": "87",
+        "hs": "\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \"\"lindos negritos visitantes\"\" estén estreñidos https://t co/mpuxy1wxnm\"",
+        "cn": "No entiendo por qué deberían mantenerse alejados, ni siquiera entiendo a qué te refieres con \"lindos negritos visitantes\".",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text": "Este comentário é ofensivo, racista e xenofobo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentário é ofensivo, racista e xenofobo."
+    }
+}

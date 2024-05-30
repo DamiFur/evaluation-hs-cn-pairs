@@ -5,8 +5,8 @@
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "La reunión familiar es un derecho de todos los seres humanos, no importa dónde vengan.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Es injusto asignarle la intención de \\\"invasión\\\" a todos los migrantes, especialmente niños, que buscan refugio en España.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto asignarle la intención de \\\"invasión\\\" a todos los migrantes, especialmente niños, que buscan refugio en España."
+        "comparison_text": "No tienes ninguna idea de lo que estás hablando. No son inmigrantes, son refugiados. No son enviados por Marruecos, son marroquíes que huyen de la pobreza y la inseguridad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienes ninguna idea de lo que estás hablando. No son inmigrantes, son refugiados. No son enviados por Marruecos, son marroquíes que huyen de la pobreza y la inseguridad."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "Todos somos seres humanos y merecemos respeto y compasión, independientemente de nuestra nacionalidad o estatus migratorio. La violencia y la discriminación no son la respuesta.",
         "model": "gpt3.5_justification",
-        "comparison_text": "No tienen dinero, y eso no tiene nada. No tiene dinero. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienen dinero, y eso no tiene nada. No tiene dinero. "
+        "comparison_text": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas"
     }
 }

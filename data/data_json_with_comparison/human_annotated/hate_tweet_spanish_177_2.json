@@ -5,8 +5,8 @@
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Son dos circunstancias muy diferentes, no puedes comparar de forma tan simplificada.",
         "model": "human_annotated",
-        "comparison_text": "Este comentario es discriminatorio y se basa en estereotipos.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es discriminatorio y se basa en estereotipos."
+        "comparison_text": "Esa afirmación no tiene ninguna base científica o factual.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsa afirmación no tiene ninguna base científica o factual."
     }
 }

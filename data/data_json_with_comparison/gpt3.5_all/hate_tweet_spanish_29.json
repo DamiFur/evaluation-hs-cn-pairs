@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No tiene sentido que te quieran hacer usar un turbante árabe solo por ser negro. Cada persona es única y nadie debería ser presionado para adoptar vestimentas o tradiciones que no le corresponden. Es importante respetar la diversidad y la individualidad de cada individuo. ¡Tú eres quien decide cómo quieres verte y qué usar!",
         "model": "gpt3.5_all",
-        "comparison_text": "No es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... "
+        "comparison_text": "No se entiende lo que quieres decir.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo se entiende lo que quieres decir."
     }
 }

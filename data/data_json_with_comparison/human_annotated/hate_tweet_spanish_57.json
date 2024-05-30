@@ -5,8 +5,8 @@
         "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
         "cn": "Que en un país estén tomando una postura antiinmigración no significa que acogerlos sea un error, ni que los demás países estén de acuerdo con ello.",
         "model": "human_annotated",
-        "comparison_text": "Es importante recordar que todos los seres humanos tienen derechos y deben ser tratados con respeto y dignidad, sin importar su lugar de origen o su estatus",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que todos los seres humanos tienen derechos y deben ser tratados con respeto y dignidad, sin importar su lugar de origen o su estatus"
+        "comparison_text": "Es incorrecto asignarles la etiqueta de \\\"sin aporte\\\" a todos los indocumentados.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs incorrecto asignarles la etiqueta de \\\"sin aporte\\\" a todos los indocumentados."
     }
 }

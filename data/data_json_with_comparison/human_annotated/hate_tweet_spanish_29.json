@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "Tranquilo, nadie te va a obligar a nada.",
         "model": "human_annotated",
-        "comparison_text": "Te estoy preguntando, ¿qué significa \\\"para tanto\\\"? ¿Qué quieres decir?",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTe estoy preguntando, ¿qué significa \\\"para tanto\\\"? ¿Qué quieres decir?"
+        "comparison_text": "No debes preocuparte de lo que quieran hacer tus detractores.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo debes preocuparte de lo que quieran hacer tus detractores."
     }
 }

@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "¿Qué significa \\\"tonto\\\" y \\\"corro\\\"? ¿Y qué tiene que ver con la raza? No es correcto generalizar a todo el mundo de una misma r",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Es injusto y erroneo asignarle la responsabilidad de una supuesta \\\"invasión\\\" a un grupo étnico específico.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto y erroneo asignarle la responsabilidad de una supuesta \\\"invasión\\\" a un grupo étnico específico."
+        "comparison_text": "¿De dónde sacaste esa información? No creo que sea cierto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿De dónde sacaste esa información? No creo que sea cierto."
     }
 }

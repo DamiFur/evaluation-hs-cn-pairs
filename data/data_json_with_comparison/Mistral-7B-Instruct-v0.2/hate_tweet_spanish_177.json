@@ -5,8 +5,8 @@
         "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
         "cn": "Este tweet no proporciona suficientes datos para llegar a una conclusión válida.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "Este comentario es ofensivo y discriminatorio.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es ofensivo y discriminatorio."
+        "comparison_text": "No tiene ninguna estructura que eso tiene. No tienen nada. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tiene ninguna estructura que eso tiene. No tienen nada. "
     }
 }

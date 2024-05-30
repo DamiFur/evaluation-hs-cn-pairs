@@ -5,8 +5,8 @@
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "No tienen dinero, y eso no tiene nada. No tiene dinero. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los sudacas y centroamirdicanos pasan por mi país violentando gente porque \\\"no tienen dinero\\\"... ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los sudacas y centroamirdicanos pasan por mi país violentando gente porque \\\"no tienen dinero\\\"... "
+        "comparison_text": "No es cierto que todos los inmigrantes sean violentos, ni tampoco que todos los violentos sean inmigrantes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que todos los inmigrantes sean violentos, ni tampoco que todos los violentos sean inmigrantes."
     }
 }

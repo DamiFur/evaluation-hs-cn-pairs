@@ -5,8 +5,8 @@
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "Y eso es una ejemplo de integración y lucha contra el xenofobia, y es como el pueblo es indefinido. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los manteros atacan a los turistas y hay reyertas en el raval adolescente, y eso no tiene nada que ver. "
+        "comparison_text": "No creo que sea un ejemplo de buena acogida. Al menos, no debería serlo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que sea un ejemplo de buena acogida. Al menos, no debería serlo."
     }
 }

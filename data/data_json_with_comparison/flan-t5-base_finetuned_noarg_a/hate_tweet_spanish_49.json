@@ -5,8 +5,8 @@
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "No creo que estamos muy acostumbrados y idk peor a los árabes. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No creo que estamos muy acostumbrados y idk peor a los árabes. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que estamos muy acostumbrados y idk peor a los árabes. "
+        "comparison_text": "No es cierto que los inmigrantes no se adapten a la vida europea. Y si lo hicieran peor, eso no significa nada.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes no se adapten a la vida europea. Y si lo hicieran peor, eso no significa nada."
     }
 }

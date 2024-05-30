@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "Lo llamas invasión pero solo te refieres a los venezolanos, y no a los demás inmigrantes. ¿No estás siendo un poco racista?",
         "model": "human_annotated",
-        "comparison_text": "Es importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que no todos los migrantes son iguales y que cada uno tiene sus propias razones para emigrar."
+        "comparison_text": "It is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt is not correct to label the arrival of Venezuelan immigrants as an invasion. People have the right to seek refuge and build a better life for themselves and their families."
     }
 }

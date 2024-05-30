@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "Todos merecen ser tratados con dignidad y respeto, independientemente de su nacionalidad. Difundir odio y discriminación no nos lleva a ningún lado. ¡Respeto y solidaridad siempre! #NoAlRacismo #NoALaXenofobia",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que los españoles son nada. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los españoles son nada. "
+        "comparison_text": " La etnia española no depende de si alguna persona o grupo de personas han buscadorefugio en el pasado.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n La etnia española no depende de si alguna persona o grupo de personas han buscadorefugio en el pasado."
     }
 }

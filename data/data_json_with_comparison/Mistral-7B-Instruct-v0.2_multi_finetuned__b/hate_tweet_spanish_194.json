@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"\n\nSe responde lo siguiente:\n\nSolo porque alguien no tenga dinero no significa que sea violento. La mayoría de los inmigrantes son trabajadores honestos que solo buscan una vida mejor para sí y sus familias.",
+        "number": "194",
+        "hs": "\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \"\"no tienen dinero\"\" \"\"porque van en busca de una vida mejor\"\" y ademas ilegal https://t co/j2o2kr0ti2\"",
+        "cn": "Solo porque alguien no tenga dinero no significa que sea violento. La mayoría de los inmigrantes son trabajadores honestos que solo buscan una vida mejor para sí y sus familias.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text": "Que haya violencia quizás sea cierto. No te consta que hayan sido ellos los culpables. No puedes culpar a quién te cae mal, de todo.",
+        "comparison_model": "human_annotated",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nQue haya violencia quizás sea cierto. No te consta que hayan sido ellos los culpables. No puedes culpar a quién te cae mal, de todo."
+    }
+}

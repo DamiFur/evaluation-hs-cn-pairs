@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\nNi todos los inmigrantes son malos, ni todos los españoles son buenos. No es así como funciona.",
+        "number": "188",
+        "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
+        "cn": "Ni todos los inmigrantes son malos, ni todos los españoles son buenos. No es así como funciona.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text": "No es cierto que el inmigrante con papeles fue muerto por otros inmigrantes, y eso no tiene nada que decir. ",
+        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el inmigrante con papeles fue muerto por otros inmigrantes, y eso no tiene nada que decir. "
+    }
+}

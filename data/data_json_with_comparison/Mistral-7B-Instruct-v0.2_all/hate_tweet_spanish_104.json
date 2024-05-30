@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Marina Le Pen's statement is based on a conspiracy theory with no factual basis.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto asociar la migración de África o país árabes con intenciones malas hacia Europa."
+        "comparison_text": "No es cierto que los inmigrantes vengan con la intención de destruir nuestra cultura.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes vengan con la intención de destruir nuestra cultura."
     }
 }

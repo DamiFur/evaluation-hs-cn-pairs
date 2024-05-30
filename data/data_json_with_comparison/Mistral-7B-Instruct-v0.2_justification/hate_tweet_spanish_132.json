@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Este tweet contiene una mezcla de temas irracionales y ofensivos.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que españa está siendo invadido por los subsaharianos. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que españa está siendo invadido por los subsaharianos. "
+        "comparison_text": "] El problema no es la inmigración sino el racismo y la xenofobia. No todos los inmigrantes son criminales y delincuentes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n] El problema no es la inmigración sino el racismo y la xenofobia. No todos los inmigrantes son criminales y delincuentes."
     }
 }

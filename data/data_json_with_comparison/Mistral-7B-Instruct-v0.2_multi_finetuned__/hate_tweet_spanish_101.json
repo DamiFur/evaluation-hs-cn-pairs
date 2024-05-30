@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nNo es cierto que los españoles sean menos humanitarios que otros pueblos.",
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "No es cierto que los españoles sean menos humanitarios que otros pueblos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "No es cierto que son españoles nada sin fueran refugiados gloria. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que son españoles nada sin fueran refugiados gloria. "
+    }
+}

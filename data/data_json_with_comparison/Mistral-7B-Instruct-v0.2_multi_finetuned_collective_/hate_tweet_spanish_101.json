@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ncomo son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c\n\nSe responde lo siguiente:\n\nNadie es refugiado sin quererlo, y nadie lo es por mucho tiempo sin querer volver a su país.",
+        "number": "101",
+        "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
+        "cn": "Nadie es refugiado sin quererlo, y nadie lo es por mucho tiempo sin querer volver a su país.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": " La etnia o nacionalidad de alguien no se determina por su pasado o situación actual, especialmente cuando se trata de conceptos abstractos como \\\"Gloria\\\" o",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n La etnia o nacionalidad de alguien no se determina por su pasado o situación actual, especialmente cuando se trata de conceptos abstractos como \\\"Gloria\\\" o"
+    }
+}

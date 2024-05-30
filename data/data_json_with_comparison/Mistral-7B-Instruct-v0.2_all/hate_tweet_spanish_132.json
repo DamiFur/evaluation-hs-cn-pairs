@@ -5,8 +5,8 @@
         "hs": "españa está siendo invadida por los subsaharianos y aquí don tonto jugando al corro la patata desde la moncloa hashtag caminodevenezuela hashtag señorllevamépronto https://t co/h4xmwqlvw7",
         "cn": "Este tweet contiene una mezcla de temas incoherentes y racistas.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Lo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero no puedo compartir un enlace ni entender la relevancia de tu comentario con respecto a la discusión actual."
+        "comparison_text": "¿Por que dices que estamos siendo invadidos? No veo ningun problema.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Por que dices que estamos siendo invadidos? No veo ningun problema."
     }
 }

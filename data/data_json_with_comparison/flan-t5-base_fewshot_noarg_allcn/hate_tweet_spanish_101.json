@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "gloria hashtag migrates hashtag refugiados hashtag españaloprimero",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "El origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl origen de una persona no define su valía ni su capacidad. Todos merecemos ser tratados con respeto y dignidad, independientemente de nuestra nacionalidad. El racismo y la discriminación no tienen cabida en una sociedad justa y equitativa."
+        "comparison_text": "Es importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales"
     }
 }

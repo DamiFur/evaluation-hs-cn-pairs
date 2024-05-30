@@ -5,8 +5,8 @@
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "otetas negratas noos van a robar toda la pasta iaqui menos mal que yo tiene en panama",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "Es inaceptable utilizar términos despectivos como \\\"negratas\\\" para referirse a personas de piel oscura. No todos los individuos de cierta etnia son delincuentes. Promovamos la diversidad y el respeto mutuo en lugar de difundir el odio y la discriminación.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs inaceptable utilizar términos despectivos como \\\"negratas\\\" para referirse a personas de piel oscura. No todos los individuos de cierta etnia son delincuentes. Promovamos la diversidad y el respeto mutuo en lugar de difundir el odio y la discriminación."
+        "comparison_text": "No deberíamos utilizar lenguaje racista ni expresiones que promuevan la discriminación. Todas las personas merecen respeto independientemente de su color de piel. Además, evadir impuestos es ilegal y no es ético trasladar el dinero a otros países para evitar responsabilidades fiscales. Es importante cumplir con las leyes y contribuir al desarrollo de la sociedad en la que vivimos.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo deberíamos utilizar lenguaje racista ni expresiones que promuevan la discriminación. Todas las personas merecen respeto independientemente de su color de piel. Además, evadir impuestos es ilegal y no es ético trasladar el dinero a otros países para evitar responsabilidades fiscales. Es importante cumplir con las leyes y contribuir al desarrollo de la sociedad en la que vivimos."
     }
 }

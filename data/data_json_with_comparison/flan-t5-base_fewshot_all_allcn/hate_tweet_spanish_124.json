@@ -5,8 +5,8 @@
         "hs": "pues la india de gandhi ese país tan espiritual son razas dominadas como los árabes dominados por un libro tendencia a retroceder ante lo nuevo desprecio por la mujer por lo inferior según el criterio de estas simple minds los animales las mujeres las niñas los pobres https://t co/h7hv6nchyj",
         "cn": "gandhi ese país tan espiritual son razas dominadas como los arabes dominados por un libro tendencia a retroceder ante lo nuevo castigo por la mujer por lo inferior según el criterio de estas simples mentes los animales las mujeres niñas los pobres",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Es importante recordar que los prejuicios y estereotipos no tienen base en la realidad. La India es un país diverso y multicultural, y generalizar a toda una nación con base en estereotipos es injusto y erróneo. Debemos desafiar y superar esas ideas de inferioridad hacia ciertos grupos de personas.",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que los prejuicios y estereotipos no tienen base en la realidad. La India es un país diverso y multicultural, y generalizar a toda una nación con base en estereotipos es injusto y erróneo. Debemos desafiar y superar esas ideas de inferioridad hacia ciertos grupos de personas."
+        "comparison_text": "Este comentario es altamente ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es altamente ofensivo y discriminatorio."
     }
 }

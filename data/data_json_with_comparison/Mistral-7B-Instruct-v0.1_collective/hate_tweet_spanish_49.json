@@ -5,8 +5,8 @@
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "La adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "No es posible hacer juicios generales sobre una base de datos tan pequeña y sesgada.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es posible hacer juicios generales sobre una base de datos tan pequeña y sesgada."
+        "comparison_text": "No creo que sea una cuestión de etnia o nacionalidad, creo que es cuestión del individuo y de su capacidad de adaptarse a un nuevo entorno.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que sea una cuestión de etnia o nacionalidad, creo que es cuestión del individuo y de su capacidad de adaptarse a un nuevo entorno."
     }
 }

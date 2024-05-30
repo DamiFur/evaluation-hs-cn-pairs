@@ -5,8 +5,8 @@
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "Por qué eso es cierto? No es realmente cierto que el nmero de subsaharianos tiene ninguna invasión. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": "Este tweet no tiene sentido y contiene información falsa.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no tiene sentido y contiene información falsa."
+        "comparison_text": "No podemos caer en la desinformación y el miedo sin fundamento. Hay que recordar que todas las personas merecen respeto y no se puede considerar a nadie como una invasión. Es importante ser críticos con las fuentes de información y no difundir mensajes llenos de odio y xenofobia.",
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos caer en la desinformación y el miedo sin fundamento. Hay que recordar que todas las personas merecen respeto y no se puede considerar a nadie como una invasión. Es importante ser críticos con las fuentes de información y no difundir mensajes llenos de odio y xenofobia."
     }
 }

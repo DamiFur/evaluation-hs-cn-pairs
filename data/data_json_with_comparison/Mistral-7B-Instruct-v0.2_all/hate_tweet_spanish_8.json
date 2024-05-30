@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": " It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Lo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero es inapropiado y ofensivo comparar situaciones personales y atribuirle etiquetas basadas en origen étnico o racial."
+        "comparison_text": "No creo que sea cierto que todos los árabes sean violadores.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que sea cierto que todos los árabes sean violadores."
     }
 }

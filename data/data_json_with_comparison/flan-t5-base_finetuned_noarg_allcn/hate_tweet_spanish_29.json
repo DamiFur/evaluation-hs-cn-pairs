@@ -5,8 +5,8 @@
         "hs": "que les pasa a todos que me quieren hacer usar turbante de arabe soy negro pero tampoco para tanto",
         "cn": "No es cierto que todos los negros que quieres usar turbante del arabe, pero tampoco para tanto... ",
         "model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text": "Ninguna persona tiene derecho de decirte qué vestir debido a tu origen étnico.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNinguna persona tiene derecho de decirte qué vestir debido a tu origen étnico."
+        "comparison_text": "No es cierto que estoy negro, ni siquiera. ",
+        "comparison_model": "flan-t5-base_finetuned_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que estoy negro, ni siquiera. "
     }
 }

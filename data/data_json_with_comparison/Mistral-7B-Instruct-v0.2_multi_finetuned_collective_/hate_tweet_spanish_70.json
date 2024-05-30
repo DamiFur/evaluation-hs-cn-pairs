@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh\n\nSe responde lo siguiente:\n\n¿Y por qué crees que los negros se llevan todo la pasta? No tienes ninguna fuente que respalde esa afirmación, ¿verdad?",
+        "number": "70",
+        "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
+        "cn": "¿Y por qué crees que los negros se llevan todo la pasta? No tienes ninguna fuente que respalde esa afirmación, ¿verdad?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "Este comentario es racista y ofensivo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es racista y ofensivo."
+    }
+}

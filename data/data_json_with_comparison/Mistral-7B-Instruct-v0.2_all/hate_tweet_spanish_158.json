@@ -5,8 +5,8 @@
         "hs": "hashtag impromilf yaz cultura árabe = cultura machista te lo digo xq me ha pasado lo mismo @user @user descendencia árabe siguen inculcando el machismo",
         "cn": "No es justo generalizar que toda una culture o descendentes son machistas basado en experiencias personales.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "Lo siento, pero no puedo confirmar esa afirmación específica sobre una hashrag o una persona en particular.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLo siento, pero no puedo confirmar esa afirmación específica sobre una hashrag o una persona en particular."
+        "comparison_text": "Muchas culturas tienen problemas con el machismo, no es algo exclusivo de los árabes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMuchas culturas tienen problemas con el machismo, no es algo exclusivo de los árabes."
     }
 }

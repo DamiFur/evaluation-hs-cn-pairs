@@ -5,8 +5,8 @@
         "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
         "cn": " Es importante recordar que el uso de generalizaciones basadas en el origen étnico o racial es erróneo y ofensivo.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo estoy aquí para justificar o negar ninguna afirmación. Es importante recordar que las estadísticas sobre delitos no siempre reflejan la real"
+        "comparison_text": "No creo que sea cierto que los negros y los árabes sean los culpables de todos esos problemas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que sea cierto que los negros y los árabes sean los culpables de todos esos problemas."
     }
 }

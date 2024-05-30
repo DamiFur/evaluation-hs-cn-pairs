@@ -5,8 +5,8 @@
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Y eso no es una forma de ayudar a la gente sin papeles, y esa es la única forma de obligar a los turistas y polticos. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los turistas y polticos obligan a obligar a la gente sin papeles. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los turistas y polticos obligan a obligar a la gente sin papeles. "
+        "comparison_text": "No creo que sea cierto que los inmigrantes agredan a los turistas y a la policía.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que sea cierto que los inmigrantes agredan a los turistas y a la policía."
     }
 }

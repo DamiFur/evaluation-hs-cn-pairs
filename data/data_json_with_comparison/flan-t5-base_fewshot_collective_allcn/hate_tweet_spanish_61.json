@@ -5,8 +5,8 @@
         "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
         "cn": "Invasión =>",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Esta información es falsa y se basa en una fuente no confiable.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es falsa y se basa en una fuente no confiable."
+        "comparison_text": "¿Qué invasión estás hablando? ¿Cuántos inmigrantes vienen? ¿De dónde? ¿Por qué tienes miedo?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Qué invasión estás hablando? ¿Cuántos inmigrantes vienen? ¿De dónde? ¿Por qué tienes miedo?"
     }
 }

@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "Es importante defender nuestros intereses económicos, pero no debemos generalizar y odiar a ciertos grupos basados en su origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text": "el pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos defenderamos lo nuestro hagamos patria @user @user &lt;b&gt;",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nel pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos defenderamos lo nuestro hagamos patria @user @user &lt;b&gt;"
+        "comparison_text": "el pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos, defendamos lo nuestro hagamos patria @user@user @user @user &lt;b&gt;",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nel pueblo exige más atención en cuanto a sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos, arabes y colombianos, defendamos lo nuestro hagamos patria @user@user @user @user &lt;b&gt;"
     }
 }

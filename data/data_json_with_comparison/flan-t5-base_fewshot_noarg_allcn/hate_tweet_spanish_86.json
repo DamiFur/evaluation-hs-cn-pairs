@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "ira a las autoridades peruanas que no le da ni la todos por este tema sólo reaccionarán cuando esto se desborde",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "No podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos generalizar a todos los venezolanos como invasores, la mayoría de ellos están huyendo de una situación difícil en su país. Es importante mostrar empatía y solidaridad en lugar de sembrar odio."
+        "comparison_text": "No podemos permitir que el miedo y la xenofobia dicten nuestras acciones. Debemos acoger a los venezolanos con compasión y solidaridad, brindándoles la oportunidad de reconstruir sus vidas en un lugar seguro y acogedor. No se trata de una invasión, se trata de personas en busca de un futuro mejor. La cooperación y la empatía son las respuestas adecuadas, no la violencia o la discriminación.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos permitir que el miedo y la xenofobia dicten nuestras acciones. Debemos acoger a los venezolanos con compasión y solidaridad, brindándoles la oportunidad de reconstruir sus vidas en un lugar seguro y acogedor. No se trata de una invasión, se trata de personas en busca de un futuro mejor. La cooperación y la empatía son las respuestas adecuadas, no la violencia o la discriminación."
     }
 }

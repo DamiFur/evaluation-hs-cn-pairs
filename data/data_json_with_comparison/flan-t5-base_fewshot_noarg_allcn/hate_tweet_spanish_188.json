@@ -5,8 +5,8 @@
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "@user https://t co/l4",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "No todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo todos los manteros actúan de la misma manera, no se puede generalizar. Hay que condenar la violencia sin importar de dónde venga."
+        "comparison_text": "Es importante no generalizar ni culpar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, independientemente de quién sea el perpetrador. La violencia y el hostigamiento no tienen justificación, sin importar la nacionalidad de quien los cometa.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante no generalizar ni culpar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, independientemente de quién sea el perpetrador. La violencia y el hostigamiento no tienen justificación, sin importar la nacionalidad de quien los cometa."
     }
 }

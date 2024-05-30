@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nestoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk\n\nSe responde lo siguiente:\n\nLo dices como si fuera algo malo ser árabe. No es cierto que todos los árabes sean violentos.",
+        "number": "8",
+        "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
+        "cn": "Lo dices como si fuera algo malo ser árabe. No es cierto que todos los árabes sean violentos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "<extra_id_57> El nio tiene violencia de género y otras obras, pero eso no es cierto que el hombre tiene la razón de que esa es una razón en el mundo.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_57> El nio tiene violencia de género y otras obras, pero eso no es cierto que el hombre tiene la razón de que esa es una razón en el mundo."
+    }
+}

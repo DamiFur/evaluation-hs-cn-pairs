@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "<extra_id_57> Sólo es una inmigración a las autoridades peruanas? No es cierto que el inmigrante tiene que reaccionarse a la invasión? No, no es inmigrarse en esos casos. No hay inmigrantes en EE.UU., no hay inmigradores en otros países, y no hay ninguna inmigranción a través de esas invasiones.",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "Cada persona que llega buscando una vida mejor merece respeto y oportunidades, sin importar su nacionalidad. La solidaridad y la cooperación son la clave para construir una sociedad inclusiva y acogedora. El racismo y la xenofobia solo generan división y perpetúan el odio. Es importante abogar por políticas de inmigración justas y equitativas que protejan los derechos de todos los individuos sin importar su origen.",
-        "comparison_model": "gpt3.5",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nCada persona que llega buscando una vida mejor merece respeto y oportunidades, sin importar su nacionalidad. La solidaridad y la cooperación son la clave para construir una sociedad inclusiva y acogedora. El racismo y la xenofobia solo generan división y perpetúan el odio. Es importante abogar por políticas de inmigración justas y equitativas que protejan los derechos de todos los individuos sin importar su origen."
+        "comparison_text": "Venezolanos no son invasores, son personas que huyen de la pobreza y la inseguridad.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nVenezolanos no son invasores, son personas que huyen de la pobreza y la inseguridad."
     }
 }

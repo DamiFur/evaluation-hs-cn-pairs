@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "sbcnpdv soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir turistas y policias la única manera que nos obligan hacer es mantero sin papel a su país",
         "model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text": "Eres incorrecto.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEres incorrecto."
+        "comparison_text": "¿Por qué dices que no son españoles? ¿Porque no son como tú? ¿Qué importa si son españoles o no?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Por qué dices que no son españoles? ¿Porque no son como tú? ¿Qué importa si son españoles o no?"
     }
 }

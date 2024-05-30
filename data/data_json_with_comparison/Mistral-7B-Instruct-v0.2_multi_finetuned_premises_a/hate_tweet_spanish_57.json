@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nen suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs\n\nSe responde lo siguiente:\n\nSolo porque un partido de extrema derecha gana las elecciones, no significa que todo el país esté de acuerdo con sus ideas.",
+        "number": "57",
+        "hs": "en suecia están abriendo los ojos el partido antiinmigración ganaría las elecciones generales del próximo mes de septiembre cada vez son más los países que se dan cuenta del errror de acoger a miles de indocumentados sin que aporten nada https://t co/lehbkpesjs",
+        "cn": "Solo porque un partido de extrema derecha gana las elecciones, no significa que todo el país esté de acuerdo con sus ideas.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_a",
+        "comparison_text": "¿Y qué tiene que ver esto con el error de abrir las puertas a los inmigrantes? No parece que tenga ninguna relación.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Y qué tiene que ver esto con el error de abrir las puertas a los inmigrantes? No parece que tenga ninguna relación."
+    }
+}

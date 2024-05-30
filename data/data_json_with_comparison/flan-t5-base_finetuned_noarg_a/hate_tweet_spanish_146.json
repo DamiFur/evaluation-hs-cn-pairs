@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": "No creo que el pueblo exige más atención en el sistema alimentario y contra la especulación de precios impuestos por los chinos turcos, a los aguas y a los colombianos. No tiene nada. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los chinos turcos, los arabes y los colombianos especulan precios impuestos. "
+        "comparison_text": "¿Estás seguro de que son ellos los que están especulando con los precios? No creo que sea así.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Estás seguro de que son ellos los que están especulando con los precios? No creo que sea así."
     }
 }

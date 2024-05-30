@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "No creo que es una estrategia para entrar a Europa y atacarla, y eso no tiene razón nada a los inmigrantes. ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde hace mil años. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla desde hace mil años. "
+        "comparison_text": "No es cierto que los inmigrantes vengan a destruir nada. Solo vienen a vivir y a trabajar.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes vengan a destruir nada. Solo vienen a vivir y a trabajar."
     }
 }

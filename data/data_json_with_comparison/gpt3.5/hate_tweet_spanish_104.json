@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "Esa mentalidad xenófoba y conspirativa solo perpetúa el odio y la división. La inmigración no es una estrategia para atacar a Europa, sino una búsqueda de mejores oportunidades y una vida digna. Hay que combatir el racismo y la xenofobia en lugar de alimentarlo.",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla. No tiene razón a los inmigrantes. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que la inmigración de los países árebes es una estrategia para entrar a Europa y atacarla. No tiene razón a los inmigrantes. "
+        "comparison_text": "Marina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nMarina Le Pen's statement, along with the justification provided, is based on conspiracy theories and lacks factual evidence."
     }
 }

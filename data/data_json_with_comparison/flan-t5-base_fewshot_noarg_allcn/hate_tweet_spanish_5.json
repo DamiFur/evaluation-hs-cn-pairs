@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "hrcb6n7jhq",
         "model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text": "La capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio.",
-        "comparison_model": "gpt3.5_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio."
+        "comparison_text": "No hay correlación entre el calor extremo y el nivel de inteligencia o desempeño cognitivo de personas de ciertas regiones geográficas. Estereotipar a personas del Caribe o África Subsahariana como \\\"brutalistas\\\" basado en su origen geográfico es injusto y discriminatorio. Es importante reconocer la diversidad de habilidades y capacidades individuales sin generalizar ni caer en prejuicios raciales.",
+        "comparison_model": "gpt3.5_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo hay correlación entre el calor extremo y el nivel de inteligencia o desempeño cognitivo de personas de ciertas regiones geográficas. Estereotipar a personas del Caribe o África Subsahariana como \\\"brutalistas\\\" basado en su origen geográfico es injusto y discriminatorio. Es importante reconocer la diversidad de habilidades y capacidades individuales sin generalizar ni caer en prejuicios raciales."
     }
 }

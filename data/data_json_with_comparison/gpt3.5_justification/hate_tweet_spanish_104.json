@@ -5,8 +5,8 @@
         "hs": "la inmigraciòn de africa y países árebes es una estrategia para entrar a europa y atacarla desde dentro como hace mil años hicieron los barbaros para destruir el imperio romano el islan ataca una europa lacsa en leyes y desunida marina lepen tiene razón nada d inmigrantes https://t co/nzduyei7x5",
         "cn": "El temor a la inmigración como estrategia de ataque o destrucción es infundado. La diversidad cultural en Europa enriquece su sociedad y economía, y no es motivo para restringir la entrada de personas de diferentes regiones del mundo. Marina Le Pen y quienes piensan como ella están promoviendo una visión xenófoba y discriminatoria que va en contra de los valores de igualdad y solidaridad.",
         "model": "gpt3.5_justification",
-        "comparison_text": "No creo que es una estrategia para entrar a Europa y atacarla, y eso no tiene razón nada a los inmigrantes. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que es una estrategia para entrar a Europa y atacarla, y eso no tiene razón nada a los inmigrantes. "
+        "comparison_text": "the inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante",
+        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nthe inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nNo entiendo a qué te refieres con \\\"sudacas\\\". Puede ser que no lo sepas, pero los sudacas no tienen nada que ver con los asiáticos.",
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "No entiendo a qué te refieres con \"sudacas\". Puede ser que no lo sepas, pero los sudacas no tienen nada que ver con los asiáticos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "Este tweet no está relacionado con tu pregunta.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet no está relacionado con tu pregunta."
+    }
+}

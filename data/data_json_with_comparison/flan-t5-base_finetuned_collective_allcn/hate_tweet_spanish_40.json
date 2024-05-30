@@ -6,7 +6,7 @@
         "cn": "No es cierto que todos los subsaharianos son demasiados en las calles tirados manteros perjudicando las comercios legales y vendiendo copias marroques donde trabaja el y viven. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
         "comparison_text": "vengan muchos ya sobre aquí hay demasiados de todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroques donde trabaja el y viven la mujer 4 children and 4 abuelos en ciudades",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
         "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nvengan muchos ya sobre aquí hay demasiados de todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroques donde trabaja el y viven la mujer 4 children and 4 abuelos en ciudades"
     }
 }

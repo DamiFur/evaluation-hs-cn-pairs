@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "a ver quién pagará la factura y cómo se reparten el marrón de dejar imigrantes ilegales sueltos por sus ciudades (y que los votantes no hagan pagará r dentro de un año) http://t co/cehrdjssdu | Colectivo: | Propiedad: | | Justification:",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Los inmigrantes ilegales deberían recibir apoyo y soluciones humanitarias, en lugar de ser vistos como un problema. La integración y el respeto a los derechos humanos son fundamentales en todas las sociedades.",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos inmigrantes ilegales deberían recibir apoyo y soluciones humanitarias, en lugar de ser vistos como un problema. La integración y el respeto a los derechos humanos son fundamentales en todas las sociedades."
+        "comparison_text": "Esta información es incorrecta.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEsta información es incorrecta."
     }
 }

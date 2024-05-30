@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ny en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw\n\nSe responde lo siguiente:\n\nNo creo que esos problemas sean mayores que los de los inmigrantes blancos, o que tengan algo que ver con su raza.",
+        "number": "130",
+        "hs": "y en toda europa se estan matando y violando a millones y millones de blancos pero eso ni lo mencionas tampoco mencionas que esos negros y arabes causan problemas https://t co/jmxzmny6qw",
+        "cn": "No creo que esos problemas sean mayores que los de los inmigrantes blancos, o que tengan algo que ver con su raza.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": " Es importante recordar que el uso de generalizaciones basadas en el origen étnico o racial es erróneo y ofensivo.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es importante recordar que el uso de generalizaciones basadas en el origen étnico o racial es erróneo y ofensivo."
+    }
+}

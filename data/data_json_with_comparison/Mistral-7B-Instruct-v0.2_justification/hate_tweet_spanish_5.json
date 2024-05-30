@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "No, es improbable que el desempeño cognitivo reducido debido al calor extremo en edificios sin aire acondicionado explique el \\\"br",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que eso puede explicar el brutismo caribeo y el subsahariano. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso puede explicar el brutismo caribeo y el subsahariano. "
+        "comparison_text": "No, no se ha demostrado una correlación entre el clima y la agresividad humana. Solo se ha observado una relación entre el calor y la disminución de la capacidad cognitiva de los jóvenes en los edificios sin aire acondicionado.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo, no se ha demostrado una correlación entre el clima y la agresividad humana. Solo se ha observado una relación entre el calor y la disminución de la capacidad cognitiva de los jóvenes en los edificios sin aire acondicionado."
     }
 }

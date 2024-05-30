@@ -5,8 +5,8 @@
         "hs": "@user @user @user con q vengan muchos ya sobra aquí hay demasiados d todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroquíes donde trabaja el y viven la mujer 4 niños y 4 abuelos en ciudades y pueblos estamos llenos a su casa",
         "cn": "vengan muchos ya sobre aquí hay demasiados de todos subsaharianos en las calles tirados manteros perjudicando comercios legales y vendiendo copias marroques donde trabaja el y viven la mujer 4 children and 4 abuelos en ciudades",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Es importante recordar que la diversidad cultural enriquece a la sociedad. Es injusto generalizar y discriminar a un grupo por el origen de su nacionalidad. Todos merecen ser tratados con respeto y dignidad, independientemente de su procedencia. Acoger y ayudar a aquellos que vienen en búsqueda de una vida mejor es un acto de humanidad y solidaridad. No hay motivo para excluir a nadie de la sociedad solo por su nacionalidad. Juntos podemos construir una sociedad más inclusiva y comprensiva.",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la diversidad cultural enriquece a la sociedad. Es injusto generalizar y discriminar a un grupo por el origen de su nacionalidad. Todos merecen ser tratados con respeto y dignidad, independientemente de su procedencia. Acoger y ayudar a aquellos que vienen en búsqueda de una vida mejor es un acto de humanidad y solidaridad. No hay motivo para excluir a nadie de la sociedad solo por su nacionalidad. Juntos podemos construir una sociedad más inclusiva y comprensiva."
+        "comparison_text": "Este mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste mensaje parece ser una expresión de miedo y preocupación por la presencia de personas de ascendencia africana en el Perú."
     }
 }

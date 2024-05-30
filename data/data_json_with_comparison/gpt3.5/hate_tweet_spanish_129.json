@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "La diversidad es enriquecedora, y en lugar de verla como un caos, deberíamos celebrarla y aprender de ella. Nuestra realidad es multicultural y debemos aprender a convivir con respeto y tolerancia.",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que algo se pudiera en el perú. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que algo se pudiera en el perú. "
+        "comparison_text": "Este tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a una conclusiónde que \\\"algo se ha put",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste tweet es subjetivo y no proporciona suficientes datos o evidencia para llegar a una conclusiónde que \\\"algo se ha put"
     }
 }

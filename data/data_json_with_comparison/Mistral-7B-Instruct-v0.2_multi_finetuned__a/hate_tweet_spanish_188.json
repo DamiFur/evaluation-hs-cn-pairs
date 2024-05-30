@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\ndespertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed\n\nSe responde lo siguiente:\n\n¿Qué tiene que ver esto con inmigrantes ilegales?",
+        "number": "188",
+        "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
+        "cn": "¿Qué tiene que ver esto con inmigrantes ilegales?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__a",
+        "comparison_text": "No, no parecerá ninguna cosa, porque no es cierto. En realidad no ocurrió nada de lo que hablas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo, no parecerá ninguna cosa, porque no es cierto. En realidad no ocurrió nada de lo que hablas."
+    }
+}

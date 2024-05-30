@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\n\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"\n\nSe responde lo siguiente:\n\nNo es cierto que todos los inmigrantes sean violentos, ni tampoco que todos los violentos sean inmigrantes.",
+        "number": "194",
+        "hs": "\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \"\"no tienen dinero\"\" \"\"porque van en busca de una vida mejor\"\" y ademas ilegal https://t co/j2o2kr0ti2\"",
+        "cn": "No es cierto que todos los inmigrantes sean violentos, ni tampoco que todos los violentos sean inmigrantes.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text": "It's important to remember that generalizations and stereotypes are harmful and inaccurate.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_all",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nIt's important to remember that generalizations and stereotypes are harmful and inaccurate."
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": " Absolutamente no.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "El artículo no menciona ninguna correlacion entre el \\\"brutismo\\\" de las regiones caribea y subsahariana, así que es improbable que",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl artículo no menciona ninguna correlacion entre el \\\"brutismo\\\" de las regiones caribea y subsahariana, así que es improbable que"
+        "comparison_text": "No es cierto que el calor reduzca la capacidad cognitiva, y menos que haga que los subsaharianos o caribeños sean brutos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el calor reduzca la capacidad cognitiva, y menos que haga que los subsaharianos o caribeños sean brutos."
     }
 }

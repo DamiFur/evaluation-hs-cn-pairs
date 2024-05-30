@@ -5,8 +5,8 @@
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "No es cierto que los manteros hosten a seoras y peguen a turistas. ",
         "model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text": "@user https://t co/l4",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user https://t co/l4"
+        "comparison_text": "No es cierto que un inmigrante con papeles fue muerto por inmigrantes sin papels al defender a una mujer hostigada. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que un inmigrante con papeles fue muerto por inmigrantes sin papels al defender a una mujer hostigada. "
     }
 }

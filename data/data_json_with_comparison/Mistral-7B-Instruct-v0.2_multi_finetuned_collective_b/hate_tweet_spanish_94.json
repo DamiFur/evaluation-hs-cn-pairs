@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nhashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país\n\nSe responde lo siguiente:\n\nNo es cierto que los manteros agredan a los turistas y a la policía.",
+        "number": "94",
+        "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
+        "cn": "No es cierto que los manteros agredan a los turistas y a la policía.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text": "No entiendo por qué tienes que elegir entre ayudar o no ayudar. No tienen que ser mutuamente excluyentes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_premises_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo por qué tienes que elegir entre ayudar o no ayudar. No tienen que ser mutuamente excluyentes."
+    }
+}

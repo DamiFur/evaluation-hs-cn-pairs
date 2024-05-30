@@ -5,8 +5,8 @@
         "hs": "¿esto podría explicar el brutismo caribeño y el subsahariano ? ¿habrá correlación? extreme heat linked with reduced cognitive performance among young adults in non-air-conditioned buildings : https://t co/hrcb6n7jhq",
         "cn": "No es cierto que eso puede explicar el brutismo caribeo y el subsahariano. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No es cierto que eso puede explicar el brutismo caribeo y el subsahariano. Por qué? ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que eso puede explicar el brutismo caribeo y el subsahariano. Por qué? "
+        "comparison_text": "La capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa capacidad cognitiva de una persona no está determinada por su origen geográfico o étnico. Estereotipar a los caribeños y subsaharianos como brutos es un acto de racismo intolerable. Debemos rechazar cualquier forma de discriminación y celebrar la diversidad cultural en lugar de promover el odio."
     }
 }

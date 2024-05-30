@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "Este comentarios es altamente ofensivo y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Este comentário é ofensivo, racista e insensato.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentário é ofensivo, racista e insensato."
+        "comparison_text": "No entiendo a que te refieres con \"los lindos negros visitantes\"... ¿Te refieres a los inmigrantes? ¿Por qué los calificas de \"lindos\"?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo entiendo a que te refieres con \"los lindos negros visitantes\"... ¿Te refieres a los inmigrantes? ¿Por qué los calificas de \"lindos\"?"
     }
 }

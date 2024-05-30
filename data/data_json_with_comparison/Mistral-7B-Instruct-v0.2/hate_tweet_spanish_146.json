@@ -5,8 +5,8 @@
         "hs": "el pueblo exige mas atencion en cuanto al sistema alimentario y contra la especulacion de precios impuesto por los chinos turcos arabes y colombianos defendamos lo nuestro hagamos patria @user @user @user @user @user @user https://t co/26zwsii2vz",
         "cn": " Es importante recordar que la solidaridad interna y resolver problemas económicos locales no se resuelven mediante la creación de divisiones basadas en etnic",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "El sistema de distribución de productos agrícolas es complejo y no se puede atribuir a un solo grupo de personas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl sistema de distribución de productos agrícolas es complejo y no se puede atribuir a un solo grupo de personas."
+        "comparison_text": "No es cierto que el pueblo exige más atención en el sistema alimentario y contra el especulación de precios impuesto por los chinos turcos, esos colombianos. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el pueblo exige más atención en el sistema alimentario y contra el especulación de precios impuesto por los chinos turcos, esos colombianos. "
     }
 }

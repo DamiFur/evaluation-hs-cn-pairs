@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Por qué es el caos organizado surrealista subsahariano? ",
         "model": "flan-t5-base_finetuned_noarg_a",
-        "comparison_text": "No es cierto que algo se puede en el país es un caos organizado surrealista. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que algo se puede en el país es un caos organizado surrealista. "
+        "comparison_text": "Creo que estás exagerando. No veo ningún problema con los subsaharianos.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nCreo que estás exagerando. No veo ningún problema con los subsaharianos."
     }
 }

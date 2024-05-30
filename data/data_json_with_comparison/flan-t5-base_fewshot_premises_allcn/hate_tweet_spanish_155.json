@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "3 moro mierdas que han abusado en ciencia de una niña",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "Pues quizás porque no es relevante realmente.",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPues quizás porque no es relevante realmente."
+        "comparison_text": "El uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl uso de palabras pejorativas como \\\"moros\\\" y \\\"muerdas\\\" es ofensivo y discriminatorio."
     }
 }

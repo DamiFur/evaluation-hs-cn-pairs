@@ -5,8 +5,8 @@
         "hs": "los subsaharianos conocedores de que nuestro sistema de pensiones está en riesgo se organizan para asaltar nuestra frontera y hacerse cargo de nuestras jubilaciones no temáis sólo vienen con el ánimo de hacer viables nuestros servicios sociales https://t co/xlb1dhgd9w",
         "cn": "Es injusto asignar esa acción negativa a toda una comunidad basada en su origen étnico.",
         "model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text": "The subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable.",
-        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nThe subsaharianos who know that our pension system is in danger of being organised to attack our frontiers and to carry out our jubilees are not only coming with the aim of making our social services viable."
+        "comparison_text": "Colectivo: subsaharianos |",
+        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nColectivo: subsaharianos |"
     }
 }

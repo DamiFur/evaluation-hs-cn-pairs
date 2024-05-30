@@ -6,7 +6,7 @@
         "cn": "Este punto de vista es racista y discriminatorio.",
         "model": "Mistral-7B-Instruct-v0.1_all",
         "comparison_text": "the inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
         "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nthe inmigration of africa and árebes countries is a strategy to enter Europe and atacar it from within as many millennia hicieron barbaros to destroy the roman empire el islan ataca a europa lacsa in laws and desunida marina lepen tiene ninguna razón nada de inmigrante"
     }
 }

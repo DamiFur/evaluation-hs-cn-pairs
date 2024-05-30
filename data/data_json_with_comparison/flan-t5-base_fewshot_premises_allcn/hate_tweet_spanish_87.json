@@ -5,8 +5,8 @@
         "hs": "\\\"comentario escatológico: si no hay papal del culo deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos https://t co/mpuxy1wxnm\\\"",
         "cn": "\\\"comentario escatológico: si no hay papal del que deben abstenerse de acercarse a la valla de melilla al menos hasta que los \\\"\\\"lindos negritos visitantes\\\"\\\" estén estreñidos",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "No tienes el derecho a decidir quién puede estar en donde...",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo tienes el derecho a decidir quién puede estar en donde..."
+        "comparison_text": "Este comentarios es altamente ofensivo y discriminatorio.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentarios es altamente ofensivo y discriminatorio."
     }
 }

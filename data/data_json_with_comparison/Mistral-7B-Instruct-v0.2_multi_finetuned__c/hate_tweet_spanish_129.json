@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nalgo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v\n\nSe responde lo siguiente:\n\nNo creo que la realidad sea subsahariana, pero sí creo que el caos puede existir en cualquier parte del mundo, no es exclusivo de ninguna cultura en particular.",
+        "number": "129",
+        "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
+        "cn": "No creo que la realidad sea subsahariana, pero sí creo que el caos puede existir en cualquier parte del mundo, no es exclusivo de ninguna cultura en particular.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text": "Este comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es inapropiado y no se debe utilizar para expresar opiniones de manera discriminatoria o racista."
+    }
+}

@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "No es cierto que la nacionalidad de los 3 abusos de niña tiene nada que descubrir. ",
         "model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text": "3 moro mierdas que han abusado en ciencia de una niña",
-        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n3 moro mierdas que han abusado en ciencia de una niña"
+        "comparison_text": "@user obviamente @user no iba a desear la nacionalidad de los 3 moro pedidos que han abusado en términa de una niña =>",
+        "comparison_model": "flan-t5-base_fewshot_noarg_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user obviamente @user no iba a desear la nacionalidad de los 3 moro pedidos que han abusado en términa de una niña =>"
     }
 }

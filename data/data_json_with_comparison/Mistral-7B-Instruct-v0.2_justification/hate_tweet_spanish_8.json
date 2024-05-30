@@ -5,8 +5,8 @@
         "hs": "estoy flipando le estaba diciendo a este chico que mi padre pegaba e insultaba a mi madre que tiene dos denuncias por violencia de género y órdenes de alejamiento y se puso a decirme que él jamás pensaría que la mujer tiene razón que si eso me pasó a mí es porque soy árabe https://t co/jerlbuzynk",
         "cn": " It's important to remember that everyone deserves respect and understanding, regardless of their background or experiences.",
         "model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text": "No es cierto que el nio tiene ningn razón, y eso no es lo que es realmente. ",
-        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que el nio tiene ningn razón, y eso no es lo que es realmente. "
+        "comparison_text": "No todos los árabes son violadores ni maltratadores de mujeres, ni todos los musulmanes son terroristas. No todos los hombres maltratan a las mujeres y no todas las mujeres son víctimas de violencia de genero. No todas las denuncias son reales y no todos los casos de violencia tienen que ver con el origen étnico de las personas involucradas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo todos los árabes son violadores ni maltratadores de mujeres, ni todos los musulmanes son terroristas. No todos los hombres maltratan a las mujeres y no todas las mujeres son víctimas de violencia de genero. No todas las denuncias son reales y no todos los casos de violencia tienen que ver con el origen étnico de las personas involucradas."
     }
 }

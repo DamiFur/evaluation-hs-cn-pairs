@@ -5,8 +5,8 @@
         "hs": "\\\" mientras los manteros atacan a turistas y hay reyertas en el raval ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\" pues que se quede allí indefinidamente \\\"",
         "cn": "ada colau ha visitado el pueblo italiano de riace repoblado dando casas a inmigrantes y refugiados un \\\"\\\"ejemplo de acogida integración y lucha contra la xenofobia\\\"\\\"",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "La solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen.",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa solidaridad y la acogida son valores fundamentales para la humanidad. No es justo ni ético pretender que alguien se quede indefinidamente en un lugar solo por brindar ayuda a quienes lo necesitan. Debemos trabajar juntos para construir una sociedad inclusiva y respetuosa con todas las personas, independientemente de su origen."
+        "comparison_text": "La situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa situación en Riace es compleja y no se puede reducir a una sola acción, pero el hecho de que el alcalde visitó el lugar y se comprom"
     }
 }

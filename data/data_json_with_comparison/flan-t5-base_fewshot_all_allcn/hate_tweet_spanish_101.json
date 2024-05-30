@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "agresión mantero sbcnpdv Soy partidario de ayudar a la gente sin papeles pero están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin Papeles manero a su país. No hay que deportar a nadie.",
         "model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text": "Es importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales",
-        "comparison_model": "gpt3.5_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs importante recordar que la nacionalidad no define la humanidad de una persona. Todos merecen respeto y dignidad, independientemente de su nacionalidad. La solidaridad y empatía son valores universales que debemos practicar en la sociedad. ¡No al racismo ni a la xenofobia! #TodosSomosIguales"
+        "comparison_text": "Gloria, como española, tienes derecho a expresar tu opinión libremente.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nGloria, como española, tienes derecho a expresar tu opinión libremente."
     }
 }

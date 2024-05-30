@@ -5,8 +5,8 @@
         "hs": "que nacionalidad o etnia crees que se adapta mejor a la vida occidental europea (tema derechos y libertades mujer lgtb convi pf mejor chinos porque yo creo que ya estamos muy acostumbrades y idk peor los árabes yo https://t co/ycmdcfwxcg",
         "cn": "nationality or etnia believes that it is best to adapt to western European life (have rights and liberties women lgtb convi pf best chinos because I think we are already very acostumbrados and idk worse arabes yo https://t co/ycmdcfwxcg | Justifica",
         "model": "flan-t5-base_fewshot_premises_allcn",
-        "comparison_text": "No creo que haya diferencia alguna, realmente...",
-        "comparison_model": "human_annotated",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo creo que haya diferencia alguna, realmente..."
+        "comparison_text": "La adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,",
+        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa adaptación de una persona a una cultura extranjera depende de muchos factores, incluyendo su experiencia de vida, su educación, sus valores y creencias,"
     }
 }

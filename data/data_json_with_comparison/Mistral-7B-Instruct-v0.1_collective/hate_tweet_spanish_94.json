@@ -5,8 +5,8 @@
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "¿Cómo puedes decir que estas personas no tienen documentos de identidad y que lo único que necesitan es que se mantegan en Perú? Eso",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "El grupo que mencionas, Manteros, está lidiando con la irregularidad migratoria. No es justo generalizar que estos individuos quieren ag",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEl grupo que mencionas, Manteros, está lidiando con la irregularidad migratoria. No es justo generalizar que estos individuos quieren ag"
+        "comparison_text": "Porque crees que los manteros agreden a los turistas y a la policía? No creo que sea así.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPorque crees que los manteros agreden a los turistas y a la policía? No creo que sea así."
     }
 }

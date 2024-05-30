@@ -5,8 +5,8 @@
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "No es cierto que los negratas roben todo el país. ",
         "model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text": "Noos estos putos negratas noos van a robar toda la pasta iaqui menos mal que yo tiene en Panama",
-        "comparison_model": "flan-t5-base_fewshot_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNoos estos putos negratas noos van a robar toda la pasta iaqui menos mal que yo tiene en Panama"
+        "comparison_text": "No es cierto que los negratas noos van a robar toda la pasta iaqui. ",
+        "comparison_model": "flan-t5-base_finetuned_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los negratas noos van a robar toda la pasta iaqui. "
     }
 }

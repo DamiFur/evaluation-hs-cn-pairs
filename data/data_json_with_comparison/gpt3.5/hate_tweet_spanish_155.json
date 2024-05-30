@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "No hay excusa para usar lenguaje xenófobo y racista. Todos los seres humanos merecen respeto, independientemente de su nacionalidad.",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que los nios han abusado en el lugar de la nacionalidad. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los nios han abusado en el lugar de la nacionalidad. "
+        "comparison_text": "Este comentario es ofensivo y carece de contexto.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEste comentario es ofensivo y carece de contexto."
     }
 }

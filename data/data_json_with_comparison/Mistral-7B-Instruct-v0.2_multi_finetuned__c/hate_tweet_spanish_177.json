@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\nasiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7\n\nSe responde lo siguiente:\n\nNo creo que sea cierto que los asiáticos hoy tengan una estructura mejor que los chilenos.",
+        "number": "177",
+        "hs": "asiaticos devastados por la guerra hoy tienen mejor estructura que chilito cosas sudacas https://t co/m1lhr1blg7",
+        "cn": "No creo que sea cierto que los asiáticos hoy tengan una estructura mejor que los chilenos.",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text": "La comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar.",
+        "comparison_model": "Mistral-7B-Instruct-v0.1",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa comparación de una situación en el pasado con otra en la actualidad es imprecisa y se debe evitar."
+    }
+}

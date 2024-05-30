@@ -5,8 +5,8 @@
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "Por qué eso no es cierto? No es lo que tiene en panama. ",
         "model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text": " Es inapropiado y ofensivo utilizar términos racistas.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n Es inapropiado y ofensivo utilizar términos racistas."
+        "comparison_text": "La xenofobia y el racismo son intolerables. No hay justificación para el uso de lenguaje despectivo hacia ninguna comunidad. Todos merecen respeto y dignidad sin importar su origen o color de piel.",
+        "comparison_model": "gpt3.5",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa xenofobia y el racismo son intolerables. No hay justificación para el uso de lenguaje despectivo hacia ninguna comunidad. Todos merecen respeto y dignidad sin importar su origen o color de piel."
     }
 }

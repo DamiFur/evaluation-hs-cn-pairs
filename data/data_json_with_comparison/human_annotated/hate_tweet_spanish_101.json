@@ -5,8 +5,8 @@
         "hs": "como son españoles nada sin fueran refugiados gloria hashtag migrates hashtag refugiados hashtag españaloprimero https://t co/jkc8iys32c",
         "cn": "No es cierto. Se puede atender a unos sin descuidar a otros.",
         "model": "human_annotated",
-        "comparison_text": "Tu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nTu mensaje no tiene sentido. ¿Qué quieres decir con \\\"migrates\\\" y \\\"español primero\\\"? ¿Tienes alguna intención"
+        "comparison_text": "La herencia étnica no justifica generalizaciones negativas.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLa herencia étnica no justifica generalizaciones negativas."
     }
 }

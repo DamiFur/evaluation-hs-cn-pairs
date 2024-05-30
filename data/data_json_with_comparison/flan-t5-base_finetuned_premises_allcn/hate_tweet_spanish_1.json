@@ -5,8 +5,8 @@
         "hs": "a ver quién paga la factura y cómo se reparten el marrón de dejar inmigrantes ilegales sueltos por sus ciudades (y que los votantes no de lo hagan paga r dentro de un año) https://t co/cehrdjssdu",
         "cn": "No creo que es cierto que los votantes no han pagado el marrón de dejar inmigrantes ilegales. ",
         "model": "flan-t5-base_finetuned_premises_allcn",
-        "comparison_text": "No es cierto que los inmigrantes ilegales sueltan por su ciudades, y eso no es lo que te preocupa. ",
-        "comparison_model": "flan-t5-base_finetuned_collective_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los inmigrantes ilegales sueltan por su ciudades, y eso no es lo que te preocupa. "
+        "comparison_text": "Los inmigrantes ilegales también son seres humanos que merecen respeto y dignidad. No se trata de un problema de \\\"marrón\\\" que repartir, sino de encontrar soluciones justas y humanitarias para garantizar su bienestar y su integración en la sociedad. La xenofobia y la discriminación no son la respuesta.",
+        "comparison_model": "gpt3.5_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nLos inmigrantes ilegales también son seres humanos que merecen respeto y dignidad. No se trata de un problema de \\\"marrón\\\" que repartir, sino de encontrar soluciones justas y humanitarias para garantizar su bienestar y su integración en la sociedad. La xenofobia y la discriminación no son la respuesta."
     }
 }

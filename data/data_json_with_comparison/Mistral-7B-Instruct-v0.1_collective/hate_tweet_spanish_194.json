@@ -5,8 +5,8 @@
         "hs": "\\\" nosotros no son mas los sudacas y centroamirdicanos y lo peor es que pasan por mi país violentando gente porque \\\"\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegal https://t co/j2o2kr0ti2\\\"",
         "cn": "Es incorrecto afirmar que todos los sudaquéses o centroamericanos son violentos, es solo una generalización.",
         "model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text": "Es injusto calificar a todos los personas de Sudamérica o Centroaméricanos como violenteros o delincuentes. La mayoría de ellos buscan solo una",
-        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto calificar a todos los personas de Sudamérica o Centroaméricanos como violenteros o delincuentes. La mayoría de ellos buscan solo una"
+        "comparison_text": "\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n\\\"no tienen dinero\\\"\\\" \\\"\\\"porque van en busca de una vida mejor\\\"\\\" y ademas ilegalas"
     }
 }

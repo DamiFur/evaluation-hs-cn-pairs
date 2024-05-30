@@ -5,8 +5,8 @@
         "hs": "80 000 menores han entrado en españa solos desde marruecos luego llegará la reunificación familiar padres hermanos primos abuelos etc ¿para que los envía marruecos ? ¿alguien pide explicaciones a las autoridades marroquís? ¿son inmigrantes o enviados para invadir españa ? https://t co/ii7nkh5xii",
         "cn": "No es justo asignar intenciones maliciosas a una situación que puede tener múltiples causas.",
         "model": "Mistral-7B-Instruct-v0.2_all",
-        "comparison_text": "No es justo asociar la llegada masiva de menors a España desde MarrUEcos con una intención maliciosa o invasiva.",
-        "comparison_model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es justo asociar la llegada masiva de menors a España desde MarrUEcos con una intención maliciosa o invasiva."
+        "comparison_text": "Ni todos los inmigrantes son invasores, ni todos los invasores son inmigrantes.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_all_",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNi todos los inmigrantes son invasores, ni todos los invasores son inmigrantes."
     }
 }

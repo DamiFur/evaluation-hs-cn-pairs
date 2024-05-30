@@ -5,8 +5,8 @@
         "hs": "algo se pudre en el perú es el caos organizado surrealista subsahariano nuestra realidad https://t co/3hms5jyx7v",
         "cn": "Estas exagerando. Que algunas personas no te caigan bien no significa que el país se este \\\"pudriendo\\\".",
         "model": "human_annotated",
-        "comparison_text": "¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_collective",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Podrías darme más detalles sobre lo que te parece que se está pidiendo en tu mensaje? Es importante entender el contexto para poder responder de manera"
+        "comparison_text": "Es injusto generalizar que todo lo relacionado con el Subsáhara tiene que ver con caós. El Perú, como todos los países, tiene su propio",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_collective",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nEs injusto generalizar que todo lo relacionado con el Subsáhara tiene que ver con caós. El Perú, como todos los países, tiene su propio"
     }
 }

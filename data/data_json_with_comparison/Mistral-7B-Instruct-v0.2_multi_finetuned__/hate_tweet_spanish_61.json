@@ -1,0 +1,12 @@
+{
+    "data": {
+        "text": "Lea atentamente el siguiente intercambio de tweets:\n\nDado el siguiente discurso de odio:\n\natención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn\n\nSe responde lo siguiente:\n\n¿Tienes alguna fuente confiable de donde sacar esa información?",
+        "number": "61",
+        "hs": "atención la inteligencia norteamericana advierte de una invasión inminente de 100 000 subsaharianos hashtag defiendeespaña elecciones ya hashtag españa hashtag eleccionesgeneralesya https://t co/m1agsv4qzn",
+        "cn": "¿Tienes alguna fuente confiable de donde sacar esa información?",
+        "model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text": "<extra_id_48> La invasión inmediata de los subsaharianos es inminente, es cierto, y eso es una elección generalesya, y no tiene nada que enfrentarse en el mundo. No es necesario que esas elecciones sean invasios, y que no tienen nada que invasirse.",
+        "comparison_model": "flan-t5-base_finetuned_noarg_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n<extra_id_48> La invasión inmediata de los subsaharianos es inminente, es cierto, y eso es una elección generalesya, y no tiene nada que enfrentarse en el mundo. No es necesario que esas elecciones sean invasios, y que no tienen nada que invasirse."
+    }
+}

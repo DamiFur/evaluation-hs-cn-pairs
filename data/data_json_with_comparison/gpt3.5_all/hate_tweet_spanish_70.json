@@ -5,8 +5,8 @@
         "hs": "estos putos negratas noos van a robar toda la pasta iñaqui menos mal que yo la tengo en panamá https://t co/i3qgjse5hh",
         "cn": "No se puede generalizar a toda una comunidad por el color de piel de algunas personas. Todos merecen respeto y oportunidades iguales, independientemente de su origen étnico. Además, evadir impuestos es ilegal y perjudica a toda la sociedad en su conjunto. Todos debemos colaborar para construir un mundo más inclusivo y justo.",
         "model": "gpt3.5_all",
-        "comparison_text": "Por qué eso no es cierto? No es lo que tiene en panama. ",
-        "comparison_model": "flan-t5-base_finetuned_noarg_c",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso no es cierto? No es lo que tiene en panama. "
+        "comparison_text": "¿Y qué tiene de malo que tengas pasta en Panamá?",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned__",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n¿Y qué tiene de malo que tengas pasta en Panamá?"
     }
 }

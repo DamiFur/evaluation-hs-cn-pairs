@@ -5,8 +5,8 @@
         "hs": "llegan 900 venezolanos por día al perú cuantos más tendrán que venir para que ya se ponga coto y fin a esta invasión ? qué ya no es una inmigración a las autoridades peruanas no les da ni la tos por este tema solo reaccionarán cuando esto se desborde",
         "cn": "Cada persona que llega buscando una vida mejor merece respeto y oportunidades, sin importar su nacionalidad. La solidaridad y la cooperación son la clave para construir una sociedad inclusiva y acogedora. El racismo y la xenofobia solo generan división y perpetúan el odio. Es importante abogar por políticas de inmigración justas y equitativas que protejan los derechos de todos los individuos sin importar su origen.",
         "model": "gpt3.5",
-        "comparison_text": "No es cierto que los venezolanos sean inmigrantes, y eso no significa que los inmigrantes no les da ni todos. ",
-        "comparison_model": "flan-t5-base_finetuned_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es cierto que los venezolanos sean inmigrantes, y eso no significa que los inmigrantes no les da ni todos. "
+        "comparison_text": " El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que requiera un \\\"coto\\\" o \\\"fin\\\".",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_justification",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n El número de venezelanos que llegaban al Perú diariamente no justifica considerarlo una \\\"invasión\\\" que requiera un \\\"coto\\\" o \\\"fin\\\"."
     }
 }

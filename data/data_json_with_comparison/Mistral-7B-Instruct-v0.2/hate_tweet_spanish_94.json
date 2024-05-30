@@ -5,8 +5,8 @@
         "hs": "hashtag agresión mantero sbcnpdv soy partidario de ayudar a la gente sin papeles pero se están aprovechando de nuestra solidaridad lo que faltaba por ver agredir a turistas y policias la única manera que nos obligan hacer es mantero sin papeles mantero a su país",
         "cn": "Mis palabras: No apoyo la violencia o el abuso de la hospitalidad extendida.",
         "model": "Mistral-7B-Instruct-v0.2",
-        "comparison_text": "No es correcto afirmar que los refugiados son solo quienes se abusan de la solidad del pueblo.",
-        "comparison_model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo es correcto afirmar que los refugiados son solo quienes se abusan de la solidad del pueblo."
+        "comparison_text": "Por qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. ",
+        "comparison_model": "flan-t5-base_finetuned_noarg_c",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nPor qué eso es cierto? No es realmente cierto que te ayuda a los turistas y polticos. "
     }
 }

@@ -5,8 +5,8 @@
         "hs": "despertó la alcaldesa de la ciudad en la que un inmigrante con papeles casi fue muerto por inmigrantes sin papeles al defender a una mujer hostigada por éstos ¿no tendrá nada que decir? ¿le parecerá bien que los manteros hostiguen a señoras y peguen a turistas ? @user https://t co/l4vpcebmed",
         "cn": "<extra_id_69> Y eso no es cierto que los inmigrantes sin papeles han sido muertos por una mujer hostida por éstos. No hay nada que decir que los turistas tienen que defenderse a las mujeres. Eso es lo que tiene que decir.",
         "model": "flan-t5-base_finetuned_noarg_b",
-        "comparison_text": "No podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!",
-        "comparison_model": "gpt3.5",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nNo podemos generalizar a todos los inmigrantes por el comportamiento de unos pocos. La alcaldesa debería condenar cualquier acto de violencia, ya sea cometido por inmigrantes o por ciudadanos locales. La violencia y el acoso no tienen lugar en nuestra sociedad, independientemente de la nacionalidad de quienes la ejerzan. ¡Debemos trabajar juntos para construir un mundo más tolerante y pacífico para todos!"
+        "comparison_text": "A veces los inmigrantes son hostigados y maltratados por la sociedad y los medios de comunicación, eso no significa que vayan a maltratar a alguien.",
+        "comparison_model": "Mistral-7B-Instruct-v0.2_multi_finetuned_collective_b",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\nA veces los inmigrantes son hostigados y maltratados por la sociedad y los medios de comunicación, eso no significa que vayan a maltratar a alguien."
     }
 }

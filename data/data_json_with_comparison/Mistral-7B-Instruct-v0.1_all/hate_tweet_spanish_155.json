@@ -5,8 +5,8 @@
         "hs": "obviamente @user no iba a desvelar la nacionalidad de los 3 moro mierdas que han abusado en tudela de una niña",
         "cn": "No sabes lo que estás hablando, pero es importante recordar que la raza no tiene nada que ver con el comportamiento malvado de alguien.",
         "model": "Mistral-7B-Instruct-v0.1_all",
-        "comparison_text": "@user no iba a desechar la nacionalidad de los 3 moro errados que han abusado en ciencia de una niña",
-        "comparison_model": "flan-t5-base_fewshot_all_allcn",
-        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n@user no iba a desechar la nacionalidad de los 3 moro errados que han abusado en ciencia de una niña"
+        "comparison_text": "3 moro mierdas que han abusado en ciencia de una niña",
+        "comparison_model": "flan-t5-base_fewshot_premises_allcn",
+        "comparison_text_complete": "Evalue la siguiente respuesta alternativa al mismo mensaje de odio:\n\n3 moro mierdas que han abusado en ciencia de una niña"
     }
 }

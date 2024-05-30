@@ -3,6 +3,7 @@ from glob import glob
 import requests
 import json
 import shutil
+import random
 
 ENDPOINT = "http://localhost:8080/"
 ACCESS_TOKEN = "65aa5ec1f1d822b1fecada16c311d59e21b5250a"
@@ -117,12 +118,13 @@ TEMPLATE = """<View>
 } -->
 """
 
+
 filenames= []
 for folders in glob('data/data_json_with_comparison/*'):
     for filename in glob(folders + '/*.json'):
         filenames.append(filename)
 
-filenames = sorted(filenames, key=lambda x: x.split('/')[-1])
+filenames = random.Random(42).shuffle(filenames)
 
 os.mkdir("projects")
 current_project = 0
@@ -137,6 +139,7 @@ for i in range(len(filenames)//20):
             for filename in (new_block_1 + new_block_2):
                 os.system('cp ' + filename + ' projects/' + str(current_project) + "/" + filename.replace("/", "-"))
             response = requests.post(ENDPOINT + 'api/projects', headers={'Authorization': f'Token {ACCESS_TOKEN}', 'Content-Type': 'application/json'}, json={"label_config": TEMPLATE, "title": f"Block {current_project}"})
+            print()
             decoded_response = json.loads(response.content.decode('utf-8'))
             project_id = decoded_response["id"]
             for filename in (new_block_1 + new_block_2):

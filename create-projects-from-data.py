@@ -124,7 +124,7 @@ for folders in glob('data/data_json_with_comparison/*'):
     for filename in glob(folders + '/*.json'):
         filenames.append(filename)
 
-filenames = random.Random(42).shuffle(filenames)
+random.Random(42).shuffle(filenames)
 
 os.mkdir("projects")
 current_project = 0
